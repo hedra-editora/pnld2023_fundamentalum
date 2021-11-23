@@ -17,6 +17,7 @@
 
 # LINKS
 
+[Site da BNCC](http://basenacionalcomum.mec.gov.br/a-base)
 [Tabela da BNCC](https://docs.google.com/spreadsheets/d/1PCZ1Kh37ID7WNBp6eMGTjPkSmSNbrhrgbs93upfRuzs/edit?usp=sharing)
 
 # Códigos
