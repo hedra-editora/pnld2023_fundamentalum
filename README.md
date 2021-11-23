@@ -1,3 +1,20 @@
+# Frentes
+
+1. Separar arquivos
+2. Redimensionar
+3. Fazer fichas & ISBN
+4. Contratos com autores
+5. Contratos com parceiros
+6. Paratextos
+
+# Divisão de trabalho de redação
+
+1. Editor de estrutura
+2. Biografias
+3. Iconografia
+4. Atividades
+5. Definições genéricas
+
 # LINKS
 
 [Tabela da BNCC](https://docs.google.com/spreadsheets/d/1PCZ1Kh37ID7WNBp6eMGTjPkSmSNbrhrgbs93upfRuzs/edit?usp=sharing)
