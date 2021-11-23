@@ -4,8 +4,9 @@
 
 # Códigos
 
-| PNLD2023-001 | A bela e a fera e outros contos da carochinha                                              |
+| Código       |                                                                                            |
 |--------------|--------------------------------------------------------------------------------------------|
+| PNLD2023-001 | A bela e a fera e outros contos da carochinha                                              |
 | PNLD2023-002 | A mulher que virou tatu                                                                    |
 | PNLD2023-003 | História de Aladim e a lâmpada maravilhosa                                                 |
 | PNLD2023-004 | Ideias de canário                                                                          |
