@@ -23,37 +23,44 @@
 
 # Códigos
 
-| Código       |                                                                                            |
-|--------------|--------------------------------------------------------------------------------------------|
-| PNLD2023-001 | A bela e a fera e outros contos da carochinha                                              |
-| PNLD2023-002 | A mulher que virou tatu                                                                    |
-| PNLD2023-003 | História de Aladim e a lâmpada maravilhosa                                                 |
-| PNLD2023-004 | Ideias de canário                                                                          |
-| PNLD2023-005 | Lampião... Era o cavalo do tempo atrás da besta da vida                                    |
-| PNLD2023-006 | Micromegas                                                                                 |
-| PNLD2023-007 | Os cantos do homem-sombra                                                                  |
-| PNLD2023-008 | A grande peneira (Ulisses Garcez)                                                          |
-| PNLD2023-009 | Onde moram as coisas (Bruna Martins)                                                       |
-| PNLD2023-010 | Pedrinho Petrificado                                                                       |
-| PNLD2023-011 | Frutabichos                                                                                |
-| PNLD2023-012 | Ninguém e eu                                                                               |
-| PNLD2023-013 | Lampiao, Klévisson Viana                                                                   |
-| PNLD2023-014 | 12 trabalhos de Hércules (Arthur Nestrovski)                                               |
-| PNLD2023-015 | As meninas moravam no chuveiro (Antonio Prata)                                             |
-| PNLD2023-016 | Conversando com Varejeiras (Edward Lear)                                                   |
-| PNLD2023-017 | As aventuras do Barão de Munchausen (Raspe)                                                |
-| PNLD2023-018 | As coisas (Arnaldo Antunes)                                                                |
-| PNLD2023-019 | Cultura (Arnaldo Antunes)                                                                  |
-| PNLD2023-020 | A Arte de olhar diferente (Braulio Tavares. Editora Hedra) [YAF036000]                     |
-| PNLD2023-021 | A Fábrica de robôs (Karel Tchápek. Editora Hedra) [FIC028000]                              |
-| PNLD2023-022 | Cordel: Rouxinol do Rinaré (Rouxinol do Rinaré. Editora Hedra) [POE012000]                 |
-| PNLD2023-023 | O Chamado de Cthulhu (H. P. Lovecraft. Editora Hedra) [FIC015000]                          |
-| PNLD2023-024 | A Semente e a torre (Leonardo da Vinci. Editora Hedra) [JUV007000]                         |
-| PNLD2023-025 | O Sol não espera (Marília Castello Branco. Editora Hedra) [YAF011000]                      |
-| PNLD2023-026 | Ideias de canário (Machado de Assis. Editora Hedra) [YAF002000]                            |
-| PNLD2023-027 | Ciclovia (Ulisses Garcez. Editora Hedra) [YAF010000]                                       |
-| PNLD2023-028 | História de Aladim e a lâmpada maravilhosa (Patativa do Assaré. Editora Hedra) [JUV007000] |
-| PNLD2023-029 | A História do planeta azul (Andri Snaer Magnason. Editora Hedra) [JUV029010]               |
-| PNLD2023-030 | O Cavalo de Ébano (Richard Burton. Editora Hedra) [FIC010000]                              |
-| PNLD2023-031 | Zôo (Fabricio Corsaletti. Editora Hedra) [JUV002000]                                       |
-| PNLD2023-032 | Troca de Pele                                                                              |
+| Código       | Título                                                  | Lote   |
+|--------------|---------------------------------------------------------|--------|
+| PNLD2023-001 | Ninguém e eu                                            | Lote 1 |
+| PNLD2023-002 | Pedrinho petrificado                                    | Lote 1 |
+| PNLD2023-003 | Meu baú de cordéis                                      | Lote 1 |
+| PNLD2023-004 | Artimanhas de Pedro Malazartes                          | Lote 1 |
+| PNLD2023-005 | Viagem ao reino encantado do cordel                     | Lote 1 |
+| PNLD2023-006 | Sobrevoos (Camila Werner)                               | Lote 1 |
+| PNLD2023-007 | O dia em que o mundo parou (Camila Werner)              | Lote 1 |
+| PNLD2023-010 | A mulher que virou tatu                                 | Lote 1 |
+| PNLD2023-013 | A semente e a torre                                     | Lote 1 |
+| PNLD2023-014 | Ideias de canário                                       | Lote 1 |
+| PNLD2023-016 | História de Aladim e a lâmpada maravilhosa              | Lote 1 |
+| PNLD2023-017 | Os cantos do homem-sombra                               | Lote 1 |
+| PNLD2023-018 | Cordel: Rouxinol do Rinaré                              | Lote 1 |
+| PNLD2023-019 | Troca de pele                                           | Lote 1 |
+| PNLD2023-021 | A fábrica de robôs                                      | Lote 1 |
+| PNLD2023-022 | Lampião... Era o cavalo do tempo atrás da besta da vida | Lote 1 |
+| PNLD2023-023 | O sol não espera                                        | Lote 1 |
+| PNLD2023-024 | O cavalo de Ébano                                       | Lote 1 |
+| PNLD2023-025 | Onde moram as coisas                                    | Lote 1 |
+| PNLD2023-026 | Caminhando, eu vou! (Camila Werner)                     | Lote 1 |
+| PNLD2023-027 | Figurinha carimbada (Camila Werner)                     | Lote 1 |
+| PNLD2023-028 | Mr. Phillow é um fantasma!                              | Lote 1 |
+| PNLD2023-029 | Lobato para crianças                                    | Lote 1 |
+| PNLD2023-030 | As aventuras do Barão de Munchausen                     | Lote 1 |
+| PNLD2023-031 | As coisas                                               | Lote 1 |
+| PNLD2023-032 | Conversando com varejeiras                              | Lote 1 |
+| PNLD2023-033 | Cultura                                                 | Lote 1 |
+| PNLD2023-034 | Os doze trabalhos de Hércules                           | Lote 1 |
+| PNLD2023-035 | Esconde esconde                                         | Lote 1 |
+| PNLD2023-036 | O reino do meio da tarde                                | Lote 1 |
+| PNLD2023-037 | O galo Gogó                                             | Lote 1 |
+| 0            | Chiquinha Gonzaga                                       | Lote 2 |
+| 0            | Ernesto Nazareth                                        | Lote 2 |
+| 0            | História da água funda                                  | Lote 2 |
+| 0            | Marcelo Cipis & Iuri (Peirópolis)                       | Lote 2 |
+| 0            | O chamado de Cthulhu                                    | Lote 2 |
+| 0            | Oscar Wilde: O príncipe feliz (Iuri)                    | Lote 2 |
+| 0            | Um conto do Marra                                       | Lote 2 |
+| 0            | Villa-Lobos                                             | Lote 2 |
