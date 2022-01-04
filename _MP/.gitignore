@@ -1,6 +1,7 @@
 \originais
 !PNLD*.pdf
 *.out
+*.xdv
 *.xwm
 *.log
 *.aux
@@ -8,7 +9,6 @@
 *.docx
 *.doc
 *.odt
-*.pdf
 *.idx
 *.ind
 *.ilg
