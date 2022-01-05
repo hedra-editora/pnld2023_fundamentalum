@@ -7,16 +7,17 @@ Revisados
 - [x] PNLD2023-001_Ninguém e eu ✔️
 - [x] PNLD2023-002_Pedrinho petrificado ✔️
 - [x] PNLD2023-003_Meu baú de cordéis ✔️
-- [-] PNLD2023-005_Viagem ao reino encantado do cordel (Aguardando Paulo)
+- [ ] PNLD2023-005_Viagem ao reino encantado do cordel (Aguardando Paulo)
 - [x] PNLD2023-006_Sobrevoos (Camila Werner) ✔️
 - [x] PNLD2023-007_O dia em que o mundo parou (Camila Werner) ✔️
 - [x] PNLD2023-010_A mulher que virou tatu ✔️
 - [ ] PNLD2023-013_A semente e a torre ✔️
 - [ ] PNLD2023-014_Ideias de canário ✔️
-- [ ] PNLD2023-016_História de Aladim e a lâmpada maravilhosa ✔️
+- [ ] ~~PNLD2023-016_História de Aladim e a lâmpada maravilhosa~~ ✔️
 - [ ] PNLD2023-017_Os cantos do homem-sombra ✔️
-- [ ] PNLD2023-019_Troca de pele ✔️
+- [ ] ~~PNLD2023-019_Troca de pele~~ ✔️
 - [ ] PNLD2023-021_A fábrica de robôs ✔️
+------------------------------------------------------------
 - [ ] PNLD2023-022_Lampião... Era o cavalo do tempo atrás da besta da vida ✔️
 - [ ] PNLD2023-025_Onde moram as coisas ✔️
 - [ ] PNLD2023-026_Caminhando, eu vou! (Flávia Savary) ✔️
