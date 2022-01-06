@@ -19,22 +19,22 @@ Revisados
 - [ ] PNLD2023-021_A fábrica de robôs ✔️
 ------------------------------------------------------------
 - [ ] PNLD2023-022_Lampião... Era o cavalo do tempo atrás da besta da vida ✔️
-- [ ] PNLD2023-025_Onde moram as coisas ✔️
-- [ ] PNLD2023-026_Caminhando, eu vou! (Flávia Savary) ✔️
-- [ ] PNLD2023-027_Figurinha carimbada (Camila Werner) ✔️
-- [ ] PNLD2023-028_Mr. Phillow é um fantasma! ✔️
-- [ ] PNLD2023-030_As aventuras do barão de Munchausen ✔️
-- [ ] PNLD2023-031_As coisas ✔️
-- [ ] PNLD2023-032_Conversando com varejeiras azuis ✔️
-- [ ] PNLD2023-033_Cultura ✔️
-- [ ] PNLD2023-034_Os doze trabalhos de Hércules ✔️
-- [ ] PNLD2023-035_Esconde-esconde ✔️
+- [x] PNLD2023-025_Onde moram as coisas ✔️
+- [x] PNLD2023-026_Caminhando, eu vou! (Flávia Savary) ✔️
+- [x] PNLD2023-027_Figurinha carimbada (Camila Werner) ✔️
+- [x] PNLD2023-028_Mr. Phillow é um fantasma! ✔️
+- [x] PNLD2023-030_As aventuras do barão de Munchausen ✔️
+- [x] PNLD2023-031_As coisas ✔️
+- [x] PNLD2023-032_Conversando com varejeiras azuis ✔️
+- [x] PNLD2023-033_Cultura ✔️
+- [x] PNLD2023-034_Os doze trabalhos de Hércules ✔️
+- [x] PNLD2023-035_Esconde-esconde ✔️
 ------------------------------------------------------------
 - [ ] PNLD2023-004_Artimanhas de Pedro Malazartes
-- [ ] PNLD2023-024_O cavalo de ébano
-- [ ] PNLD2023-029_O plano da Emília e outros textos
-- [ ] PNLD2023-036_O reino do meio da tarde
-- [ ] PNLD2023-037_O galo Gogó
+- [x] PNLD2023-024_O cavalo de ébano
+- [x] PNLD2023-029_O plano da Emília e outros textos
+- [x] PNLD2023-036_O reino do meio da tarde
+- [x] PNLD2023-037_O galo Gogó
 - [ ] PNLD2023-038_O reizinho que só falava sim
 
 ```tex
