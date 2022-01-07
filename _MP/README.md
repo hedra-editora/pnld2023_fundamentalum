@@ -22,8 +22,7 @@ PNLD2023-033_Cultura
 - [ ] NÃO FAZER ~~PNLD2023-016_História de Aladim e a lâmpada maravilhosa~~ ✔️
 - [ ] PNLD2023-017_Os cantos do homem-sombra ✔️ (Gabriela)
 - [ ] NÃO FAZER ~~PNLD2023-019_Troca de pele~~ ✔️
-- [ ] PNLD2023-021_A fábrica de robôs ✔️
-------------------------------------------------------------------------
+- [ ] PNLD2023-021_A fábrica de robôs ✔️ (Gabriela)
 - [ ] PNLD2023-022_Lampião... Era o cavalo do tempo atrás da besta da vida ✔️
 - [x] PNLD2023-025_Onde moram as coisas ✔️
 - [x] PNLD2023-026_Caminhando, eu vou! (Flávia Savary) ✔️
