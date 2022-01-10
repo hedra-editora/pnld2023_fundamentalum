@@ -61,7 +61,7 @@ e daí aplicá-la sobre o papel, como se fosse um grande carimbo.
 O cordel não tem nem um limite nem uma receita
 pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
 sente-se à vontade para falar de qualquer assunto, e dar opinião 
-sobre o mundo do nosso tempo. Como diz Clévisson Viana:
+sobre o mundo do nosso tempo. 
 
 
 
@@ -577,8 +577,7 @@ e daí aplicá-la sobre o papel, como se fosse um grande carimbo.
 O cordel não tem nem um limite nem uma receita
 pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
 sente-se à vontade para falar de qualquer assunto, e dar opinião 
-sobre o mundo do nosso tempo. Como diz Clévisson Viana:
-
+sobre o mundo do nosso tempo. 
 
 006 ✅
 ===
@@ -978,7 +977,7 @@ que te prende, porque tem uma história envolvente e um final surpreendente.
 
 
 
-016 
+016 ✅
 ===
 
 Sobre o livro
@@ -989,7 +988,7 @@ riqueza dessa cidade. Aladim, filho travesso e preguiçoso de uma viúva,
 decide trabalhar para ajudar a mãe. Enquanto busca por trabalho, chega à
 cidade o "Feiticeiro Africano", personagem misterioso que está à procura
 da lâmpada mágica escondida em uma gruta. No entanto, somente uma pessoa
-que não conhece a lâmpada pode pegá-la, e então o Feiticeiro persuade
+que não conhece a lâmpada pode pegá-la, e então o Feiticeiro convence
 Aladim a lhe ajudar, prometendo-lhe riquezas e felicidade.
 
 A gruta está localizada em um vale no deserto, entre dois morros, na
@@ -1012,12 +1011,12 @@ sultão de Bagdá. O jovem tem um plano para conquistar a mão da princesa:
 pede à sua mãe que se dirija ao palácio com as riquezas que trouxera da
 caverna, para propor ao sultão o casamento dos jovens. O sultão, no
 entanto, exige mais riquezas e quarenta escravos como dote para o
-casamento. Com a ajuda do gênio, consegue o dote solicitado e casa-se,
+casamento. Com a ajuda do gênio, consegue o dote tão desejado e casa-se,
 por fim, com Clarice.
 
 Enquanto isso, ao saber que Aladim o lograra e escapara da grupa, o
 Feiticeiro trama uma vingança contra o recém-casado. Disfarçado de um
-pobre vendedor de lâmpadas, o necromante engana Clarice e consegue
+pobre vendedor de lâmpadas, engana Clarice e consegue
 roubar o item mágico. Usa, então, a lâmpada para transferir o palácio de
 Aladim e todos que nele estacam para seus domínios, exceto o sultão e
 Aladim, que tinham ido caçar. Condenado à morte pelo desaparecimento da
@@ -1031,91 +1030,10 @@ voltar contra eles. Como nos versos finais, a ambição "traz consigo a
 maldição / amamentando a desgraça / tira o dinheiro do nobre / ilude a
 gana do pobre / vê do indigente o cobre / a ambição onde passa".
 
-A obra de Patativa do Assaré
-----------------------------
+Sobre os autores
+----------------
 
-Inserida no contexto sertanejo, a obra de Patativa do Assaré é
-influenciada pela tradição medieval, como a arte dos trovadores, que
-viria a influir na formação da poesia de cordel, marcada pela figura dos
-repentistas, violeiros e cantadores. Cantando os sofrimentos e
-desgraças, mas também as alegrias da população nordestina do sertão, é
-forçoso reconhecer Patativa do Assaré como um dos maiores representamtes
-da literatura de cordel. Nas palavras de Sylvie Debs, estudiosa da obra
-do poeta:
-
-> Testemunha então de um modo de vida, mas também reivindicação de
-> valores próprios, elaboração de uma identidade. Por isso, ele é
-> apresentado como o "verdadeiro, autêntico e legítimo intérprete do
-> sertão".[^11] Com efeito, uma das dimensões mais marcantes da obra de
-> Patativa do Assaré é a preocupação de descrever a vida cotidiana do
-> sertão e, com esse testemunho, protestar o reconhecimento da
-> dignidade, da integridade e da modéstia do camponês sertanejo, em
-> oposição à arrogância do cidadão urbano ou do brasileiro do Sul.
-> Parece que a afirmação de sua própria identidade passa mais
-> frequentemente pelo confronto com o outro, como chama atenção o título
-> da compilação: *Cante lá que eu canto cá*. Esta última, composta a
-> partir de uma seleção de textos feita pelo próprio autor com a
-> intenção de definir suas preferências literárias, traz o seguinte
-> subtítulo: Filosofia de um trovador nordestino. É, portanto,
-> referindo"-nos de uma só vez ao conjunto dos poemas publicados e à
-> vida de Patativa do Assaré que tentaremos depreender as
-> características próprias da sua obra.[^12]
-
-Nas primeiras obras do poeta, fruto de improvisações e encomendas,
-ressaltam"-se os traços lúdicos e comemorativos. São poemas de
-circunstâncias, ligados aos acontecimentos sociais e religiosos, como
-festas de santos, casamentos, aniversários e outros acontecimentos com
-relação direta com o presente. É uma poesia, portanto, que está
-fortemente inserida na vida da comunidade e dela participa.
-
-Como ressalta Sylvie Debs, a marca da oralidade, inserida nesse contexto
-comunitário, era tão forte que as primeiras compilações de sua poesia
-saíram com alguns aparatos para orientar o leitor nesse novo
-vocabulário: "A marca oral e regional era tão intrínseca à primeira
-compilação que foi publicada com um "Elucidário" que propunha três
-esclarecimentos diferentes ao leitor: uma simples restituição fonética
-(*biête* por bilhete ou *muié* por mulher), uma correspondência
-referencial (cão por diabo) e uma explicação denotativa (tipoia: rede
-pequena, rede velha)".[^13]
-
-Outra marca significativa da oralidade, ainda na análise de Debs, é a
-forte presença da função conotativa da linguagem:
-
-> interpelação do ouvinte como *Cante lá que eu canto cá*, interrogações
-> como "Você se lembra?", "Seu Dotô me conhece?", destinação como "Ao
-> leitor", "Aos poetas clássicos", "À minha esposa Belinha". Da mesma
-> forma, os primeiros versos de seus poemas instauram, geralmente, o
-> ritual discursivo, seja como forma de indagação: "Querem saber quem eu
-> sou?" (*Aqui tem coisa*, p. 63); seja sob forma de oração: "Quero que
-> me dê licença para uma história contá." (*Cante lá que eu canto cá*,
-> p. 47); seja por uma saudação: "Boa noite, home e menino e muié dêste
-> lugá." (*Inspiração nordestina*, p. 27); seja ainda por uma ordem:
-> "Vem cá, Maria Gulora, escuta, que eu vou agora uma coisa te contá."
-> (*Idem*, p. 47). Enfim, a invocação do interlocutor abre diversos
-> poemas: as formas mais utilizadas são "Seu Moço" (*Idem*, pp. 19, 51,
-> 99) e "Seu Dotô" (*Idem*, pp. 60, 66 e 69). Encontram-se variantes sob
-> a forma de "Meu filho querido" (*Idem*, p. 132), "Meu amigo" (*Idem*,
-> p. 209), "Minha gente" (*Idem*, p. 206), "Sinhô Dotô" (*Idem*, p.
-> 203).[^14]
-
-Através dessa referencialidade a pessoas e circunstâncias de seu
-entorno, percebe"-se na poesia de Patativa do Assaré o forte tom
-familiar e a relação de vizinhança que está implicada em seus poemas,
-marcas de um autor enraizado ao seu meio:
-
-> Esses termos de endereçamento traduzem ao mesmo tempo o respeito de
-> uma hierarquia social estrita, em uma sociedade onde a taxa de
-> analfabetismo é elevada. O poeta, como personagem familiar, é
-> originário do mesmo meio, dirigindo-se em pé de igualdade a seus
-> interlocutores, seja ao mais rico, ao mais poderoso ou ao mais
-> diplomado, pedindo licença para contar uma história simples à sua
-> maneira -- último elemento enfim, todavia essencial, o próprio poeta
-> Patativa do Assaré. Não havendo jamais escrito texto algum e dotado de
-> uma notável capacidade de memorização (é capaz de recitar qualquer uma
-> de suas composições, qualquer seja sua antiguidade), ele continua a
-> praticar a improvisação em todas as circunstâncias.[^15]
-
-SOBRE O AUTOR Antonio Gonçalves da Silva, o Patativa do Assaré, foi um
+Antonio Gonçalves da Silva, o Patativa do Assaré, foi um
 dos mais importantes poetas brasileiros. Nascido no Cariri, na Serra de
 Santana, próximo a Assaré, no Ceará, a 5 de março de 1909, desde menino
 fazia versos e os apresentava a quem quisesse ouvir. Só em 1956 seus
@@ -1136,34 +1054,6 @@ da ave canora que lhe deu nome, a patativa, ainda será ouvida por muitos
 e muitos anos em qualquer canto do Brasil. Patativa morreu aos 93 anos
 em sua casa em Assaré.
 
-Além de poeta extremamente interessante nos causos, histórias e fatos de
-sua terra, Patativa do Assaré também cantou muito sobre a política e a
-situação de seu povo, engajando"-se em debates como a reforma agrária.
-Nas palavras do próprio poeta:
-
-> Eu sou um caboclo roceiro que, como poeta, canto sempre a vida do
-> povo. O meu problema é cantar a vida do povo, o sofrimento do meu
-> Nordeste, principalmente daqueles que não têm terra, porque o ano
-> presente, esse ano que está se findando, não foi uma seca, podemos
-> dizer que não foi a seca. Lá pelo interior, mesmo no município de
-> Assaré, lá no Assaré, tem duas frentes de serviço, com muita gente.
-> Mas naquela frente de serviço nós podemos observar que é só dos
-> desgraçados que não possuem terra. Os camponeses que possuem terra não
-> sofrem estas consequências e não precisam recorrer ao trabalho de
-> emergência, como os agregados e esses outros desgraçados trabalham na
-> terra dos patrões. E é isso que eu mais sinto: é ver um homem que
-> tanto trabalha, pai de família e não possui um palmo de terra. É por
-> isso que é preciso que haja um meio da reforma agrária chegar, uma
-> reforma agrária que chegue para o povo que não tem terra. E esta luta
-> pela reforma agrária e pelo sindicato dos camponeses, mas o verdadeiro
-> sindicato conduzido pelos próprios camponeses, procurando,
-> reivindicando os seus direitos, é preciso que continue até chegar o
-> tempo do camponês sofrer menos do que vem sofrendo. Precisa fazer como
-> eu digo nos meus versos "Lição do Pinto", pois o pinto sai do ovo
-> porque trabalha. Ele belisca a casca do ovo, rompe e sai. É assim que
-> o povo também deve fazer, unido sempre, trabalhando.[^16]
-
-#### O ilustrador
 
 Fernando de Almeida nasceu em Batatais, interior de São Paulo, em 1973.
 Formado em Arquitetura pela [fau-usp]{.smallcaps}, trabalha como
@@ -1173,77 +1063,26 @@ Faz, junto com outros amigos ilustradores, a revista coletiva
 *Charivari*. Gosta de aquários, fuscas antigos, de sua mulher Cristiana,
 do seu filho Martim e dos seus amigos.
 
-SOBRE O GÊNERO A poesia de cordel, dizem os especialistas, é uma poesia
-escrita para ser lida, enquanto o repente ou o desafio é a poesia feita
-oralmente, que mais tarde pode ser registrada por escrito. Essa divisão
-é muito esquemática. Por exemplo, o cordel, mesmo sendo escrito e
-impresso para ser lido, costumava ser lido em volz alta e desfrutado por
-outros ouvintes além do leitor. A poesia popular, praticada
-principalmente no Nordeste do Brasil, tem muita influência da linguagem
-oral, aproveita muito da língua coloquial praticada nas ruas e na
-comunicação cotidiana.
+Cordel
+------
 
-Naturalmente, portanto, pode"-se considerar a poesia narrativa do
-cordel uma forma de poesia mais compartilhada e desfrutada
-coletivamente, o que dá também uma grande ressonância social. Muitos dos
-temas do cordel são originários das tradições populares e eruditas da
-Europa medieval e moderna. Outros temas são retirados de tradições
-orientais, como neste *História de Aladim e a lâmpada maravilhosa*. O
-personagem Aladim pertence ao *Livro das mil e uma noites*, um dos
-famosos conjuntos de histórias de todos os tempos. Também encontramos
-temas retirados das novelas de cavalaria medievais e das narrativas
-bíblicas. Ao lado destes temas mais literários, encontram"-se os temas
-locais, quase sempre narrados na forma de crônicas de coisas realmente
-acontecidas, como em outro famoso cordel de Patativa intitulado "Padre
-Henrique e o dragão da maldade", que fala de um causo verídico e
-contemporâneo ao poeta. Também há, entre sua profícua produção
-literária, as histórias fantásticas, que se valem das tradições
-semirreligiosas, ligadas à experiência com o mundo espiritual.
+Tem gente que fala que a palavra *cordel* veio de Portugal, onde
+os vendiam *folhetos* em feiras pendurados em barbantes, em
+cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
+chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
+ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+era mais conhecido como *romance* ou *folheto* mesmo.
 
-Os grandes poemas de cordel são perfeitamente metrificados e rimados. A
-métrica e a rima são recursos que favorecem a memorização e
-tradicionalmente se costuma dizer que são resquícios de uma cultura
-oral, na qual toda a tradição e sabedoria são sabidas de cor.
+Um cordel tem histórias curtas contadas em versos rimados por personagens
+lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
+feitas em xilogravura, uma técnica muito antiga que consiste em 
+desenhar numa maneira mais mole, depois passar tinta sobre ela 
+e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
 
-#### O sertão geográfico e cultural
-
-O sertão tem mitos culturais próprios. Contemporaneamente, o sertão
-evoca principalmente o sofrimento resignado daqueles que padecem a falta
-de chuva e de boas safras na lavoura. Evoca a experiência histórica de
-uma região empobrecida, embora tenha sido geradora de riquezas, como o
-cacau e cana de açúcar, ambos bens muito valiosos.
-
-O sertão formou também o seu imaginário por meio de grandes
-personalidades e uma pujante expressão artística. Além do cordel, o
-sertão viu nascer ritmos tão importantes quanto o forró e o baião.
-Produziu artistas tão expressivos quanto Luiz Gonzaga, grande cantor da
-vida do sertanejo em canções como "Asa branca". Um escultor como Mestre
-Vitalino criou toda uma tradição de representação da vida e dos hábitos
-sertanejos em miniaturas de barro. A gravura popular, que sempre
-acompanha os folhetos de cordel, também floresceu em diversos pontos e
-ficou mais famosa em Juazeiro do Norte, no Ceará, e em Caruaru, no
-estado de Pernambuco.
-
-Dentre os grande mitos do sertão, está certamente o do cangaço com seu
-líder histórico, mas também mítico, Virgulino Ferreira, o Lampião. Até
-hoje as opiniões se dividem: para alguns foi uma grande homem, para
-outros um bandido impiedoso. Uma figura muito presente na cultura
-nordestina é o Padre Cícero Romão, considerado beato pela Igreja
-Católica. Consta que teria feito milagres e dedicado sua vida aos
-pobres.
-
-#### Variação linguística
-
-A linguística moderna usa o termo "idioleto" para marcar grupos
-distintos no interior de uma língua. Um idioleto pode ser a fala
-peculiar de uma região, de um grupo étnico ou de uma dada profissão.
-
-Uma das grandes forças da poesia popular do Nordeste se origina em sua
-forma muito própria de falar, com um ritmo muito diferente dos falares
-do sul, e também muito diferentes entre si, pois percebe"-se a
-diferença entre os falares de um baiano, um cearense e um pernambucano,
-por exemplo. Além desse aspecto rítmico, quase sempre também há palavras
-peculiares a certas regiões.
+O cordel não tem nem um limite nem uma receita
+pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
+sente-se à vontade para falar de qualquer assunto, e dar opinião 
+sobre o mundo do nosso tempo. 
 
 017 
 ===
@@ -1253,176 +1092,25 @@ Sobre o livro
 
 ????
 
-019 
+
+021 ✅
 ===
-
-Sobre o livro
--------------
-
-O livro *Troca de pele*, de Tereza Yamashita, aborda a questão do
-combate ao preconceito de maneira envolvente, poética e imaginativa. Sua
-leitura pode ser uma fonte de debate extremamente potente para a sala de
-aula, ao tratar de temas como racismo, convivência familiar e direitos
-da criança e do adolescente.
-
-A obra é ambientada em uma cidade fictícia chamada Xadrez. É uma cidade
-em que tudo é preto, branco ou cinza --- não existem cores e, na teoria,
-também não existe racismo. Um esquilo chamado Carambola é o narrador e
-conta a história de Zilá, que é merendeira de um colégio. Ela é adorada
-pelas crianças da escola em que trabalha e tem vontade de ter o seu
-próprio filho. Ela é casada com Seu Jamil e os dois não conseguem ter
-filhos. Acompanhamos a jornada de Zilá, desde o momento em que caminha
-entristecida por não tem um filho para chamar de seu, até um passeio no
-parque que a leva para uma viagem fantástica.
-
-Zilá conhece a Guardiã das Cores, da Mata e dos Sonhos, Crevax, que lhe
-promete um filho. Tudo parece ter sido um sonho, mas ela volta ao parque
-e cava um buraco à procura da guardiã. No buraco, ela encontra um
-garoto, Éric, órfão que fugiu de um orfanato. Éric começa a lhe contar a
-sua história, repleta de violência e abandono. Ele vivia em uma casa de
-trabalhos forçados e tinha fugido, sem ter para onde ir. É nesse momento
-que conhece Zilá.
-
-A merendeira acolhe o menino em sua casa e cuida dele, junto de seu
-marido. Aos poucos, Éric passa a fazer parte da família e é adotado
-oficialmente. Éric é um garoto colorido, ou seja, não é preto ou branco
-que nem os outros. Ele passa a sofrer preconceito de colegas e moradores
-da cidade. Os únicos que o defendem são seus novos pais e seu esquilo
-Carambola.
-
-Por um período, Éric procura formas de mudar de cor e tentar ficar
-branco ou preto. De repente, ele e seu colega da escola, Paulinho,
-descobrem uma água mágica no parque. Seu amigo bebe a água, que o torna
-colorido. Então, eles passam por experiências parecidas de preconceito,
-o que os aproxima. Essa iniciativa influencia outras crianças, que
-também querem beber a água mágica. A cidade de Xadrez começa a se
-colorir, o que enfrenta resistência de diversas pessoas. Em um ato
-heroico, Éric consegue demonstrar a importância de respeitar o próximo e
-valorizar a diversidade.
-
-A autora, Tereza Yamashita, nasceu em 1965, em São Paulo. Formou-se em
-Artes Plásticas pela Universidade Mackenzie. Trabalha com design
-gráfico, especializada em livros. Cria capas e projetos gráficos para
-diversos livros. É ilustradora e escritora infanto-juvenil. Publicou
-contos em diversos jornais e revistas do país, como as revistas *Et
-Cetera* (Curitiba), *Mininas* (Belo Horizonte), *Ciência Hoje das
-Crianças* (Rio de Janeiro), *Puçanga*, *Nova Escola*, *Toca* e *Peteca*
-(São Paulo) e os jornais *Rascunho* (Curitiba) e *Folhinha de S.Paulo*
-(São Paulo). Publicou mais de dez livros infanto-juvenis, sendo diversos
-deles em co-autoria com Luiz Bras.
-
-O ilustrador, Marcelo Pitel, atua desde 2000 no mercado artístico e
-editorial. Algumas de suas influências artísticas são J. Carlos, Saul
-Bass e Cássio Loredano. Foi no departamento de arte da revista *Vogue
-Brasil*, onde iniciou sua carreira. Desde então trabalhou para diversas
-outras revistas. Também atuou na área educacional ao ilustrar projetos
-para instituições como *Fundação Unibanco* e *Fundação Carlos Chagas*.
-Além disso, trabalhou como designer para a *Folha de São Paulo*, *Rico
-Lins+Studio*, *Editora Globo*, entre outros.
-
-O gênero deste livro é *conto; crônica; novela*. O que define um gênero
-narrativo é o fato de, não importa qual seja sua forma, *contar uma
-história*. As especificidades do *como* esta história será contada
-caracteriza os tipos de gênero narrativo, que podem ser: conto, crônica,
-novela, epopeia, romance ou fábula.
-
-Toda narrativa possui, necessariamente, um narrador, uma personagem, um
-enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
-onisciente, literalmente *que tudo sabe*, observador ou personagem ---
-categorias que não são exclusivas. O discurso elaborado por este
-narrador pode ser direto, indireto ou indireto livre --- ou seja, ele
-pode aparecer mais diretamente ou mais indiretamente; no último caso,
-sua voz se mistura à das personagens da história.
-
-Sobre o enredo das narrativas curtas sabemos que
-
-> comumente são simples, se passam em um espaço único, em um curto
-> período de tempo e apresentam poucas personagens. Os temas giram em
-> torno de episódios do mundo infantil ou de episódios envolvendo
-> animais. As ilustrações ocupam quase toda a página e auxiliam a
-> criança a identificar, ma narrativa, as características externas das
-> personagens, as ações vividas por elas e os espaços onde ocorrem as
-> cenas. A linguagem é simples, sem muitos elos frasais. A história se
-> constrói, quase sempre, por meio de diálogos. A presença do narrador é
-> bastante pequena.[^17]
-
-O narrador **não é necessariamente** a voz do autor. É errada a
-afirmação de que o autor fala através do narrador de uma história. É
-bastante comum, há algum tempo na história literária, sobretudo desde os
-pré-modernistas, que o narrador represente justamente o contrário do que
-pensa o autor. Neste caso, utiliza-se elementos como a **ironia** para
-sugerir que o autor *não é confiável*.
-
-Já as personagens variam quanto a sua **profundidade**. Há personagens
-planas, ou personagens-tipo, e personagens redondas, ou complexas.
-Personagens planas são facilmente repetíveis pois se amparam em
-lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
-tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
-é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
-humanidade por alguma razão, às vezes sobrenatural. Personagens
-redondos, por outro lado, estão mais próximos das *pessoas reais*. Uma
-personagem complexa pode ser, em um dado momento da narrativa, vilã, e
-em outro, heroína. É importante notar como as visões de mundo
-influenciam na caracterização das personagens de uma história.
-
-O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
-cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
-marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
-outro e se delimita muito bem *passado*, *presente* e *futuro*. Já no
-tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos, e
-portanto, *não linear*, já que a influência emocional e psíquica afeta a
-racionalidade do tempo cronológico.
-
-O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
-caso, ele pode funcionar mais como um plano de fundo, sem muita
-interferência no enredo, ou mais ativamente, aproximando-se das
-características das personagens e influenciando no desenrolar da trama.
-
-O último aspecto de um gênero narrativo que podemos abordar é sua
-*extensão*. Dentre os elementos que distinguem um subgênero de outro é o
-tamanho da história: uma crônica e um conto são *necessariamente*
-curtos, ao passo que uma epopeia e um romance, são longos. Uma novela
-está no ponto intermediário entre um romance e um conto. Ainda
-poderíamos falar dos registros de cada subgênero: a epopeia é
-originalmente um subgênero *oral*, versificado, e metrificado, já o
-romance é tradicionalmente *escrito* em prosa. Desde meados do século
-[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
-subgêneros narrativos tornam-se cada vez menos rígido, com as
-características cada vez mais fluidas e intercomunicativas.
-
-Como o presente livro se trata de uma narrativa *curta*, finalizamos com
-as palavras de Luiza Vilma Pires a respeito do subgênero:
-
-> sob o nome de narrativa curta, estão situadas obras que apresentam uma
-> trama um pouco mais complexa, que ocorre em diversos espaços e em uma
-> temporalidade que pode ser de vários dias, semanas ou meses.
-> Entretanto a função das ilustrações continua as mesmas, são
-> complementares à história e contribuem para sua compreensão. Os temas
-> relacionam-se a vivência infantis (brincadeiras, passeios, pequenas
-> aventuras), a aspectos ligados à interioridade das personagens (busca
-> de identidade, insegurança, medos) ou a relações interpessoais
-> (desentendimentos familiares, entre amigos, solidariedade).[^18]
-
-021 
-===
-
 
 Sobre o livro
 -------------
 
 *A Fábrica de Robôs* causou alarde quando foi encenada
-pela primeira vez, em 1921. Divida em três atos, a peça traz à tona uma
-temática incomum à época: a profunda crise deflagrada pelo avanço
-científico-tecnológico, a qual põe em risco a espécie humana. Após
-ganharem vida, máquinas semelhantes a seres humanos passam a exercer
-todas as atividades braçais, o que levou o homem a cunhar o termo "robô"
+pela primeira vez, em 1921. Divida em três atos, a peça fala de 
+algo incomum à época: a profunda crise causada pelo avanço
+científico-tecnológico, a qual põe em risco a espécie humana. 
+Após ganharem vida, máquinas semelhantes a seres humanos passam a exercer
+todas as atividades braçais, o que levou o autor a usar o termo "robô"
 -- palavra que em tcheco significa servidão e trabalho forçado. Embora
-mais eficientes dentro da lógica capitalista, as tais máquinas
+mais eficientes, as tais máquinas
 desconhecem a criatividade e os sentimentos, o que acarreta
-consequências nefastas à humanidade, que acaba se moldando à lógica da
-produtividade. A peça traz a história de um cientista que descobre uma
+consequências tristes à humanidade. A peça traz a história de um cientista que descobre uma
 fórmula capaz de dar vida a máquinas de aparência humana, gerando um
-desequilíbrio radical no modo de produção e tornando a mão de obra
+desequilíbrio radical e tornando a mão de obra
 humana obsoleta. Essas criaturas artificiais, desprovidas de sentimentos
 e criatividade, passam a exercer todas as atividades braçais, com
 consequências negativas para os homens. A palavra *robô*, cujo
@@ -1430,18 +1118,22 @@ significado em tcheco é *servidão, trabalho forçado*, e que seria
 incorporada em quase todas línguas, foi cunhada e usada pela primeira
 vez na peça de Tchápek.
 
-SOBRE O AUTOR Karel Capek (1890-1938) foi um escritor e filósofo tcheco,
+Sobre o autor
+-------------
+
+Karel Capek (1890-1938) foi um escritor e filósofo tcheco,
 nascido em Malé Svatonovice, Boêmia, então parte do Império
 Austro-Húngaro. Suas obras de ficção denunciaram os perigos do confronto
 entre o homem e os avanços tecnológicos, os perigos que ameaçavam o
 mundo moderno se este se deixasse levar pelos excessos do materialismo e
 do mecanicismo. Estudou filosofia em diversas cidades européias até se
 estabelecer em Praga (1917), onde trabalhou como escritor e jornalista.
-Na literatura, embora tenha cultivado diversos gêneros, deve sua
+Na literatura, deve sua
 popularidade sobretudo a suas obras de ficção, suas utopias satíricas e
 filosóficas, traduzidas para muitos idiomas. Por alguns anos escreveu em
 parceria com o irmão Josef, como por exemplo em *Krakonosova zahrada*
-(1918), coletânea de contos e narrativas de grande interesse humano.
+(1918), coletânea de contos e narrativas de grande interesse.
+
 Nessa obra, numa estória em que humanidade se achava ameaçada por uma
 máquina de sua invenção, o *robot*, cunhou a palavra que posteriormente
 popularizou-se pelo mundo inteiro como nome de uma unidade cibernética.
@@ -1451,31 +1143,26 @@ dramática *R.U.R.* (1920), *Hordubal* (1933), *Povetron* (1934) e
 peça realista *Bilá nemoc* (1937), em que conclamava o povo à
 solidariedade e à resistência contra o nazismo.
 
-SOBRE O GÊNERO O gênero **teatro** é uma forma literária normalmente
-constituída de diálogos entre personagens e destinada a ser encenada,
-não apenas lida. As peças teatrais, tais como as que conhecemos no mundo
-ocidental, surgiram na Grécia Antiga, através das mãos de grandes
-teatrólogos, como Ésquilo, Sófocles, Eurípedes e Aristófanes.
 
-022 
+
+Teatro
+------
+!!!!
+
+
+022 ✅ 
 ===
 
 Sobre o livro
 -------------
 
-*Lampião\... Era o cavalo do tempo atrás da besta da vida*
+*Lampião... Era o cavalo do tempo atrás da besta da vida*
 é uma versão em quadrinhos da história do lendário cangaceiro
 pernambucano Virgulino Ferreira, mais conhecido pela alcunha de
-*Lampião*, que, diz-se, faz referência a sua habilidade em manejar o
-rifle, o que, nas noites escuras da caatinga, garantia grandes clarões.
+*Lampião*.
 
 Nascido em 1898 em Serra Talhada, sertão do estado de Pernambuco,
-Lampião, *o Rei do Cangaço*, foi ao mesmo tempo herói e contraventor. O
-maior líder banditista no Brasil do século [xx]{.smallcaps},
-representava, para as elites, um perigo brutal a ser extinguido, e para
-o povo das classes oprimidas, a honra e a insubmissão frente às
-autoridades, símbolos das injustiças sociais.
-
+Lampião, *o Rei do Cangaço*, foi ao mesmo tempo herói e bandido. 
 Virgulino trabalhou, até os 21 anos, como artesão. Era alfabetizado e
 usava óculos para leitura, características bastante incomuns para a
 região sertaneja e pobre onde habitava. Sua entrada no cangaço se
@@ -1486,19 +1173,11 @@ vingança, e, junto de mais dois irmãos, passou a integrar o grupo do
 cangaceiro Sinhô Pereira.
 
 Tornou-se líder do bando, em 1922, e, em 1930, se junta afetivamente a
-sua icônica companheira Maria Bonita, na Bahia. No mesmo ano, aparece no
+sua famosa companheira Maria Bonita, na Bahia. No mesmo ano, aparece no
 jornal *The New York Times* como um "moderno Robin Hood" --- onde
 voltará a aparecer na ocasião de seu assassinato. Em 1936, seu cotidiano
 na caatinga é fotografado e filmado por Benjamin Abrahão Botto.
 
-*Lampião\... Era o cavalo do tempo atrás da besta da vida* é dividido em
-duas partes: na primeira, é apresentado o episódio da morte de Lampião
-através de uma técnica narrativa de «mise en abîme», onde uma história é
-contada dentro de outra --- dois sertanejos sentam-se para conversar e
-relembram o acontecido; já na segunda parte, há uma inclusão da
-terminologia e um acervo do universo dos objetos específicos do sertão
-nordestino, tanto os que foram vistos na história quanto outros
-complementares.
 
 A linguagem escrita neste quadrinho é importante pois não segue a norma
 padrão da língua portuguesa, mas está mais próxima a uma transcrição da
@@ -1507,7 +1186,10 @@ A intenção do autor nesta obra é fornecer um produto cultural autêntico
 da cultura sertaneja e cabocla brasileira, de modo que seja cada vez
 mais desnecessário se recorrer a referências externas e estereotipadas.
 
-SOBRE O AUTOR Nascido em Quixeramobim, no estado do Ceará, Klévisson
+Sobre o autor
+-------------
+
+Nascido em Quixeramobim, no estado do Ceará, Klévisson
 Viana, nome artístico de Antônio Clévisson Viana Lima, é um poeta
 popular, escritor, cordelista, roteirista, cartunista, xilogravador,
 editor e presidente da [aestrofe]{.smallcaps} --- Associação de
@@ -1554,72 +1236,38 @@ Klévisson Viana coordena eventos culturais, ministra palestras, oficinas
 e recitais em todo o Brasil e já levou sua arte a países como França,
 Portugal, México, Cabo Verde e Costa Rica.
 
-SOBRE O GÊNERO
 
-Alguns estudiosos defendem que o termo *cordel* venha de Portugal, onde
-os *folhetos* eram vendidos em feiras pendurados em barbantes, em
-cordões que se chamavam cordéis. Já para outros, o cordel era assim
-chamado porque as brochuras eram encadernados com barbantes. No Brasil,
-porém, não se falava em cordel. Somente a partir dos anos 1960, com a
-persistência dos pesquisadores europeus pelo nome, os poetas passaram a
-ser chamados de cordelistas. Para o público mais popular, no entanto,
-ele continua sendo chamado de *romance* e *folheto*.
+Cordel e quadrinhos
+-------------------
 
-Chama-se cordel as histórias curtas em versos rimados de personagens
-lendárias impressas em cadernos, geralmente artesanais, com ilustrações
-feitas sob a técnica da xilogravura, e comercializadas originalmente em
-feiras livres do Nordeste do Brasil. Sua origem remete às cantigas
-portuguesas medievais trazidas pelos colonos. O cordel não tem nem um
-limite nem uma receita pronta. É o verso da nossa tradição popular
-brasileira. Hoje, o gênero sente-se à vontade para falar de qualquer
-assunto, abordar qualquer temática, refletir o mundo do nosso tempo:
+O livro foi escrito como um cordel, mas com ilustrações e técnicas dos
+quadrinhos. 
 
-> Não há um só grande acontecimento local, nacional, ou mesmo mundial
-> que não tenha sido tratado pela literatura de cordel. O folheto mostra
-> a realidade, mais do que os grandes meios de comunicação, porque não é
-> atrelado a coisa alguma. É independente e é a opinião do autor. Não
-> tem interesse em grupos econômicos, nem tem patrocinadores. Por isso,
-> critica e aborda, como nenhum outro meio. Sendo honesto em suas
-> abordagens, é natural que o cordel se sinta ameaçado --- da mesma
-> forma que a televisão e o rádio ameaçaram o jornal impresso.[^19]
+A palavra *cordel* veio de Portugal, onde
+os vendiam *folhetos* em feiras pendurados em barbantes, em
+cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
+chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
+ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+era mais conhecido como *romance* ou *folheto* mesmo.
 
-O cordel aqui em questão carrega influências de outro gênero literário,
-também verbo-visual: a história em quadrinhos, ou [hq]{.smallcaps}. A
-[hq]{.smallcaps} é um gênero que trabalha ao mesmo tempo a linguagem
-verbal e a visual, portanto trata-se de uma **narrativa gráfica**. Não
-há uma hierarquia entre o texto e a ilustração: nem o texto é mera
-legenda da imagem, nem a imagem, mera ilustração do texto; são dois
-elementos de uma mesma obra, que deve ser lida como um todo.
+Um cordel tem histórias curtas contadas em versos rimados por personagens
+lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
+feitas em xilogravura, uma técnica muito antiga que consiste em 
+desenhar numa maneira mais mole, depois passar tinta sobre ela 
+e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
 
-Ambas as formas literárias exercitam a imaginação e a criatividade das
-crianças e dos jovens quando bem utilizadas. Podem servir de reforço à
-leitura e constituem uma linguagem altamente dinâmica. São linguagens
-que, ainda que de uma origem longínqua, são adequadas à nossa era devido
-à fluidez, à intensidade e sobretudo à abertura à inovação que lhes
-constitui.
+O cordel não tem nem um limite nem uma receita
+pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
+sente-se à vontade para falar de qualquer assunto, e dar opinião 
+sobre o mundo do nosso tempo. 
 
-#### A xilogravura
+A linguagem dos quadrinhos junta textos e imagens de vários tipos para criar uma narrativa 
+em sequência. Os sons e as falas dos personagens se misturam com a narrativa principal 
+que a cada quadro fornece uma cena como no cinema. É uma linguagem bastante 
+popular em diversas partes do mundo, que tem sua origem na pintura de ícones. 
 
-Tanto o cordel quanto as histórias em quadrinhos têm algo em comum: a
-presença de imagens. Ao se pensar em cordel, logo se pensa em
-*xilogravura*, mas a xilogravura não surgiu com a literatura de cordel.
-Ela começou a fazer parte dos folhetos a partir da década de 1950.
-Tradicionalmente, trata-se de uma matriz de madeira que imita um clichê
-de chumbo. O clichê em si já é uma imitação da xilogravura, **uma
-técnica milenar dos egípcios e chineses**: recorta-se uma figura em
-relevo sobre uma madeira. A figura em relevo imprime, como um carimbo
-sobre um papel em branco, e as partes cortadas são os sulcos onde a
-tinta não aparece.
 
-A xilogravura entrou na vida da literatura de cordel como uma
-alternativa ao poeta sem recursos para ilustrar a capa de um folheto.
-Ela entrou indiretamente na estrutura do folheto e o público não se
-identificou de imediato. Hoje, se por um lado o público intelectual que
-gosta de folheto, o estudioso ou o turista que compra o folheto como uma
-curiosidade, prefere a capa com a xilogravura, o público mais
-tradicional prefere a capa com desenhos, fotografias. Os autores e
-editores tentam sempre agradar a todos, trabalhando tanto com a
-xilogravura como com desenhos, figuras, etc.
+
 
 023 
 ===
