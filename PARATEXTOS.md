@@ -61,14 +61,6 @@ pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores
 sente-se à vontade para falar de qualquer assunto, e dar opinião 
 sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 
-> "Não há um só grande acontecimento local, nacional, ou mesmo mundial
-> que não tenha sido tratado pela literatura de cordel. O folheto mostra
-> a realidade, mais do que os grandes meios de comunicação, porque não é
-> atrelado a coisa alguma. É independente e é a opinião do autor. Não
-> tem interesse em grupos econômicos, nem tem patrocinadores. Por isso,
-> critica e aborda, como nenhum outro meio. Sendo honesto em suas
-> abordagens, é natural que o cordel se sinta ameaçado --- da mesma
-> forma que a televisão e o rádio ameaçaram o jornal impresso."[^3]
 
 
 Prosa
