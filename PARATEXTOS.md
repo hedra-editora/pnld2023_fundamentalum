@@ -63,12 +63,102 @@ sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 
 
 
+Conto
+-----
+
+
+O gênero deste livro é *conto; crônica; novela*. O que define um gênero
+narrativo é o fato de, não importa qual seja sua forma, *contar uma
+história*. As especificidades do *como* esta história será contada
+caracteriza os tipos de gênero narrativo, que podem ser: conto, crônica,
+novela, epopeia, romance ou fábula.
+
+Toda narrativa possui, necessariamente, um narrador, uma personagem, um
+enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
+onisciente, literalmente *que tudo sabe*, observador ou personagem ---
+categorias que não são exclusivas. O discurso elaborado por este
+narrador pode ser direto, indireto ou indireto livre --- ou seja, ele
+pode aparecer mais diretamente ou mais indiretamente; no último caso,
+sua voz se mistura à das personagens da história.
+
+Sobre o enredo das narrativas curtas sabemos que
+
+> comumente são simples, se passam em um espaço único, em um curto
+> período de tempo e apresentam poucas personagens. Os temas giram em
+> torno de episódios do mundo infantil ou de episódios envolvendo
+> animais. As ilustrações ocupam quase toda a página e auxiliam
+>
+> a criança a identificar, ma narrativa, as características externas das
+> personagens, as ações vividas por elas e os espaços onde ocorrem as
+> cenas. A linguagem é simples, sem muitos elos frasais. A história se
+> constrói, quase sempre, por meio de diálogos. A presença do narrador é
+> bastante pequena.[^6]
+
+O narrador **não é necessariamente** a voz do autor. É errada a
+afirmação de que o autor fala através do narrador de uma história. É
+bastante comum, há algum tempo na história literária, sobretudo desde os
+pré-modernistas, que o narrador represente justamente o contrário do que
+pensa o autor. Neste caso, utiliza-se elementos como a **ironia** para
+sugerir que o autor *não é confiável*.
+
+Já as personagens variam quanto a sua **profundidade**. Há personagens
+planas, ou personagens-tipo, e personagens redondas, ou complexas.
+Personagens planas são facilmente repetíveis pois se amparam em
+lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
+tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
+é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
+humanidade por alguma razão, às vezes sobrenatural. Personagens
+redondos, por outro lado, estão mais próximos das *pessoas reais*. Uma
+personagem complexa pode ser, em um dado momento da narrativa, vilã, e
+em outro, heroína. É importante notar como as visões de mundo
+influenciam na caracterização das personagens de uma história.
+
+O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
+cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
+marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
+outro e se delimita muito bem *passado*, *presente* e *futuro*. Já no
+tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos, e
+portanto, *não linear*, já que a influência emocional e psíquica afeta a
+racionalidade do tempo cronológico.
+
+O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
+caso, ele pode funcionar mais como um plano de fundo, sem muita
+interferência no enredo, ou mais ativamente, aproximando-se das
+características das personagens e influenciando no desenrolar da trama.
+
+O último aspecto de um gênero narrativo que podemos abordar é sua
+*extensão*. Dentre os elementos que distinguem um subgênero de outro é o
+tamanho da história: uma crônica e um conto são *necessariamente*
+curtos, ao passo que uma epopeia e um romance, são longos. Uma novela
+está no ponto intermediário entre um romance e um conto. Ainda
+poderíamos falar dos registros de cada subgênero: a epopeia é
+originalmente um subgênero *oral*, versificado, e metrificado, já o
+romance é tradicionalmente *escrito* em prosa. Desde meados do século
+[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
+subgêneros narrativos tornam-se cada vez menos rígido, com as
+características cada vez mais fluidas e intercomunicativas.
+
+Como o presente livro se trata de uma narrativa *curta*, finalizamos com
+as palavras de Luiza Vilma Pires a respeito do
+
+subgênero:
+
+> sob o nome de narrativa curta, estão situadas obras que apresentam uma
+> trama um pouco mais complexa, que ocorre em diversos espaços e em uma
+> temporalidade que pode ser de vários dias, semanas ou meses.
+> Entretanto a função das ilustrações continua as mesmas, são
+> complementares à história e contribuem para sua compreensão. Os temas
+> relacionam-se a vivência infantis (brincadeiras, passeios, pequenas
+> aventuras), a aspectos ligados à interioridade das personagens (busca
+> de identidade, insegurança,
+>
+> medos) ou a relações interpessoais (desentendimentos familiares, entre
+> amigos, solidariedade).[^7]
+
+
 Prosa
 -----
 
-
-Conto
------
 
 
 
@@ -271,16 +361,7 @@ e daí aplicá-la sobre o papel, como se fosse um grande carimbo.
 O cordel não tem nem um limite nem uma receita
 pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
 sente-se à vontade para falar de qualquer assunto, e dar opinião 
-sobre o mundo do nosso tempo. Como diz Clévisson Viana:
-
-> "Não há um só grande acontecimento local, nacional, ou mesmo mundial
-> que não tenha sido tratado pela literatura de cordel. O folheto mostra
-> a realidade, mais do que os grandes meios de comunicação, porque não é
-> atrelado a coisa alguma. É independente e é a opinião do autor. Não
-> tem interesse em grupos econômicos, nem tem patrocinadores. Por isso,
-> critica e aborda, como nenhum outro meio. Sendo honesto em suas
-> abordagens, é natural que o cordel se sinta ameaçado --- da mesma
-> forma que a televisão e o rádio ameaçaram o jornal impresso."[^3]
+sobre o mundo do nosso tempo. 
 
 
 
@@ -379,76 +460,30 @@ Klévisson Viana coordena eventos culturais, ministra palestras, oficinas
 e recitais em todo o Brasil e já levou sua arte a países como França,
 Portugal, México, Cabo Verde e Costa Rica.
 
-O GÊNERO
 
-Alguns estudiosos defendem que o termo *cordel* venha de Portugal, onde
-os *folhetos* eram vendidos em feiras pendurados em barbantes, em
-cordões que se chamavam cordéis. Já para outros, o cordel era assim
-chamado porque as brochuras eram encadernados com barbantes. No Brasil,
-porém, não se falava em cordel. Somente a partir dos anos 1960, com a
-persistência dos pesquisadores europeus pelo nome, os poetas passaram a
-ser chamados de cordelistas. Para o público mais popular, no entanto,
-ele continua sendo chamado de *romance* e *folheto*.
+Sobre o gênero
+--------------
 
-Chama-se cordel as histórias curtas em versos rimados de personagens
-lendárias impressas em cadernos, geralmente artesanais, com ilustrações
-feitas sob a técnica da
+Tem gente que fala que a palavra *cordel* veio de Portugal, onde
+os vendiam *folhetos* em feiras pendurados em barbantes, em
+cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
+chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
+ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+era mais conhecido como *romance* ou *folheto* mesmo.
 
-xilogravura, e comercializadas originalmente em feiras livres do
-Nordeste do Brasil. Sua origem remete às cantigas portuguesas medievais
-trazidas pelos colonos. O cordel não tem nem um limite nem uma receita
-pronta. É o verso da nossa tradição popular brasileira. Hoje, o gênero
-sente-se à vontade para falar de qualquer assunto, abordar qualquer
-temática e reflete sobre o mundo do nosso tempo. Como diz o próprio
-autor:
+Um cordel tem histórias curtas contadas em versos rimados por personagens
+lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
+feitas em xilogravura, uma técnica muito antiga que consiste em 
+desenhar numa maneira mais mole, depois passar tinta sobre ela 
+e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
 
-> "Não há um só grande acontecimento local, nacional, ou mesmo mundial
-> que não tenha sido tratado pela literatura de cordel. O folheto mostra
-> a realidade, mais do que os grandes meios de comunicação, porque não é
-> atrelado a coisa alguma. É independente e é a opinião do autor. Não
-> tem interesse em grupos econômicos, nem tem patrocinadores. Por isso,
-> critica e aborda, como nenhum outro meio. Sendo honesto em suas
-> abordagens, é natural que o cordel se sinta ameaçado --- da mesma
-> forma que a televisão e o rádio ameaçaram o jornal impresso."[^4]
+O cordel não tem nem um limite nem uma receita
+pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
+sente-se à vontade para falar de qualquer assunto, e dar opinião 
+sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 
-O cordel aqui em questão carrega influências de outro gênero literário,
-também verbo-visual: a história em quadrinhos, ou [hq]{.smallcaps}. A
-[hq]{.smallcaps} é um gênero que trabalha ao mesmo tempo a linguagem
-verbal e a visual, portanto trata-se de uma **narrativa gráfica**. Não
-há uma hierarquia entre o texto e a ilustração: nem o texto é mera
-legenda da imagem, nem a imagem, mera ilustração do texto; são dois
-elementos de uma mesma obra, que deve ser lida como um todo.
 
-Ambas as formas literárias exercitam a imaginação e a criatividade das
-crianças e dos jovens quando bem utilizadas. Podem servir de reforço à
-leitura e constituem uma linguagem altamente dinâmica. São linguagens
-que, ainda que de uma origem longínqua, são adequadas à nossa era devido
-à fluidez, à intensidade e sobretudo à abertura à inovação que lhes
-constitui.
 
-#### A xilogravura
-
-Tanto o cordel quanto as histórias em quadrinhos têm algo em comum: a
-presença de imagens. Ao se pensar em cordel, logo se pensa em
-*xilogravura*,
-
-mas a xilogravura não surgiu com a literatura de cordel. Ela começou a
-fazer parte dos folhetos a partir da década de 1950. Tradicionalmente,
-trata-se de uma matriz de madeira que imita um clichê de chumbo. O
-clichê em si já é uma imitação da xilogravura, **uma técnica milenar dos
-egípcios e chineses**: recorta-se uma figura em relevo sobre uma
-madeira. A figura em relevo imprime, como um carimbo sobre um papel em
-branco, e as partes cortadas são os sulcos onde a tinta não aparece.
-
-A xilogravura entrou na vida da literatura de cordel como uma
-alternativa ao poeta sem recursos para ilustrar a capa de um folheto.
-Ela passou a compor a estrutura do folheto, embora o público não tenha
-se identificado de imediato. Hoje, se por um lado o público intelectual
-que gosta de folheto, o estudioso ou o turista que compra o folheto como
-uma curiosidade, prefere a capa com a xilogravura, o público mais
-tradicional prefere a capa com desenhos, fotografias. Os autores e
-editores tentam sempre agradar a todos, trabalhando tanto com a
-xilogravura como com desenhos, figuras, etc.
 
 005 
 ===
@@ -555,76 +590,28 @@ Klévisson Viana coordena eventos culturais, ministra palestras, oficinas
 e recitais em todo o Brasil e já levou sua arte a países como França,
 Portugal, México, Cabo Verde e Costa Rica.
 
-O GÊNERO
 
-Alguns estudiosos defendem que o termo *cordel* venha de Portugal, onde
-os *folhetos* eram vendidos em feiras pendurados em barbantes, em
-cordões que se chamavam cordéis. Já para outros, o cordel era assim
-chamado porque as brochuras eram encadernados com barbantes. No Brasil,
-porém, não se falava em cordel. Somente a partir dos anos 1960, com a
-persistência dos pesquisadores europeus pelo nome, os poetas passaram a
-ser chamados de cordelistas. Para o público mais popular, no entanto,
-ele continua sendo chamado de *romance* e *folheto*.
+Sobre o gênero
+--------------
 
-Chama-se cordel as histórias curtas em versos rimados de personagens
-lendárias impressas em cadernos, geralmente artesanais, com ilustrações
-feitas sob a técnica da
+Tem gente que fala que a palavra *cordel* veio de Portugal, onde
+os vendiam *folhetos* em feiras pendurados em barbantes, em
+cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
+chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
+ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+era mais conhecido como *romance* ou *folheto* mesmo.
 
-xilogravura, e comercializadas originalmente em feiras livres do
-Nordeste do Brasil. Sua origem remete às cantigas portuguesas medievais
-trazidas pelos colonos. O cordel não tem nem um limite nem uma receita
-pronta. É o verso da nossa tradição popular brasileira. Hoje, o gênero
-sente-se à vontade para falar de qualquer assunto, abordar qualquer
-temática e reflete sobre o mundo do nosso tempo. Como diz o próprio
-autor:
+Um cordel tem histórias curtas contadas em versos rimados por personagens
+lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
+feitas em xilogravura, uma técnica muito antiga que consiste em 
+desenhar numa maneira mais mole, depois passar tinta sobre ela 
+e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
 
-> "Não há um só grande acontecimento local, nacional, ou mesmo mundial
-> que não tenha sido tratado pela literatura de cordel. O folheto mostra
-> a realidade, mais do que os grandes meios de comunicação, porque não é
-> atrelado a coisa alguma. É independente e é a opinião do autor. Não
-> tem interesse em grupos econômicos, nem tem patrocinadores. Por isso,
-> critica e aborda, como nenhum outro meio. Sendo honesto em suas
-> abordagens, é natural que o cordel se sinta ameaçado --- da mesma
-> forma que a televisão e o rádio ameaçaram o jornal impresso."[^5]
+O cordel não tem nem um limite nem uma receita
+pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
+sente-se à vontade para falar de qualquer assunto, e dar opinião 
+sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 
-O cordel aqui em questão carrega influências de outro gênero literário,
-também verbo-visual: a história em quadrinhos, ou [hq]{.smallcaps}. A
-[hq]{.smallcaps} é um gênero que trabalha ao mesmo tempo a linguagem
-verbal e a visual, portanto trata-se de uma **narrativa gráfica**. Não
-há uma hierarquia entre o texto e a ilustração: nem o texto é mera
-legenda da imagem, nem a imagem, mera ilustração do texto; são dois
-elementos de uma mesma obra, que deve ser lida como um todo.
-
-Ambas as formas literárias exercitam a imaginação e a criatividade das
-crianças e dos jovens quando bem utilizadas. Podem servir de reforço à
-leitura e constituem uma linguagem altamente dinâmica. São linguagens
-que, ainda que de uma origem longínqua, são adequadas à nossa era devido
-à fluidez, à intensidade e sobretudo à abertura à inovação que lhes
-constitui.
-
-#### A xilogravura
-
-Tanto o cordel quanto as histórias em quadrinhos têm algo em comum: a
-presença de imagens. Ao se pensar em cordel, logo se pensa em
-*xilogravura*,
-
-mas a xilogravura não surgiu com a literatura de cordel. Ela começou a
-fazer parte dos folhetos a partir da década de 1950. Tradicionalmente,
-trata-se de uma matriz de madeira que imita um clichê de chumbo. O
-clichê em si já é uma imitação da xilogravura, **uma técnica milenar dos
-egípcios e chineses**: recorta-se uma figura em relevo sobre uma
-madeira. A figura em relevo imprime, como um carimbo sobre um papel em
-branco, e as partes cortadas são os sulcos onde a tinta não aparece.
-
-A xilogravura entrou na vida da literatura de cordel como uma
-alternativa ao poeta sem recursos para ilustrar a capa de um folheto.
-Ela passou a compor a estrutura do folheto, embora o público não tenha
-se identificado de imediato. Hoje, se por um lado o público intelectual
-que gosta de folheto, o estudioso ou o turista que compra o folheto como
-uma curiosidade, prefere a capa com a xilogravura, o público mais
-tradicional prefere a capa com desenhos, fotografias. Os autores e
-editores tentam sempre agradar a todos, trabalhando tanto com a
-xilogravura como com desenhos, figuras, etc.
 
 006 
 ===
@@ -680,44 +667,27 @@ a coleção Bicho-Poema, o livro *Boniteza Silvestre* foi considerado um
 dos 30 melhores títulos infantis publicados em 2007 pela revista
 *Crescer*.
 
-O gênero deste livro é *poesia*. Um dos meios mais expressivos de
-comunicação e inovação da linguagem, a poesia é uma das mais antigas
-formas de arte literária, anterior até mesmo à escrita, pois existe
-desde a tradição oral. Ela combina palavras, significados, sonoridades,
-ritmos e, muitas vezes, também imagens para permitir uma experiência
-estética. A linguagem poética é condensada e emotiva e busca trabalhar a
-língua de forma que o leitor experimente as palavras de uma forma nova.
-Na maior parte das vezes, a poesia é dividida em versos que, juntos, são
-chamados de estrofes. O ponto de vista do autor e sua visão pessoal do
-mundo estão muito presentes nesse tipo de texto e, justamente por essa
-particularidade, a experiência da leitura de uma poesia é extremamente
-individual e subjetiva.
 
-Esse gênero é um grande aliado na formação do leitor. O olhar da criança
-para o mundo é, em essência, um olhar poético, calcado na curiosidade
-pelo mundo. A poesia é a forma perfeita de valorizar esse olhar e
-incentivar que a criança brinque com as palavras, observe os sons e
-experimente novos ritmos. Por sua liberdade e criatividade, a poesia tem
-potencial para estabelecer um diálogo único com os pequenos leitores. A
-presença de fantasias, imagens, repetição e símbolos permite uma maior
-identificação, pois a criança ainda está construindo seu mundo interior
-e experimenta a vida de forma diferente do adulto.
+Poesia
+------
+Um poema é um texto que não ocupa a folha inteira. Cada uma das linhas do poema se
+chama verso, e um conjunto de versos se chama estrofe. Quando um autor escreve um
+poema, ele está interessado em fazer brincadeiras com as palavras. Uma dessas
+brincadeiras se chama rima, que é a repetição de sons parecidos em palavras
+diferentes. Também rima com alguém, história rima com glória, papel rima com
+chapéu, difícil rima com precipício. Mas nem sempre. Os poetas passam horas pensando nessas
+combinações e divertem os leitores com elas. Embora sejam textos escritos, poemas
+são feitos para ler em voz alta, para a gente perceber as rimas ali dentro. Como
+algumas brincadeiras dos poetas ficam escondidas nos versos, para descobrir cada
+uma delas a gente tem que ler o poema em voz alta mais de uma vez: primeiro a gente
+lê sozinho, depois com o professor, e então com os colegas. E aí tudo de novo, quantas
+vezes a gente quiser, porque é divertido. Outra coisa que os poetas sabem fazer muito
+bem é encontrar sentidos escondidos na mesma palavra. Poetas gostam de palavras
+como manga, que pode ser a manga da camiseta ou a fruta docinha que a gente come.
+Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
+jogos com ela...
 
-O caráter polissêmico do texto poético pode e deve ser explorado no
-ambiente escolar, assim como a dimensão lúdica da linguagem e as suas
-possibilidades. A própria estrutura do poema já produz aprendizado: ela
-seduz e desafia o leitor, apresenta ritmos, efeitos sonoros e, ao mesmo
-tempo, apresenta novas vivências, oferecendo possibilidades para a
-criança simbolizar suas próprias experiências. Cada dupla de páginas do
-livro *Sobrevoos* apresenta composições de versos e ilustrações. Assim,
-a leitura da poesia se faz em paralelo com a observação de uma
-ilustração que sugere caminhos de sentido e interpretação à criança. A
-leitura do poema, realizada pelo educador, aumenta o repertório do
-aluno, incentiva o desenvolvimento do vocabulário e da fluidez do
-discurso. A associação entre a aquisição da linguagem e a poesia,
-ademais, permite explorar múltiplas competências ao mesmo tempo, pois
-relaciona os princípios linguísticos à linguagem poética, introduzindo o
-aluno no universo lúdico e artístico da poesia.
+
 
 007 
 ===
@@ -777,93 +747,8 @@ pintura, colagem e escultura, mas seu foco principal sempre foi o
 desenho. Além de *O dia em que o mundo parou*, ilustrou os livros "De
 um jeito que não era" e o "O segredo de Joãozinho".
 
-O gênero deste livro é *conto; crônica; novela*. O que define um gênero
-narrativo é o fato de, não importa qual seja sua forma, *contar uma
-história*. As especificidades do *como* esta história será contada
-caracteriza os tipos de gênero narrativo, que podem ser: conto, crônica,
-novela, epopeia, romance ou fábula.
 
-Toda narrativa possui, necessariamente, um narrador, uma personagem, um
-enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
-onisciente, literalmente *que tudo sabe*, observador ou personagem ---
-categorias que não são exclusivas. O discurso elaborado por este
-narrador pode ser direto, indireto ou indireto livre --- ou seja, ele
-pode aparecer mais diretamente ou mais indiretamente; no último caso,
-sua voz se mistura à das personagens da história.
 
-Sobre o enredo das narrativas curtas sabemos que
-
-> comumente são simples, se passam em um espaço único, em um curto
-> período de tempo e apresentam poucas personagens. Os temas giram em
-> torno de episódios do mundo infantil ou de episódios envolvendo
-> animais. As ilustrações ocupam quase toda a página e auxiliam
->
-> a criança a identificar, ma narrativa, as características externas das
-> personagens, as ações vividas por elas e os espaços onde ocorrem as
-> cenas. A linguagem é simples, sem muitos elos frasais. A história se
-> constrói, quase sempre, por meio de diálogos. A presença do narrador é
-> bastante pequena.[^6]
-
-O narrador **não é necessariamente** a voz do autor. É errada a
-afirmação de que o autor fala através do narrador de uma história. É
-bastante comum, há algum tempo na história literária, sobretudo desde os
-pré-modernistas, que o narrador represente justamente o contrário do que
-pensa o autor. Neste caso, utiliza-se elementos como a **ironia** para
-sugerir que o autor *não é confiável*.
-
-Já as personagens variam quanto a sua **profundidade**. Há personagens
-planas, ou personagens-tipo, e personagens redondas, ou complexas.
-Personagens planas são facilmente repetíveis pois se amparam em
-lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
-tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
-é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
-humanidade por alguma razão, às vezes sobrenatural. Personagens
-redondos, por outro lado, estão mais próximos das *pessoas reais*. Uma
-personagem complexa pode ser, em um dado momento da narrativa, vilã, e
-em outro, heroína. É importante notar como as visões de mundo
-influenciam na caracterização das personagens de uma história.
-
-O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
-cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
-marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
-outro e se delimita muito bem *passado*, *presente* e *futuro*. Já no
-tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos, e
-portanto, *não linear*, já que a influência emocional e psíquica afeta a
-racionalidade do tempo cronológico.
-
-O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
-caso, ele pode funcionar mais como um plano de fundo, sem muita
-interferência no enredo, ou mais ativamente, aproximando-se das
-características das personagens e influenciando no desenrolar da trama.
-
-O último aspecto de um gênero narrativo que podemos abordar é sua
-*extensão*. Dentre os elementos que distinguem um subgênero de outro é o
-tamanho da história: uma crônica e um conto são *necessariamente*
-curtos, ao passo que uma epopeia e um romance, são longos. Uma novela
-está no ponto intermediário entre um romance e um conto. Ainda
-poderíamos falar dos registros de cada subgênero: a epopeia é
-originalmente um subgênero *oral*, versificado, e metrificado, já o
-romance é tradicionalmente *escrito* em prosa. Desde meados do século
-[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
-subgêneros narrativos tornam-se cada vez menos rígido, com as
-características cada vez mais fluidas e intercomunicativas.
-
-Como o presente livro se trata de uma narrativa *curta*, finalizamos com
-as palavras de Luiza Vilma Pires a respeito do
-
-subgênero:
-
-> sob o nome de narrativa curta, estão situadas obras que apresentam uma
-> trama um pouco mais complexa, que ocorre em diversos espaços e em uma
-> temporalidade que pode ser de vários dias, semanas ou meses.
-> Entretanto a função das ilustrações continua as mesmas, são
-> complementares à história e contribuem para sua compreensão. Os temas
-> relacionam-se a vivência infantis (brincadeiras, passeios, pequenas
-> aventuras), a aspectos ligados à interioridade das personagens (busca
-> de identidade, insegurança,
->
-> medos) ou a relações interpessoais (desentendimentos familiares, entre
-> amigos, solidariedade).[^7]
 
 010 
 ===
