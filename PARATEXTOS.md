@@ -63,6 +63,15 @@ pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores
 sente-se à vontade para falar de qualquer assunto, e dar opinião 
 sobre o mundo do nosso tempo. 
 
+Teatro
+------
+As peças de teatro não são escritas, incialmente, para serem lidas. Elas servem de roteiro para a montagem da peça no palco. Diretor, atores, contra-regra, iluminadores, figurinistas, sonoplastas - toda a equipe do grupo de teatro usa o texto como guia para criar o espetáculo ao qual o público vai assistir. Mas é claro que nós podemos comprar esse roteiro e lê-lo como se ele tivesse sido escrito para nosso desfrute pessoal. Muitos dramaturgos gostam mesmo de escrever suas peças pensando não apenas na montagem, mas também na experiência da leitura.  
+
+Os textos das peças de teatro têm algumas características específicas. Tradicionalmente eles começam com uma lista completa das personagens que vão aparecer no palco, mesmo que elas não tenham nenhuma fala e sejam apenas figurantes. As peças são divididas em *atos*, que servem como capítulos. Cada ato costuma ser dividido em *cenas*, que são unidades menores. 
+
+Muitas peças de teatro não têm narrador. Nelas as personagens interagem umas com as outras principalmente por meio de diálogos, nos quais se desenrolam os conflitos entre elas. É claro que não é apenas pela fala que as coisas acontecem: a expressão corporal dos atores também contribui muito para o andamento das ações. Para explicitá-la, o autor de uma peça usa as chamadas *rubricas*, pequenos comentários entre os diálogos que servem de guia para a equipe e para os leitores, em que se explica o que a personagem está fazendo, em que lugar do palco ela está localizada etc. As rubricas também podem indicar mudanças de cenário, avanços no tempo e até intensidade da luz, de acordo com a necessidade dessas alterações para a narrativa.
+
+Levando em consideração que a peça será apresentada ao grande público, a linguagem dos textos para teatro tende a se aproximar da fala cotidiana, mas, como a língua está sempre mudando, é muito comum que as trupes de teatro adaptem textos mais antigos para a fala do presente. Esse é um grande desafio dos autores de teatro: escrever um texto cuja força expressiva, associada à fala, se mantenha atual, apesar da passagem do tempo e de um certo envelhecimento de algumas expressões que caem em desuso. 
 
 
 
@@ -1090,7 +1099,33 @@ sobre o mundo do nosso tempo.
 Sobre o livro
 -------------
 
-????
+*Os cantos do Homem-Sombra* é um mito indígena do povo Hupd'äh, que vive em aldeias espalhadas pela floresta amazônica, na região do Alto Rio Negro, fronteira entre Brasil e Colômbia. Nessa lenda, um homem Hup se encanta ao ouvir as canções de um homem-sombra, Way Naku. Para o povo Hupd'äh, homens-sombra podem ser perigosos, causar doenças, matar e comer a carne e o espírito dos humanos. Mas seu canto é belo e irresistível.
+
+Lenda, fábula
+-------------
+
+A lenda e o mito são narrativas com elementos de fantasia transmitidas de 
+pai para filho através dos tempos. As lendas e os mitos combinam
+fatos reais e históricos com fatos que não têm comprovação de
+acontecimento, a não ser pela palavra dos que sobraram para contar a
+história. As lendas e mitos de uma sociedade são fundamentais para 
+entender quem são essas pessoas e no que acreditam, bem como suas
+tradições. Com exemplos bem definidos em todos os países do mundo, as lendas e os mitos
+de um povo geralmente fornecem explicações sobre muitos assuntos,
+como acontecimentos misteriosos ou sobrenaturais.  
+
+Sobre os autores
+-------------
+
+Como a lenda de *Os cantos do Homem-Sombra* é contada e recontada há muitas gerações pelo povo Hupd'äh, podemos considerar que essas pessoas todas do passado e do presente são as autores deste livro. Os vivem na região do Alto Rio Negro, no Estado do Amazonas, na fronteira com a Colômbia. Trata-se de cerca de 1500 pessoas, que moram em 35 aldeias diferentes. Os Hupd'äh vivem da pesca e da caça até hoje. Quando viajam, costumam encontrar pelo caminho outros tipos de gente, como os homens-sombra. 
+
+Patience Epps é linguista e professora da Universidade do Texas. Em 2002, ela foi morar com os Hupd'äh da aldeia Barreira Alta para pesquisar a língua Hup. Nessa pesquisa, ela gravou a história dos cantos do homem-sombra, que lhe foi contada por um sábio ancião Hup, chamado Mário Andrade Pires. A tradução dessa história para o português se transformou neste livro. O antropólogo Danilo Paiva Ramos também morou com os Hupd'äh e ouviu a mesma narrativa de um outro ancião, chamado Ponciano Salustiano Ramos.   
+
+
+Sobre a ilustradora
+-------------
+
+Anita Ekman é artista visual e pesquisadora de artes ameríndias e afro-brasileiras. É organizadora, ilustradora e editora de livros da coleção Mundo Indígena da Editora Hedra.  
 
 
 021 ✅
@@ -1143,11 +1178,15 @@ dramática *R.U.R.* (1920), *Hordubal* (1933), *Povetron* (1934) e
 peça realista *Bilá nemoc* (1937), em que conclamava o povo à
 solidariedade e à resistência contra o nazismo.
 
-
-
 Teatro
 ------
-!!!!
+As peças de teatro não são escritas, incialmente, para serem lidas. Elas servem de roteiro para a montagem da peça no palco. Diretor, atores, contra-regra, iluminadores, figurinistas, sonoplastas - toda a equipe do grupo de teatro usa o texto como guia para criar o espetáculo ao qual o público vai assistir. Mas é claro que nós podemos comprar esse roteiro e lê-lo como se ele tivesse sido escrito para nosso desfrute pessoal. Muitos dramaturgos gostam mesmo de escrever suas peças pensando não apenas na montagem, mas também na experiência da leitura.  
+
+Os textos das peças de teatro têm algumas características específicas. Tradicionalmente eles começam com uma lista completa das personagens que vão aparecer no palco, mesmo que elas não tenham nenhuma fala e sejam apenas figurantes. As peças são divididas em *atos*, que servem como capítulos. Cada ato costuma ser dividido em *cenas*, que são unidades menores. 
+
+Muitas peças de teatro não têm narrador. Nelas as personagens interagem umas com as outras principalmente por meio de diálogos, nos quais se desenrolam os conflitos entre elas. É claro que não é apenas pela fala que as coisas acontecem: a expressão corporal dos atores também contribui muito para o andamento das ações. Para explicitá-la, o autor de uma peça usa as chamadas *rubricas*, pequenos comentários entre os diálogos que servem de guia para a equipe e para os leitores, em que se explica o que a personagem está fazendo, em que lugar do palco ela está localizada etc. As rubricas também podem indicar mudanças de cenário, avanços no tempo e até intensidade da luz, de acordo com a necessidade dessas alterações para a narrativa.
+
+Levando em consideração que a peça será apresentada ao grande público, a linguagem dos textos para teatro tende a se aproximar da fala cotidiana, mas, como a língua está sempre mudando, é muito comum que as trupes de teatro adaptem textos mais antigos para a fala do presente. Esse é um grande desafio dos autores de teatro: escrever um texto cuja força expressiva, associada à fala, se mantenha atual, apesar da passagem do tempo e de um certo envelhecimento de algumas expressões que caem em desuso.          
 
 
 022 ✅ 
