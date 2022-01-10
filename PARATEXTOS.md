@@ -17,6 +17,8 @@ Nota[^A]
 > Citação
 
 --------------------------------------------------------------
+
+
 Géneros
 =======
 
@@ -66,100 +68,41 @@ sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 Conto
 -----
 
-
-
-Como se *contar uma
-história*? Um livro pode ser contato como um conto, uma crônica crônica,
+Como se *contar uma história*? Um livro pode ser contato como um conto, uma crônica crônica,
 uma novela, um romance romance ou uma fábula. Cada jeito de contar 
 uma história ganha um nome diferente. 
 
-
-...
-Toda narrativa possui, necessariamente, um narrador, uma personagem, um
-enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
-onisciente, literalmente *que tudo sabe*, observador ou personagem ---
-categorias que não são exclusivas. O discurso elaborado por este
-narrador pode ser direto, indireto ou indireto livre --- ou seja, ele
-pode aparecer mais diretamente ou mais indiretamente; no último caso,
-sua voz se mistura à das personagens da história.
-
-Sobre o enredo das narrativas curtas sabemos que
-
-> comumente são simples, se passam em um espaço único, em um curto
-> período de tempo e apresentam poucas personagens. Os temas giram em
-> torno de episódios do mundo infantil ou de episódios envolvendo
-> animais. As ilustrações ocupam quase toda a página e auxiliam
->
-> a criança a identificar, ma narrativa, as características externas das
-> personagens, as ações vividas por elas e os espaços onde ocorrem as
-> cenas. A linguagem é simples, sem muitos elos frasais. A história se
-> constrói, quase sempre, por meio de diálogos. A presença do narrador é
-> bastante pequena.[^6]
-
-O narrador **não é necessariamente** a voz do autor. É errada a
-afirmação de que o autor fala através do narrador de uma história. É
-bastante comum, há algum tempo na história literária, sobretudo desde os
-pré-modernistas, que o narrador represente justamente o contrário do que
-pensa o autor. Neste caso, utiliza-se elementos como a **ironia** para
-sugerir que o autor *não é confiável*.
-
-Já as personagens variam quanto a sua **profundidade**. Há personagens
-planas, ou personagens-tipo, e personagens redondas, ou complexas.
-Personagens planas são facilmente repetíveis pois se amparam em
-lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
-tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
-é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
-humanidade por alguma razão, às vezes sobrenatural. Personagens
-redondos, por outro lado, estão mais próximos das *pessoas reais*. Uma
-personagem complexa pode ser, em um dado momento da narrativa, vilã, e
-em outro, heroína. É importante notar como as visões de mundo
-influenciam na caracterização das personagens de uma história.
-
-O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
-cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
-marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
-outro e se delimita muito bem *passado*, *presente* e *futuro*. Já no
-tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos, e
-portanto, *não linear*, já que a influência emocional e psíquica afeta a
-racionalidade do tempo cronológico.
-
-O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
-caso, ele pode funcionar mais como um plano de fundo, sem muita
-interferência no enredo, ou mais ativamente, aproximando-se das
-características das personagens e influenciando no desenrolar da trama.
-
-O último aspecto de um gênero narrativo que podemos abordar é sua
-*extensão*. Dentre os elementos que distinguem um subgênero de outro é o
-tamanho da história: uma crônica e um conto são *necessariamente*
-curtos, ao passo que uma epopeia e um romance, são longos. Uma novela
-está no ponto intermediário entre um romance e um conto. Ainda
-poderíamos falar dos registros de cada subgênero: a epopeia é
-originalmente um subgênero *oral*, versificado, e metrificado, já o
-romance é tradicionalmente *escrito* em prosa. Desde meados do século
-[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
-subgêneros narrativos tornam-se cada vez menos rígido, com as
-características cada vez mais fluidas e intercomunicativas.
-
-Como o presente livro se trata de uma narrativa *curta*, finalizamos com
-as palavras de Luiza Vilma Pires a respeito do
-
-subgênero:
-
-> sob o nome de narrativa curta, estão situadas obras que apresentam uma
-> trama um pouco mais complexa, que ocorre em diversos espaços e em uma
-> temporalidade que pode ser de vários dias, semanas ou meses.
-> Entretanto a função das ilustrações continua as mesmas, são
-> complementares à história e contribuem para sua compreensão. Os temas
-> relacionam-se a vivência infantis (brincadeiras, passeios, pequenas
-> aventuras), a aspectos ligados à interioridade das personagens (busca
-> de identidade, insegurança,
->
-> medos) ou a relações interpessoais (desentendimentos familiares, entre
-> amigos, solidariedade).[^7]
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a v
+ida das personagens. Finalmente: o conto é um texto curto, muito bem amarradinho, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
 
-Prosa
------
+Lenda, fábula
+-------------
+
+A lenda e o mito são narrativas com elementos de fantasia transmitidas de 
+pai para filho através dos tempos. As lendas e os mitos combinam
+fatos reais e históricos com fatos que não têm comprovação de
+acontecimento, a não ser pela palavra dos que sobraram para contar a
+história. As lendas e mitos de uma sociedade são fundamentais para 
+entender quem são essas pessoas e no que acreditam, bem como suas
+tradições. Com exemplos bem definidos em todos os países do mundo, as lendas e os mitos
+de um povo geralmente fornecem explicações sobre muitos assuntos,
+como acontecimentos misteriosos ou sobrenaturais.
+
+A fábula é uma história curta em que os personagens principais
+geralmente são animais que agem como homens, falam e se parecem com eles.
+Essas personagens podem ser também objetos animados ou deuses. Em cada
+história há uma "lição de moral": uma mensagem educativa que
+tenta convencer o leitor de que algo está certo. A fábula veio do conto, mas
+é conhecida mesmo pelos personagens animais e pelas histórias com um ensinamento. 
+É uma história que pode ser contada em prosa ou em versos.
 
 
 
@@ -171,7 +114,7 @@ Prosa
 
 
 
-001 
+001 ✅ 
 ===
 
 Sobre o livro
@@ -230,16 +173,23 @@ Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
 jogos com ela...
 
 
-002 
+002 ✅
 ===
 
-A obra *Pedrinho petrificado* trata de um menino que tinha medo de tudo,
+Sobre o livro 
+-------------
+
+O livro *Pedrinho petrificado* conta a história de um menino que tinha medo de tudo,
 desde barulhos até pessoas em sua volta. O garoto não queria sair de
-casa e se recusava a tomar banho. Quando escuta um barulho misterioso na
-porta de sua casa, fica petrificado sem saber se deve abri-la. Ao longo
-da narrativa acompanhamos a jornada de Pedrinho para encontrar formas de
-ganhar coragem para ver o que há detrás da porta. É uma história que
-mostra como podemos superar medos e rirmos de nós mesmos.
+casa. Se recusava até a tomar banho. Quando escutava um barulho misterioso na
+porta de sua casa, ficava petrificado sem saber se deve abri-la ou não. Ao longo
+da narrativa acompanhamos a jornada de Pedrinho para encontrar 
+coragem para ver o que há detrás da porta. É uma história que
+mostra como aguentar o medo e também rir um pouco deles.
+
+
+Sobre as autoras
+----------------
 
 A autora, Kate Woodard, escreve livros infantis desde 2017 e *Pedrinho
 petrificado* foi o seu primeiro livro publicado. Ela nasceu em uma
@@ -252,9 +202,10 @@ passava horas em livrarias e bibliotecas na seção de livros
 infanto-juvenis, o que a inspirou a criar seus próprios mundos e
 personagens.
 
-Todos os livros de Kate são ilustrados por Sara Sanchez, que oferece uma
-experiência visual com entretenimento, humor e profundidade de
-significados. No caso de *Pedrinho petrificado*, as ilustrações possuem
+Todos os livros de Kate são ilustrados por Sara Sanchez, que nasceu
+em Madrid, na Espanha. Gosta de trabalhar com 
+ilustração digital, com humor e profundidade de significados. 
+No caso de *Pedrinho petrificado*, as ilustrações possuem
 cores vivas, texturas delicadas e detalhes que dão harmonia para as
 páginas. O trabalho de composição entre texto e imagem torna a narrativa
 mais especial e convidativa.
@@ -280,23 +231,28 @@ Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
 jogos com ela...
 
 
-003 
+003 ✅
 ===
 
-O LIVRO
+Sobre o livro
+-------------
 
-*Meu baú de cordéis* é uma reunião de poemas escritos por Klévisson
-Viana. Nesta coletânea poética, Klévisson mostra um leque variado de
-poemas na tradição cordelística, desde biografias até pequenas anedotas
+*Meu baú de cordéis* é um de cordéis. Foi escrito pelo 
+cordelista cearense Klévisson Viana para mostrar para para
+o público jovem como as histórias de cordel podem ser variadas. 
+Aqui você encontrará desde biografias até pequenas anedotas
 engraçadas, desde reflexões sobre a vida até fantasias sobre mundos
-maravilhosos. Klévisson revisita o "País de São Saruê" criado por Manuel
-Camilo dos Santos;[^2] reconta histórias impagáveis de como Lampião
+maravilhosos. 
+
+Klévisson reconta a história de "País de São Saruê" criado por Manuel
+Camilo dos Santos;[^2] reconta ainda histórias impagáveis de como Lampião
 tirou um espinho de um pé alheio ou um cavalo que bebeu cerveja num
 balcão; descreve de maneira emocionada a chegada no céu de seu irmão, o
 grande e saudoso Arievaldo Vianna; conta aventuras fantásticas que vão
 desde o sertão nordestino às cidades mexicanas.
 
-O AUTOR
+O autor 
+-------
 
 Klévisson Viana (Antônio Clévisson Viana Lima) é escritor, cordelista,
 roteirista, cartunista, xilogravador, editor e presidente da
@@ -311,14 +267,7 @@ folhetos de Literatura de Cordel. Seus trabalhos fluíram pelos
 quadrinhos, pela televisão e por adaptações para o teatro. Destaca-se o
 folheto *A quenga e o delegado*, transformado em episódio da série Brava
 Gente da Rede Globo. Tem trabalhos publicados em diversas editoras
-nacionais e internacionais como Chandeigne --- Paris ([fr]{.smallcaps}),
-Editora Leya --- Lisboa ([pt]{.smallcaps}), Editora Hedra --- São Paulo
-([br]{.smallcaps}), Nova Alexandria --- São Paulo ([br]{.smallcaps}),
-Editora Demócrito Rocha --- Ceará ([br]{.smallcaps}), Editora Amarilys
---- São Paulo ([br]{.smallcaps}), Edelbra --- Porto Alegre
-([br]{.smallcaps}), Nova Alexandria --- São Paulo ([br]{.smallcaps}),
-dentre outras. Tem outras obras publicadas em antologias na Turquia,
-Israel, Bélgica, Itália e Holanda.
+nacionais e internacionais.
 
 Dentre sua extensa obra podemos encontrar os livros *Sertão menino*, de
 2008, *Abecedário dos bichos*, de 2013, *O Guarani em cordel*, de 2013,
@@ -367,26 +316,26 @@ sobre o mundo do nosso tempo.
 
 
 
-004 
+004 ✅
 ===
 
-O LIVRO
+Sobre o livro
+-------------
 
-O livro começa com um leitor de cordel, imitando uma espécie de rapsodo,
-contando a história do anti-herói, Pedro Malazartes. Fala primeiro da
-forma do cordel e seus temas comuns, histórias com "sextilhas bem
+*Artimanhas de Pedro Malazartes* começa com um leitor de cordel, imitando uma espécie de cantador,
+contando a história de um rapaz um tanto atrapalhado chamado Pedro Malazartes. 
+Primeio o leitor conta história do cordel, com "sextilhas bem
 rimadas, / de amarelos sabidões / de Malazartes, Camões / Grilo e outros
-camaradas". Cita então a origem ibérica de Pedro Malazartes, sua vinda
-para o Brasil com a colonização e os estudos pelos quais essa personagem
-passou através das obras dos folcloristas Silvio Romero e Câmara
-Cascudo.
+camaradas". Conta então onde foi que nasceu Pedro Malazartes, sua vinda
+para o Brasil com a colonização e como os estudiosos do folclore recontaram 
+a sua história por aqui.
 
-Assim, pode introduzir a história propriamente: narra a infância pobre
-do menino que, desde pequeno, gostava de vadear e aprontar com os
+Somente depois desse início tão glorioso sobre o cordel é que ele narra a infância pobre
+do menino Malazartes que, desde pequeno, gostava de vadear e aprontar com os
 moradores da vila, safando-se das encrencas com esperteza e engenho.
 Depois da morte do pai e das agruras da pobreza, deixa a terra e a casa
 de sua família para o irmão, trabalhador, e parte como viajante sem
-destino. Sua primeira aventura dá-se em uma pequena vila na qual uma
+destino. Sua primeira aventura se dá em uma pequena vila na qual uma
 mulher tinha dificuldades durante o parto. Passando-se por benzedeiro,
 Pedro finge fazer mandingas e patuás que acabam ajudando a criança a
 nascer com saúde. Passa pouco tempo na cidadezinha, aclamado por seus
@@ -414,7 +363,8 @@ Malazartes come do bem e do melhor. De barriga cheia, consegue ainda
 vender o urubu para o dono da casa. Volta para encontrar o irmão e, com
 tal montante em dinheiro, tornam-se ricos empresários.
 
-O AUTOR
+O autor 
+-------
 
 Klévisson Viana (Antônio Clévisson Viana Lima) é escritor, cordelista,
 roteirista, cartunista, xilogravador, editor e presidente da
@@ -429,14 +379,7 @@ folhetos de Literatura de Cordel. Seus trabalhos fluíram pelos
 quadrinhos, pela televisão e por adaptações para o teatro. Destaca-se o
 folheto *A quenga e o delegado*, transformado em episódio da série Brava
 Gente da Rede Globo. Tem trabalhos publicados em diversas editoras
-nacionais e internacionais como Chandeigne --- Paris ([fr]{.smallcaps}),
-Editora Leya --- Lisboa ([pt]{.smallcaps}), Editora Hedra --- São Paulo
-([br]{.smallcaps}), Nova Alexandria --- São Paulo ([br]{.smallcaps}),
-Editora Demócrito Rocha --- Ceará ([br]{.smallcaps}), Editora Amarilys
---- São Paulo ([br]{.smallcaps}), Edelbra --- Porto Alegre
-([br]{.smallcaps}), Nova Alexandria --- São Paulo ([br]{.smallcaps}),
-dentre outras. Tem outras obras publicadas em antologias na Turquia,
-Israel, Bélgica, Itália e Holanda.
+nacionais e internacionais.
 
 Dentre sua extensa obra podemos encontrar os livros *Sertão menino*, de
 2008, *Abecedário dos bichos*, de 2013, *O Guarani em cordel*, de 2013,
@@ -451,7 +394,7 @@ mais zangado do mundo, volumes [i]{.smallcaps}, [ii]{.smallcaps} e
 [iii]{.smallcaps}*.
 
 Seu currículo consta de diversos prêmios importantes. Foi vencedor seis
-vezes consecutivas do [pnbe]{.smallcaps} --- Programa Nacional da
+vezes consecutivas do PNBE --- Programa Nacional da
 Biblioteca Escolar ([mec]{.smallcaps}), três vezes do Troféu
 [hq]{.smallcaps} Mix, uma vez do [pnaic]{.smallcaps} --- Programa
 Nacional de Alfabetização na Idade Certa ([mec]{.smallcaps}) e "Prêmio
@@ -461,7 +404,6 @@ Livro ([cbl]{.smallcaps}), dentre outros.
 Klévisson Viana coordena eventos culturais, ministra palestras, oficinas
 e recitais em todo o Brasil e já levou sua arte a países como França,
 Portugal, México, Cabo Verde e Costa Rica.
-
 
 Sobre o gênero
 --------------
@@ -482,17 +424,15 @@ e daí aplicá-la sobre o papel, como se fosse um grande carimbo.
 O cordel não tem nem um limite nem uma receita
 pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
 sente-se à vontade para falar de qualquer assunto, e dar opinião 
-sobre o mundo do nosso tempo. Como diz Clévisson Viana:
+sobre o mundo do nosso tempo. 
 
 
 
-
-005 
+005 ✅
 ===
 
-PARATEXTO
-
-O LIVRO
+Sobre o livro
+-------------
 
 O livro *Viagem ao reino encantado do cordel*, como o próprio nome
 indica, é um cordel de Klévisson Viana, ilustrado com xilogravuras de
@@ -544,7 +484,8 @@ servia. Ao final, as crianças voltam para o galpão, o pavão fecha-se
 novamente em sua maleta, e guardam para sempre as histórias que ouviram
 e viveram naquele dia.
 
-O AUTOR
+O autor
+-------
 
 Klévisson Viana (Antônio Clévisson Viana Lima) é escritor, cordelista,
 roteirista, cartunista, xilogravador, editor e presidente da
@@ -615,15 +556,16 @@ sente-se à vontade para falar de qualquer assunto, e dar opinião
 sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 
 
-006 
+006 ✅
 ===
 
-Paratexto - PNLD2023-006
+Sobre o livro
+-------------
 
 O livro *Sobrevoos* apresenta onze aves brasileiras que contam suas
 histórias através da poesia. São espécies de diversas regiões
 brasileiras que narram em primeira pessoa sobre práticas de seu dia a
-dia e características dos habitats em que vivem. A obra pode ser vista
+dia e características dos habitats em que vivem. O livro pode ser visto
 também como um catálogo de pássaros, escrita em um formato poético e
 acompanhada de ilustrações. As aves se apresentam e contam sobre a
 paisagem ao seu redor, falam sobre o meio-ambiente e a biodiversidade
@@ -633,9 +575,11 @@ espécies, o que aprofunda seu conteúdo interdisciplinar.
 
 O texto foi escrito pela dupla Lalau e Laurabeatriz, autores que
 trabalham juntos desde 1994 criando versos, histórias, imagens
-
 e sonhos para as crianças. Neste livro, eles criaram uma composição de
 poemas e ilustrações que homenageiam o dom de voar.
+
+Sobre os autores
+----------------
 
 Laurabeatriz, nome artístico de Laura Beatriz de Oliveira Leite de
 Almeida, nasceu no Rio de Janeiro em 1949, mas adotou São Paulo com sua
@@ -691,20 +635,13 @@ jogos com ela...
 
 
 
-007 
+007 ✅
 ===
 
-*O dia em que o mundo parou* foi escrito por Barbie Furtado e ilustrado
-por Emanuel Oliveira. O livro trata de Clara, uma menina de nove anos, e
-seu pai que vão pescar em um dia que o sol nasce do lado oposto. Tudo se
-torna estranho muito rapidamente, quando os moradores do povoado
-percebem que os seres da natureza agem de forma inesperada. Ao longo da
-história, acompanhamos a jornada de Clara para tentar entender o que
-está acontecendo com o mundo. É uma obra que emociona ao abordar temas
-urgentes como a relação dos seres humanos com a natureza e a poluição do
-meio ambiente.
+Sobre o livro
+-------------
 
-Dividido em cinco capítulos, este livro é uma narrativa curta. *O dia em
+Dividido em cinco capítulos, *O dia em
 que o mundo parou* conta a história de Clara, uma menina de nove anos
 que acompanha seu pai, José, enquanto ele pesca. Normalmente, sempre
 encontram peixes no mar, mas naquele dia não conseguem pescar nenhum.
@@ -733,32 +670,63 @@ poderia acontecer. Por fim, Clara reflete que, a partir daquele momento,
 ela e as pessoas em seu entorno poderiam agir pensando nos efeitos de
 suas ações para a natureza.
 
-A autora, Barbie Furtado, nasceu em Fortaleza. Fez a graduação em Letras
-Português - Inglês e o mestrado em Linguística, ambos pela Universidade
-Federal do Ceará ([ufc]{.smallcaps}). Trabalha como tradutora e
+*O dia em que o mundo parou* foi escrito por Barbie Furtado e ilustrado
+por Emanuel Oliveira. É uma obra que emociona ao abordar temas
+urgentes como a relação dos seres humanos com a natureza e a poluição do
+meio ambiente.
+
+
+Sobre os autores
+----------------
+
+A autora, Barbie Furtado, nasceu em Fortaleza. Estudou Letras
+e Linguística, ambos pela Universidade
+Federal do Ceará. Trabalha como tradutora e
 professora de inglês. Seu conto "A menina dos olhos dourados" foi
 publicado na na coletânea *Contos de Travessia* e o conto "Loop" na
 coletânea *Farol*. Em 2018, estudou roteiro na New York Film academy, em
-Nova York, [eua]{.smallcaps}.
+Nova York, nos Estados Unidos.
 
 O ilustrador, Emanuel Oliveira, nasceu e vive em Fortaleza. Faz fanzines
 desde adolescente, para trocar pelos quadrinhos de amigos. Formou-se em
 faculdade de Artes Visuais pelo Instituto Federal de Educação, Ciência e
-Tecnologia do Ceará ([ifce]{.smallcaps}). Realizou trabalhos com
+Tecnologia do Ceará. Realizou trabalhos com
 pintura, colagem e escultura, mas seu foco principal sempre foi o
 desenho. Além de *O dia em que o mundo parou*, ilustrou os livros "De
 um jeito que não era" e o "O segredo de Joãozinho".
 
+
+Poesia
+------
+Um poema é um texto que não ocupa a folha inteira. Cada uma das linhas do poema se
+chama verso, e um conjunto de versos se chama estrofe. Quando um autor escreve um
+poema, ele está interessado em fazer brincadeiras com as palavras. Uma dessas
+brincadeiras se chama rima, que é a repetição de sons parecidos em palavras
+diferentes. Também rima com alguém, história rima com glória, papel rima com
+chapéu, difícil rima com precipício. Mas nem sempre. Os poetas passam horas pensando nessas
+combinações e divertem os leitores com elas. Embora sejam textos escritos, poemas
+são feitos para ler em voz alta, para a gente perceber as rimas ali dentro. Como
+algumas brincadeiras dos poetas ficam escondidas nos versos, para descobrir cada
+uma delas a gente tem que ler o poema em voz alta mais de uma vez: primeiro a gente
+lê sozinho, depois com o professor, e então com os colegas. E aí tudo de novo, quantas
+vezes a gente quiser, porque é divertido. Outra coisa que os poetas sabem fazer muito
+bem é encontrar sentidos escondidos na mesma palavra. Poetas gostam de palavras
+como manga, que pode ser a manga da camiseta ou a fruta docinha que a gente come.
+Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
+jogos com ela...
 
 
 
 010 
 ===
 
+Sobre o livro
+-------------
+
 *A mulher que virou tatu* é uma narrativa tradicional indígena,
 originária da etnia Caxinauá, grupo que constitui a mais numerosa
-população indígena do Acre. A obra apresenta a criação do mito da
-domesticação da batata doce pelo tatu. Trata-se da história de uma velha
+população indígena do Acre. O livro apresenta a criação do mito da
+domesticação da batata doce pelo tatu e conta a história de uma velha
 que não consegue comer milho seco por ser desdentada. Ela deseja comer
 milho verde, alimento que conseguiria comer por ser macio. Porém, sua
 família lhe dá batata doce, uma vez que é mais fácil de produzir. A
@@ -767,27 +735,34 @@ a senhora é criticada em sua aldeia por ter comido toda a reserva de
 milho. Triste pela situação, a velha parte de sua casa decidida a virar
 tatu.
 
-Este é um livro bilíngue: em português e na língua Caxinauá. Eliane
-Camargo, linguista e organizadora da obra, atualizou a tradução da
-publicação original, visando incluir as mudanças linguísticas dos
-Caxinauá ao longo do tempo. A narrativa acompanha ilustrações feitas por
+Este é um livro em duas línguas, em português e na língua Caxinauá, pois 
+seus autores indígenas escreveram primeiro para eles mesmos 
+utilizarem o livro nas suas aldeias para ensinar 
+as crianças a ler e escrever, e, em segundo lugar, também para mostrar um pouco 
+da sua cultura para nós. 
+
+A história acompanha ilustrações feitas por
 Anita Ekman, que usou materiais como o carimbo para registrar grafismos
 indígenas nas páginas. Além da narrativa propriamente dita, o livro
 contém esclarecimentos necessários ao leitor não indígena, com
 explicações sobre a origem da obra e informações sobre os Caxinauá.
 
-Os quase oito mil Caxinauá fazem parte da família linguística pano,
-composta por cerca de trinta grupos. Seus territórios estão na fronteira
+Os quase oito mil Caxinauá fazem parte da etnia pano,
+composta por cerca de trinta grupos indígenas. Seus territórios estão na fronteira
 entre o Brasil e o Peru. No Brasil, eles vivem em doze terras indígenas
 e, no Peru, eles ocupam todo o rio Curanja e uma parte do rio Purus ---
 da cidade de Puerto Esperanza até a embocadura do rio Curanja.
 
-O historiador João Capistrano de Abreu trabalhou com dois jovens
+É importante lembrar que quem primeiro escreveu essas histórias 
+foi o historiador João Capistrano de Abreu, que trabalhou com dois jovens
 Caxinauás no início do século [xx]{.smallcaps}, que trabalharam com ele
 no registro de sua língua e de seu modo de vida. Esse encontro deu
 origem ao livro *Hantxa Huni Kuin --- A língua dos Caxinauás do rio
 Ibuaçu, afluente do Muru*, publicado em 1914 e que deu início ao estudo
 mais aprofundado das culturas Caxinauá.
+
+Sobre as autoras
+----------------
 
 A organizadora Eliane Camargo fez a graduação e o mestrado na
 Universidade de Paris [iii]{.smallcaps}. Seu doutorado foi concluído em
@@ -805,33 +780,33 @@ mestres de arte popular ibero-americana". Ilustrou diversos livros da
 coleção Mundo Indígena, de qual *A mulher que virou tatu* faz parte.
 Atualmente está desenvolvendo um projeto chamado DescolonizARTE.
 
-O gênero deste livro é *Lendas; mitos; fábula*. A lenda e o mito são
-narrativas com elementos de fantasia transmitidas pela tradição oral
-através dos tempos. De caráter fantástico, as lendas e os mitos combinam
+
+Lendas; mitos; fábula
+---------------------
+
+A lenda e o mito são narrativas com elementos de fantasia transmitidas de 
+pai para filho através dos tempos. As lendas e os mitos combinam
 fatos reais e históricos com fatos que não têm comprovação de
 acontecimento, a não ser pela palavra dos que sobraram para contar a
-história. As lendas e mitos de uma sociedade são fundamentais para que
-entendamos quem são essas pessoas e no que acreditam, bem como suas
-tradições. Uma lenda é verdadeira até que se prove o contrário. Com
-exemplos bem definidos em todos os países do mundo, as lendas e os mitos
-de um povo geralmente fornecem explicações plausíveis, e até certo ponto
-aceitáveis, para coisas que não têm explicações científicas comprovadas,
+história. As lendas e mitos de uma sociedade são fundamentais para 
+entender quem são essas pessoas e no que acreditam, bem como suas
+tradições. Com exemplos bem definidos em todos os países do mundo, as lendas e os mitos
+de um povo geralmente fornecem explicações sobre muitos assuntos,
 como acontecimentos misteriosos ou sobrenaturais.
 
-A fábula é uma narrativa curta em que os personagens principais
-geralmente são animais personificados. Estes animais apresentam
-características humanas, tais como a fala e traços de personalidade.
+A fábula é uma história curta em que os personagens principais
+geralmente são animais que agem como homens, falam e se parecem com eles.
 Essas personagens podem ser também objetos animados ou deuses. Em cada
-história há uma "lição de moral": uma mensagem de cunho educativo que
-busca conscientizar o leitor. A fábula veio do conto, mas se diferencia
-pela centralidade dos personagens animais e pelo intuito de concluir a
-história com um ensinamento. É uma história que pode ser contada em
-prosa ou em versos.
+história há uma "lição de moral": uma mensagem educativa que
+tenta convencer o leitor de que algo está certo. A fábula veio do conto, mas
+é conhecida mesmo pelos personagens animais e pelas histórias com um ensinamento. 
+É uma história que pode ser contada em prosa ou em versos.
 
 013 
 ===
 
-#### O livro
+Sobre o livro
+-------------
 
 *A semente e a torre* é uma das histórias escritas por Leonardo da
 Vinci, que tinha o hábito de escrever histórias em caderninhos quando
@@ -914,6 +889,9 @@ Fontaine, que é também um dos mais clássicos fabulistas já existentes.
 
 014 
 ===
+
+Sobre o livro
+-------------
 
 O conto *Ideias de canário*, de Machado de Assis, revela em uma
 narrativa breve a sagacidade de um dos mais importantes autores
@@ -1052,7 +1030,10 @@ concluir a história com um ensinamento moral.
 016 
 ===
 
-SOBRE O LIVRO A narrativa se passa em Bagdá, na época de prosperidade e
+Sobre o livro
+-------------
+
+A narrativa se passa em Bagdá, na época de prosperidade e
 riqueza dessa cidade. Aladim, filho travesso e preguiçoso de uma viúva,
 decide trabalhar para ajudar a mãe. Enquanto busca por trabalho, chega à
 cidade o "Feiticeiro Africano", personagem misterioso que está à procura
@@ -1316,10 +1297,16 @@ peculiares a certas regiões.
 017 
 ===
 
+Sobre o livro
+-------------
+
 ????
 
 019 
 ===
+
+Sobre o livro
+-------------
 
 O livro *Troca de pele*, de Tereza Yamashita, aborda a questão do
 combate ao preconceito de maneira envolvente, poética e imaginativa. Sua
@@ -1468,7 +1455,11 @@ as palavras de Luiza Vilma Pires a respeito do subgênero:
 021 
 ===
 
-SOBRE O LIVRO *A Fábrica de Robôs* causou alarde quando foi encenada
+
+Sobre o livro
+-------------
+
+*A Fábrica de Robôs* causou alarde quando foi encenada
 pela primeira vez, em 1921. Divida em três atos, a peça traz à tona uma
 temática incomum à época: a profunda crise deflagrada pelo avanço
 científico-tecnológico, a qual põe em risco a espécie humana. Após
@@ -1518,7 +1509,10 @@ teatrólogos, como Ésquilo, Sófocles, Eurípedes e Aristófanes.
 022 
 ===
 
-SOBRE O LIVRO *Lampião\... Era o cavalo do tempo atrás da besta da vida*
+Sobre o livro
+-------------
+
+*Lampião\... Era o cavalo do tempo atrás da besta da vida*
 é uma versão em quadrinhos da história do lendário cangaceiro
 pernambucano Virgulino Ferreira, mais conhecido pela alcunha de
 *Lampião*, que, diz-se, faz referência a sua habilidade em manejar o
@@ -1679,7 +1673,8 @@ xilogravura como com desenhos, figuras, etc.
 023 
 ===
 
-SOBRE O LIVRO
+Sobre o livro
+-------------
 
 Certa noite, para celebrar o Ano Novo e o Equinócio de Outono, o maior
 rei persa da história, Sabur, recebe em seu palácio três magos que o
@@ -1719,7 +1714,8 @@ com a jovem princesa e ambos vivem muitos anos de paz e alegria.
 Prevenido, no entanto, Sabur destrói o cavalo de ébano, para que não
 volte a provocar novas desarmonias e confusões em sua família.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Richard Francis Burton (1821-1890) foi um dos maiores exploradores do
 século [xix]{.smallcaps}, além de profundo conhecedor das culturas
@@ -1837,7 +1833,8 @@ tradicionais.
 025 
 ===
 
-SOBRE O LIVRO
+Sobre o livro
+-------------
 
 Ao longo de sua trajetória, a [FAU]{.smallcaps} (Faculdade de
 Arquitetura e Urbanismo da Universidade de São Paulo) assumiu uma
@@ -1892,7 +1889,8 @@ de nós. E por fim, Bruna se despede de nós leitores colocando a nossa
 protagonista para fechar as janelas, rezar, apagar as luzes e dormir em
 seu quarto cheio de ternura.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Bruna Martins é ilustradora e arquiteta. Participou de projetos como
 *Natal tropical*, *Dia das mães*, *Uma história de desigualdade*, entre
@@ -1972,7 +1970,10 @@ mundo recheado de vivências passadas por ela e pela sua família.
 026 
 ===
 
-SOBRE O LIVRO *Caminhando, eu vou!* é uma narrativa curta que conta a
+Sobre o livro
+-------------
+
+*Caminhando, eu vou!* é uma narrativa curta que conta a
 história de duas personagens, Severino e Eusébio, seu cachorro
 companheiro, que caminham no meio da caatinga em direção ao litoral em
 busca de uma vida melhor, longe da seca. Constituem, assim, o retrato do
@@ -2080,7 +2081,8 @@ palavras de Luiza Vilma Pires a respeito do subgênero:
 027 
 ===
 
-SOBRE O LIVRO
+Sobre o livro
+-------------
 
 Os contos presentes em *Figurinha carimbada* mostram a vida de seis
 meninos que narram, em primeira pessoa, suas angústias, sonhos e
@@ -2111,7 +2113,8 @@ trabalha em sua casa, um garoto negro. E a absorção desse acontecimento
 deparamos com diversas figuras que trazem, aos poucos, reflexões muito
 ricas.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Márcio Araújo é um ator, autor, roteirista e diretor brasileiro. Entre
 seus trabalhos estão textos para mais de 500 episódios do *Cocoricó* da
@@ -2219,7 +2222,8 @@ as palavras de Luiza Vilma Pires a respeito do subgênero:
 028 
 ===
 
-SOBRE O LIVRO
+Sobre o livro
+-------------
 
 *Mr. Phillow é um fantasma!* apresenta a narrativa um fantasma
 tipicamente inglês que mora num castelo da Inglaterra. Devido a sua
@@ -2247,7 +2251,8 @@ identificação e tornar a leitura ainda mais prazerosa, e instrutiva,
 caso o professor ou professora aproveite o ensejo para comentar a
 padronização da linguagem escrita.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Eloar Guazzelli Filho, ou apenas **Guazzelli**, nasceu em Vacaria, Rio
 Grande do Sul, em 1962. Torce para o Internacional de Porto Alegre,
@@ -2356,7 +2361,10 @@ palavras de Luiza Vilma Pires a respeito do subgênero:
 ??? O plano da Emília e outros textos
 
 030 
-=== SOBRE O LIVRO
+=== 
+
+Sobre o livro
+-------------
 
 Sabe aquelas típicas histórias de pescador? Substitua as pescarias por
 caçadas, batalhas e viagens, e imagine que elas são contadas por uma
@@ -2390,7 +2398,8 @@ tempo? Simplesmente porque essas aventuras são, em sua essência, um dos
 maiores prazeres da humanidade: a arte de contar e ouvir boas histórias
 --- sejam elas verdadeiras ou não.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Um dos aspectos mais intrigantes a respeito do Barão de Munchausen é
 que, por mais incrível e fantástico que pareça, ele realmente não é uma
@@ -2523,7 +2532,8 @@ as palavras de Luiza Vilma Pires a respeito do subgênero:
 031 
 ===
 
-SOBRE O LIVRO
+Sobre o livro
+-------------
 
 *As coisas* é o terceiro livro de poemas de Arnaldo Antunes. São ao todo
 42 poemas escritos pelo poeta e ilustrados por sua filha pequena, Rosa
@@ -2602,7 +2612,8 @@ funcionam como uma descoberta de mundo e das *coisas* que nos cercam,
 como se fossem ditas a partir do ponto de vista de uma criança, com uma
 linguagem simples, direta e objetiva.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Nascido em 2 de setembro de 1960 na cidade de São Paulo, Arnaldo Antunes
 é um multiartista: poeta, compositor, cantor popular e artista visual.
@@ -2698,7 +2709,8 @@ Sobre os aspectos formais do gênero, Rosenfeld nota:
 032 
 ===
 
-SOBRE A OBRA
+Sobre o livro
+-------------
 
 *Conversando com varejeiras azuis* é um livro que reúne as principais
 obras em verso, prosa e desenho de Edward Lear. Ao todo, são 22 obras,
@@ -2719,7 +2731,8 @@ algumas em prosa, outras em verso, divididas em seis partes:
 -   "Limeriques" são poemas de quatro ou cinco versos acompanhados de
     ilustrações que contam situações inusitadas e fantasiosas;
 
--   "O cinturão" é um "poema indiano" feito durante a estadia do autor
+-   "O cinturão" é um "poema indiano" feito durante a estadia dO autor
+-------
     na Índia e conta a história de um monstro que engoliu donzelas
     indefesas; e, por fim,
 
@@ -2728,7 +2741,8 @@ algumas em prosa, outras em verso, divididas em seis partes:
     com uma linguagem intencionalmente estranha --- mantida na tradução
     para o português.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Desenhista, pintor, escritor e músico, Edward Lear nasceu em Londres, em
 maio de 1812. É considerado, junto a Lewis Carrol, autor de *Alice no
@@ -2922,7 +2936,8 @@ palavras de Luiza Vilma Pires a respeito do subgênero:
 033 
 ===
 
-SOBRE O LIVRO
+Sobre o livro
+-------------
 
 *Cultura* é um livro de poesia e ilustrações que contêm o poema homônimo
 espalhado por suas páginas. Neste poema, o mundo natural é apresentado a
@@ -3011,7 +3026,8 @@ funcionam como uma descoberta de mundo e das *coisas* que nos cercam,
 como se fossem ditas a partir do ponto de vista de uma criança, com uma
 linguagem simples, direta e objetiva.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Nascido em 2 de setembro de 1960 na cidade de São Paulo, Arnaldo Antunes
 é um multiartista: poeta, compositor, cantor popular e artista visual.
@@ -3107,7 +3123,8 @@ Sobre os aspectos formais do gênero, Rosenfeld nota:
 034 
 ===
 
-SOBRE A OBRA
+Sobre o livro
+-------------
 
 Em *Os doze trabalhos de Hércules*, o autor Arthur Nestrovski conta, de
 forma leve e despretensiosa, um mito grego muito conhecido, com o apoio
@@ -3127,7 +3144,8 @@ rei, e obriga Hércules a se submeter a ele caso queira garantir a
 imortalidade. Foi por conta disso que Hércules teve de realizar os
 famosos doze trabalhos, ordenados pelo rei Euristeu.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 Arthur Nestrovski nasceu em Porto Alegre, no ano de 1959. Desde 2010 é
 diretor artístico da Orquestra Sinfônica do Estado de São Paulo, a
@@ -3189,6 +3207,9 @@ que é também um dos mais clássicos fabulistas do Ocidente.
 035 
 ===
 
+Sobre o livro
+-------------
+
 Por enquanto ele tem só 1 página extra, mas acho que conseguimos jogar o
 "\...fim" para a 44 mesmo!
 
@@ -3218,7 +3239,8 @@ espaços urbanos e desenhos arquitetônicos.
 036 
 ===
 
-SOBRE A OBRA
+Sobre o livro
+-------------
 
 Na curta e bela história de *O reino do meio da tarde*, somos
 apresentados a uma fábula de intensa carga poética sobre um reino que
@@ -3247,7 +3269,8 @@ baile iluminado por vagalumes e ritmado pelo som dos sapos, dançando até
 o dia raiar. Finalmente, assim, o reino pôde ser feliz, pois tinham o
 tempo: agora lá havia manhã, tarde e noite.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 #### A autora
 
@@ -3341,7 +3364,8 @@ ficam felizes, pois passaram a ter o tempo que tanto almejaram).
 037 
 ===
 
-SOBRE A OBRA
+Sobre o livro
+-------------
 
 *O galo Gogó* é um livro de literatura infantil composto por textos
 verbais e não verbais. Nele os leitores acompanham a rotina de um galo
@@ -3365,9 +3389,11 @@ sobretudo na área rural, onde estes bichos existem em maior quantidade,
 apenas a poesia da escrita, como aquela criada e transmitida pela
 imagem.
 
-SOBRE O AUTOR
+SOBRE O autor
+-------
 
 #### O autor
+-------
 
 Lucas-K, nome artístico de Lucas de Mesquita Kröeff, é um artista visual
 brasileiro. Bacharel em Design pela Universidade Federal de Minas Gerais
