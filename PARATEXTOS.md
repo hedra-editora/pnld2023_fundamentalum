@@ -67,12 +67,14 @@ Conto
 -----
 
 
-O gênero deste livro é *conto; crônica; novela*. O que define um gênero
-narrativo é o fato de, não importa qual seja sua forma, *contar uma
-história*. As especificidades do *como* esta história será contada
-caracteriza os tipos de gênero narrativo, que podem ser: conto, crônica,
-novela, epopeia, romance ou fábula.
 
+Como se *contar uma
+história*? Um livro pode ser contato como um conto, uma crônica crônica,
+uma novela, um romance romance ou uma fábula. Cada jeito de contar 
+uma história ganha um nome diferente. 
+
+
+...
 Toda narrativa possui, necessariamente, um narrador, uma personagem, um
 enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
 onisciente, literalmente *que tudo sabe*, observador ou personagem ---
