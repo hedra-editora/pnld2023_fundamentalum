@@ -65,6 +65,7 @@ sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 
 
 
+
 Conto
 -----
 
@@ -81,6 +82,29 @@ alguns detalhes para deixar a história mais interessante? Além disso, o lugar 
 momento em que as aventuras acontecem também podem ajudar ou complicar a v
 ida das personagens. Finalmente: o conto é um texto curto, muito bem amarradinho, 
 que te prende, porque tem uma história envolvente e um final surpreendente.
+
+
+Fábula e conto
+--------------
+A fábula é uma história curta em que os personagens principais
+geralmente são animais que agem como homens, falam e se parecem com eles.
+Essas personagens podem ser também objetos animados ou deuses. Em cada
+história há uma "lição de moral": uma mensagem educativa que
+tenta convencer o leitor de que algo está certo. A fábula veio do conto, mas
+é conhecida mesmo pelos personagens animais e pelas histórias com um ensinamento. 
+É uma história que pode ser contada em prosa ou em versos.
+
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a v
+ida das personagens. Finalmente: o conto é um texto curto, muito bem amarradinho, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
+
+
 
 
 Lenda, fábula
@@ -717,7 +741,7 @@ jogos com ela...
 
 
 
-010 
+010 ✅
 ===
 
 Sobre o livro
@@ -802,7 +826,7 @@ tenta convencer o leitor de que algo está certo. A fábula veio do conto, mas
 é conhecida mesmo pelos personagens animais e pelas histórias com um ensinamento. 
 É uma história que pode ser contada em prosa ou em versos.
 
-013 
+013 ✅
 ===
 
 Sobre o livro
@@ -835,6 +859,10 @@ lugar. É com a imagem da gralha em uma posição agressiva que termina o
 livro. Esta obra pode ser uma metáfora para a natureza tomando vida
 própria, mas acima de tudo, fala sobre o imprevisível da vida.
 
+
+Sobre os autores
+----------------
+
 O autor, Leonardo da Vinci, foi um dos maiores pintores e escultores de
 todos os tempos. Ele também foi escritor, cientista, matemático,
 engenheiro, anatomista e botânico. Nasceu na Itália, em uma pequena
@@ -860,71 +888,55 @@ editor de quadrinhos por mais de uma década na revista Sociedade
 Alternativa. Publicou diversas histórias em quadrinho e participou de
 várias exposições, individuais e coletivas.
 
-A fábula é uma narrativa curta em que os personagens principais
-geralmente são animais personificados. Estes animais apresentam
-características humanas, tais como a fala e traços de personalidade. Em
-cada história há uma "lição de moral": uma mensagem de cunho educativo
-que busca conscientizar o leitor. A fábula veio do conto, mas se
-diferencia pela centralidade dos personagens animais e pelo intuito de
-concluir a história com um ensinamento. É uma história que pode ser
-contada em prosa ou em versos.
 
-Sobre a origem da fábula, Douglas Tufano afirma que:
+Fábula
+------
 
-> A fábula teria nascido provavelmente na Ásia Menor e daí teria passado
-> pelas ilhas gregas, chegando ao continente helênico. Há registros
-> sobre fábulas egípcias e hindus, mas sua criação é atribuída à Grécia,
-> pois é onde a fábula passa a ser considerada como um tipo específico
-> de criatividade dentro da teoria literária.
->
-> Na Grécia, os primeiros exemplos de fábula datam do século VIII a.C.
-> Isso nos mostra, é claro, que Esopo não foi o inventor do gênero, mas
-> sim o mais conhecido fabulista na Antiguidade como autor e narrador
-> dessas pequenas histórias.[^9]
+A fábula é uma história curta em que os personagens principais
+geralmente são animais que agem como homens, falam e se parecem com eles.
+Essas personagens podem ser também objetos animados ou deuses. Em cada
+história há uma "lição de moral": uma mensagem educativa que
+tenta convencer o leitor de que algo está certo. A fábula veio do conto, mas
+é conhecida mesmo pelos personagens animais e pelas histórias com um ensinamento. 
+É uma história que pode ser contada em prosa ou em versos.
 
-Esopo foi um autor da Grécia Antiga a quem são atribuídas algumas das
-mais famosas fábulas, como *A raposa e o cacho de uvas* e *A galinha de
-ovos de ouro*. Diversas de suas histórias foram recontadas por La
-Fontaine, que é também um dos mais clássicos fabulistas já existentes.
 
-014 
+
+014 ✅
 ===
 
 Sobre o livro
 -------------
 
-O conto *Ideias de canário*, de Machado de Assis, revela em uma
-narrativa breve a sagacidade de um dos mais importantes autores
-brasileiros. Com traços de fábula, a história apresenta um canário,
+O conto *Ideias de canário*, do famoso e reconhecido 
+escritor brasileiro, Machado de Assis, conta 
+a incrível história de um canário,
 preso em uma gaiola, que é encontrado por um estudioso de pássaros em um
 brechó. Ao descobrir que o canário fala, o homem fica encantado e o
 compra. Em cada momento da história, o canário narra sua perspectiva de
-mundo, medida pela realidade que o cerca. O conto está repleto de
-elementos que incitam reflexões sobre ampliar seus horizontes e
-sentir-se livre.
+mundo, a partir do que ele consegue ver de dentro da sua gaiola. 
+*Ideias de canário* foi publicado pela primeira vez há 
+muito tempo, em 1899. 
 
-*Ideias de canário*, de Machado de Assis, é um conto publicado
-originalmente em 1899. Nessa versão adaptada para um livro ilustrado, a
-narrativa ganha uma vivacidade que a aproxima dos leitores de hoje em
-dia. O texto usa um irônico e bem-humorado para tratar de temas
-existenciais, como a sensação de liberdade e visões de mundo.
-
-O conto apresenta Macedo, que é um ornitólogo, um homem dedicado a
-estudar pássaros. Ele encontra em um brechó um canário falante. O
-ornitólogo fica fascinado pelo pássaro e decide comprá-lo. Em seguida,
+Macedo, o um ornitólogo, como são chamados os estudiosos de 
+passáros, é um homem dedicado, que quando descobre o passarinho
+fica fascinado e decide comprá-lo imediatamente. Em seguida,
 compra uma gaiola maior e a coloca na varanda de sua casa. Passa a
 estudar sobre o canário de forma quase obsessiva. Os dois conversam por
 horas a fio e a cada mudança na vida do canário, este relata uma visão
 de mundo diferente da anterior. Percebemos que, conforme o cenário muda,
 o pássaro percebe o mundo de acordo com os elementos presentes a seu
-redor e "esquece" do resto. O ápice da situação é quando o canário
+redor e "esquece" do resto. O melhor é quando o canário
 foge e é encontrado em uma árvore. Quando Macedo o pergunta se ele
 gostaria de voltar para sua vasta gaiola, o pássaro afirma que o mundo é
 um infinito espaço azul, com o sol por cima --- e nada mais.
 
+
+Sobre os autores
+----------------
+
 O autor, Machado de Assis, nasceu em 1839 no Rio de Janeiro. É
 frequentemente considerado o maior escritor
-
 brasileiro de todos os tempos. Ele escreveu em diversos gêneros
 literários: poesia, romance, crônica, dramaturgia, conto e folhetim.
 Trabalhou como jornalista no *Diário do Rio de Janeiro* de 1860 a 1867 e
@@ -935,97 +947,36 @@ fundadores da Academia Brasileira de Letras em 1897 e também o seu
 primeiro presidente.
 
 A ilustradora Luana Geiger nasceu em São Paulo, em 1974. Formou-se em
-Arquitetura pela Universidade de São Paulo () e em pedagogia e artes
-visuais pelo Claretiano com especialização em Mídias Interativas pelo
-Senac. Tem diversos livros publicados. Em 1999, recebeu prêmio de melhor
-trabalho de artes plásticas no Projeto Nascente 9 do Centro
-Universitário Maria Antônia. Ela conta que desde a primeira vez que leu
+Arquitetura pela Universidade de São Paulo e em pedagogia e artes
+visuais. Tem diversos livros publicados e em 1999, recebeu prêmio de melhor
+trabalho de artes plásticas no Projeto Nascente 9. 
+Ela conta que desde a primeira vez que leu
 *Ideias de canário* já imaginou as ilustrações. A escolha em colorir
 apenas uma parte de cada página do livro veio do intuito de ressaltar as
 diferentes percepções da realidade, tal como Machado de Assis explora no
 conto.
 
-O gênero deste livro é *conto; crônica; novela*.
+Fábula e conto
+--------------
+A fábula é uma história curta em que os personagens principais
+geralmente são animais que agem como homens, falam e se parecem com eles.
+Essas personagens podem ser também objetos animados ou deuses. Em cada
+história há uma "lição de moral": uma mensagem educativa que
+tenta convencer o leitor de que algo está certo. A fábula veio do conto, mas
+é conhecida mesmo pelos personagens animais e pelas histórias com um ensinamento. 
+É uma história que pode ser contada em prosa ou em versos.
 
-#### Descrição
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a v
+ida das personagens. Finalmente: o conto é um texto curto, muito bem amarradinho, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
-O que define um gênero narrativo é o fato de, não importa qual seja sua
-forma, *contar uma história*. As especificidades do *como* esta história
-será contada caracteriza os tipos de gênero narrativo, que podem ser:
-conto, crônica, novela, epopeia, romance ou fábula.
 
-Toda narrativa possui, necessariamente, um narrador, uma personagem, um
-enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
-onisciente, literalmente *que tudo sabe*, observador ou personagem ---
-categorias que não são exclusivas. O discurso elaborado por este
-narrador pode ser direto, indireto ou indireto livre --- ou seja, ele
-pode aparecer mais diretamente ou mais indiretamente; no último caso,
-sua voz se mistura à das personagens da história.
-
-Sobre o enredo das narrativas curtas sabemos que
-
-> comumente são simples, se passam em um espaço único, em um curto
-> período de tempo e apresentam poucas personagens. Os temas giram em
-> torno de episódios do mundo infantil ou de episódios envolvendo
-> animais. As ilustrações ocupam quase toda a página e auxiliam
->
-> a criança a identificar, ma narrativa, as características externas das
-> personagens, as ações vividas por elas e os espaços onde ocorrem as
-> cenas. A linguagem é simples, sem muitos elos frasais. A história se
-> constrói, quase sempre, por meio de diálogos. A presença do narrador é
-> bastante pequena.[^10]
-
-O narrador **não é necessariamente** a voz do autor. É errada a
-afirmação de que o autor fala através do narrador de uma história. É
-bastante comum, há algum tempo na história literária, sobretudo desde os
-pré-modernistas, que o narrador represente justamente o contrário do que
-pensa o autor. Neste caso, utiliza-se elementos como a **ironia** para
-sugerir que o autor *não é confiável*.
-
-Já as personagens variam quanto a sua **profundidade**. Há personagens
-planas, ou personagens-tipo, e personagens redondas, ou complexas.
-Personagens planas são facilmente repetíveis pois se amparam em
-lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
-tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
-é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
-humanidade por alguma razão, às vezes sobrenatural. Personagens
-redondos, por outro lado, estão mais próximos das *pessoas reais*. Uma
-personagem complexa pode ser, em um dado momento da narrativa, vilã, e
-em outro, heroína. É importante notar como as visões de mundo
-influenciam na caracterização das personagens de uma história.
-
-O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
-cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
-marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
-outro e se delimita muito bem *passado*, *presente* e *futuro*. Já no
-tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos, e
-portanto, *não linear*, já que a influência emocional e psíquica afeta a
-racionalidade do tempo cronológico.
-
-O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
-caso, ele pode funcionar mais como um plano de fundo, sem muita
-interferência no enredo, ou mais ativamente, aproximando-se das
-características das personagens e influenciando no desenrolar da trama.
-
-O último aspecto de um gênero narrativo que podemos abordar é sua
-*extensão*. Dentre os elementos que distinguem um subgênero de outro é o
-tamanho da história: uma crônica e um conto são *necessariamente*
-curtos, ao passo que uma epopeia e um romance, são longos. Uma novela
-está no ponto intermediário entre um romance e um conto. Ainda
-poderíamos falar dos registros de cada subgênero: a epopeia é
-originalmente um subgênero *oral*, versificado, e metrificado, já o
-romance é tradicionalmente *escrito* em prosa. Desde meados do século
-[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
-subgêneros narrativos tornam-se cada vez menos rígido, com as
-características cada vez mais fluidas e intercomunicativas.
-
-O presente livro se trata de um **conto**, que é uma história curta, com
-poucos personagens e centrada em apenas um núcleo narrativo. Geralmente,
-o conto tem elementos lúdicos e utiliza expressões metafóricas, com o
-intuito de retratar o cotidiano de maneira poética e subjetiva. O texto
-também possui características da fábula. A fábula veio do conto, mas se
-diferencia pela centralidade de personagens animais e pelo intuito de
-concluir a história com um ensinamento moral.
 
 016 
 ===
