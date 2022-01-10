@@ -11,46 +11,64 @@ Nota[^A]
 > Citação
 
 --------------------------------------------------------------
+Géneros
+=======
+
+Poesia
+------
+
+
+Prosa
+-----
+
+
+Conto
+-----
+
+
+
+
+
+--------------------------------------------------------------
+
+
+
 
 001 
 ===
 
-O livro *Ninguém e eu*, de Bart Mertens, apresenta "Ninguém", um
-menino que se sente extremamente sozinho. Cheio de tédio, não tinha
-nenhum lugar pra ir e ninguém para conversar e brincar. De repente,
-surge "Algo", uma bola para brincar de pega-pega. "Ninguém" e
-"Algo" se divertem muito juntos, mas com o passar do tempo "Ninguém"
-continua se sentindo sozinho. Até que "Algo" parte e "Ninguém"
-decide segui-lo. Os dois percorrem um longo caminho juntos, que os levam
-até "Eu", uma menina que tinha perdido "Algo" muito tempo atrás. Ela
-também buscava companhia e quando conhece "Ninguém", os dois se
-apaixonam à primeira vista e decidem se acompanhar para não se sentirem
-mais sozinhos.
 
-É uma obra sensível e com grande potência poética. É um texto que
-proporciona forte identificação, ao tratar de temas tão humanos como
-sentir-se sozinho, conectar-se com seus desejos, buscar o que está
-faltando e encontrar companhias ao longo da vida. A obra também trata da
-passagem do tempo, em que as marcas temporais se misturam e se confundem
-de um momento para outro, variando entre "horas, dias, semanas, anos e
-séculos"[^1].
+O livro *Ninguém e eu* é uma história divertida sobre Ninguém. 
+Ele era um menino sozinho, que não tinha nenhum amiguinho para brincar... 
+Mas logo isso tudo vai mudar. De repente, aparece uma bola na vida dele! 
+Ela vai trazer muita alegria e vai brincar de pega-pega com Ninguém. 
+O nome dessa bola é Algo. Ninguém e Algo ficam amigos e se divertem, 
+mas depois de um tempinho Ninguém continua se sentindo sozinho... 
+A partir daí, Ninguém e Algo vão embarcar em uma viagem que você vai adorar!
+Sempre tem uma pessoa querida esperando por você, mesmo que você não saiba! 
+Às vezes, a gente demora um tempo para encontrar um amigo, mas 
+ele sempre está lá, prontinho para encontrar com a gente, quando a gente menos espera...
+E tem mais: quem disse que as pessoas têm que ter nomes comuns? 
+O menino desta história se chama Ninguém... e tudo bem! 
 
-Através de brincadeiras com pronomes, o texto cria um efeito muito
-interessante. Ao princípio, pode causar estranhamento, mas ao
-mergulharmos na história, compreendemos facilmente. O texto e a
-ilustração trabalham juntos e apresentam um visual gráfico impecável,
-que enriquece ainda mais a experiência. *Ninguém e eu* é um livro
-emocionante e que poderá ser marcante para muitos estudantes e
-professores.
+Quem escreveu essa história foi autor chamado Bart Mertens, 
+que nasceu longe, bem longe do Brasil, no distante país da Bélgica. 
+Ele nasceu em 1980 na cidade de Halles.
+Bart Mertens gosta de escrever para as crianças como você! 
+Ele até já falou gosta de fazer teatrinho de bonecos para voltar a ser criança...
+*Ninguém e eu* é seu segundo livro voltado para o crianças.
+Ele também trabalhou como por cinco anos como ator de um dos principais grupos
+de teatro de bonecos da cidade de Flandres, um trabalho que, segundo ele, o fazia
+voltar a ser criança. 
 
-O autor Bart Mertens nasceu em 1980 na cidade de Halles, na Bélgica.
-*Ninguém e eu* é seu segundo livro voltado para o público infantil.
-Participou ao longo de cinco anos como ator de um dos principais grupos
-de teatro de bonecos de Flandres, um trabalho que, segundo ele, o fazia
-voltar a ser criança. O livro foi ilustrado por Benjamin Leroy, que
-nasceu em 1980 na cidade de Neerpelt, na Bélgica. Trabalhou durante
-alguns anos com animação e fez curso de ilustração em Hasselt. Formou-se
-em 2003 e desde então trabalha com livros ilustrados.
+Quem fez os desenhos dessa história foi Benjamin Leroy, que também nasceu na Bélgica,
+que nasceu em 1980 na cidade de Neerpelt, na Bélgica. Ele trabalhou durante
+alguns anos com desenho animado. 
+Ele também adora o mundo das crianças.
+E já faz um tempão que ele trabalha desenhando para crianças como você.
+
+
+
 
 O gênero deste livro é *poesia*. Um dos meios mais expressivos de
 comunicação e inovação da linguagem, a poesia é uma das mais antigas
