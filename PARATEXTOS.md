@@ -3,6 +3,12 @@ Como editar em Markedown
 
 Capítulo
 ========
+
+
+Subcapítulo
+-----------
+
+
 *Itálico*
 
 Nota[^A]
@@ -34,6 +40,37 @@ Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
 jogos com ela...
 
 
+Cordel
+------
+
+Tem gente que fala que a palavra *cordel* veio de Portugal, onde
+os vendiam *folhetos* em feiras pendurados em barbantes, em
+cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
+chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
+ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+era mais conhecido como *romance* ou *folheto* mesmo.
+
+Um cordel tem histórias curtas contadas em versos rimados por personagens
+lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
+feitas em xilogravura, uma técnica muito antiga que consiste em 
+desenhar numa maneira mais mole, depois passar tinta sobre ela 
+e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
+
+O cordel não tem nem um limite nem uma receita
+pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
+sente-se à vontade para falar de qualquer assunto, e dar opinião 
+sobre o mundo do nosso tempo. Como diz Clévisson Viana:
+
+> "Não há um só grande acontecimento local, nacional, ou mesmo mundial
+> que não tenha sido tratado pela literatura de cordel. O folheto mostra
+> a realidade, mais do que os grandes meios de comunicação, porque não é
+> atrelado a coisa alguma. É independente e é a opinião do autor. Não
+> tem interesse em grupos econômicos, nem tem patrocinadores. Por isso,
+> critica e aborda, como nenhum outro meio. Sendo honesto em suas
+> abordagens, é natural que o cordel se sinta ameaçado --- da mesma
+> forma que a televisão e o rádio ameaçaram o jornal impresso."[^3]
+
+
 Prosa
 -----
 
@@ -53,6 +90,8 @@ Conto
 001 
 ===
 
+Sobre o livro
+-------------
 
 O livro *Ninguém e eu* é uma história divertida sobre Ninguém. 
 Ele era um menino sozinho, que não tinha nenhum amiguinho para brincar... 
@@ -66,6 +105,9 @@ Sempre tem uma pessoa querida esperando por você, mesmo que você não saiba!
 ele sempre está lá, prontinho para encontrar com a gente, quando a gente menos espera...
 E tem mais: quem disse que as pessoas têm que ter nomes comuns? 
 O menino desta história se chama Ninguém... e tudo bem! 
+
+Sobre os autores
+----------------
 
 Quem escreveu essa história foi autor chamado Bart Mertens, 
 que nasceu longe, bem longe do Brasil, no distante país da Bélgica. 
@@ -83,27 +125,26 @@ alguns anos com desenho animado.
 Ele também adora o mundo das crianças.
 E já faz um tempão que ele trabalha desenhando para crianças como você.
 
+Sobre o gênero
+--------------
 
+Um poema é um texto que não ocupa a folha inteira. Cada uma das linhas do poema se
+chama verso, e um conjunto de versos se chama estrofe. Quando um autor escreve um
+poema, ele está interessado em fazer brincadeiras com as palavras. Uma dessas
+brincadeiras se chama rima, que é a repetição de sons parecidos em palavras
+diferentes. Também rima com alguém, história rima com glória, papel rima com
+chapéu, difícil rima com precipício. Mas nem sempre. Os poetas passam horas pensando nessas
+combinações e divertem os leitores com elas. Embora sejam textos escritos, poemas
+são feitos para ler em voz alta, para a gente perceber as rimas ali dentro. Como
+algumas brincadeiras dos poetas ficam escondidas nos versos, para descobrir cada
+uma delas a gente tem que ler o poema em voz alta mais de uma vez: primeiro a gente
+lê sozinho, depois com o professor, e então com os colegas. E aí tudo de novo, quantas
+vezes a gente quiser, porque é divertido. Outra coisa que os poetas sabem fazer muito
+bem é encontrar sentidos escondidos na mesma palavra. Poetas gostam de palavras
+como manga, que pode ser a manga da camiseta ou a fruta docinha que a gente come.
+Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
+jogos com ela...
 
-
-O gênero deste livro é *poesia*. Um dos meios mais expressivos de
-comunicação e inovação da linguagem, a poesia é uma das mais antigas
-formas de arte literária, anterior até mesmo à escrita, pois existe
-desde a tradição oral. Ela combina palavras, significados, sonoridades,
-ritmos e, muitas vezes, também imagens para permitir uma experiência
-estética. A linguagem poética é condensada e emotiva e busca trabalhar a
-língua de forma que o leitor experimente as palavras de uma forma nova.
-Na maior parte das vezes, a poesia é dividida em versos que, juntos, são
-chamados de estrofes. O ponto de vista do autor e sua visão pessoal do
-mundo estão muito presentes nesse tipo de texto e, justamente por essa
-particularidade, a experiência da leitura de uma poesia é extremamente
-individual e subjetiva.
-
-Esse gênero é um grande aliado na formação do leitor. O olhar da criança
-para o mundo é, em essência, um olhar poético, calcado na curiosidade
-pelo mundo. A poesia é a forma perfeita de valorizar esse olhar e
-incentivar que a criança brinque com as palavras, observe os sons e
-experimente novos ritmos.
 
 002 
 ===
@@ -134,44 +175,26 @@ cores vivas, texturas delicadas e detalhes que dão harmonia para as
 páginas. O trabalho de composição entre texto e imagem torna a narrativa
 mais especial e convidativa.
 
-O gênero deste livro é *poesia*. Um dos meios mais expressivos de
-comunicação e inovação da linguagem, a poesia é uma das mais antigas
-formas de arte literária, anterior até mesmo à escrita, pois existe
-desde a tradição oral. Ela combina palavras, significados, sonoridades,
-ritmos e, muitas vezes, também imagens para permitir uma experiência
-estética. A linguagem poética é condensada e emotiva e busca trabalhar a
-língua de forma que o leitor experimente as palavras de uma forma nova.
-Na maior parte das vezes, a poesia é dividida em versos que, juntos, são
-chamados de estrofes. O ponto de vista do autor e sua visão pessoal do
-mundo estão muito presentes nesse tipo de texto e, justamente por essa
-particularidade, a experiência da leitura de uma poesia é extremamente
-individual e subjetiva.
+Sobre o gênero
+--------------
 
-Esse gênero é um grande aliado na formação do leitor. O olhar da criança
-para o mundo é, em essência, um olhar poético, calcado na curiosidade
-pelo mundo. A poesia é a forma perfeita de valorizar esse olhar e
-incentivar que a criança brinque com as palavras, observe os sons e
-experimente novos ritmos. Por sua liberdade e criatividade, a poesia tem
-potencial para estabelecer um diálogo único com os pequenos leitores. A
-presença de fantasias, imagens, repetição e símbolos permite uma maior
-identificação, pois a criança ainda está construindo seu mundo interior
-e experimenta a vida de forma diferente do adulto.
+Um poema é um texto que não ocupa a folha inteira. Cada uma das linhas do poema se
+chama verso, e um conjunto de versos se chama estrofe. Quando um autor escreve um
+poema, ele está interessado em fazer brincadeiras com as palavras. Uma dessas
+brincadeiras se chama rima, que é a repetição de sons parecidos em palavras
+diferentes. Também rima com alguém, história rima com glória, papel rima com
+chapéu, difícil rima com precipício. Mas nem sempre. Os poetas passam horas pensando nessas
+combinações e divertem os leitores com elas. Embora sejam textos escritos, poemas
+são feitos para ler em voz alta, para a gente perceber as rimas ali dentro. Como
+algumas brincadeiras dos poetas ficam escondidas nos versos, para descobrir cada
+uma delas a gente tem que ler o poema em voz alta mais de uma vez: primeiro a gente
+lê sozinho, depois com o professor, e então com os colegas. E aí tudo de novo, quantas
+vezes a gente quiser, porque é divertido. Outra coisa que os poetas sabem fazer muito
+bem é encontrar sentidos escondidos na mesma palavra. Poetas gostam de palavras
+como manga, que pode ser a manga da camiseta ou a fruta docinha que a gente come.
+Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
+jogos com ela...
 
-O caráter polissêmico do texto poético pode e deve ser explorado no
-ambiente escolar, assim como a dimensão lúdica da linguagem e as suas
-possibilidades. A própria estrutura do poema já produz aprendizado: ela
-seduz e desafia o leitor, apresenta ritmos, efeitos sonoros e, ao mesmo
-tempo, apresenta novas vivências, oferecendo possibilidades para a
-criança simbolizar suas próprias experiências. Cada dupla de páginas do
-livro *Pedrinho petrificado* apresenta composições de versos e
-ilustrações. Assim, a leitura da poesia se faz em paralelo com a
-observação de uma ilustração que sugere caminhos de sentido e
-interpretação à criança. A leitura do poema, realizada pelo educador,
-aumenta o repertório do aluno, incentiva o desenvolvimento do
-vocabulário e da fluidez do discurso. A associação entre a aquisição da
-linguagem e a poesia, ademais, permite explorar múltiplas competências
-ao mesmo tempo, pois relaciona os princípios linguísticos à linguagem
-poética, introduzindo o aluno no universo lúdico e artístico da poesia.
 
 003 
 ===
@@ -237,28 +260,26 @@ Klévisson Viana coordena eventos culturais, ministra palestras, oficinas
 e recitais em todo o Brasil e já levou sua arte a países como França,
 Portugal, México, Cabo Verde e Costa Rica.
 
-O GÊNERO
+Sobre o gênero
+--------------
 
-Alguns estudiosos defendem que o termo *cordel* venha de Portugal, onde
-os *folhetos* eram vendidos em feiras pendurados em barbantes, em
-cordões que se chamavam cordéis. Já para outros, o cordel era assim
-chamado porque as brochuras eram encadernados com barbantes. No Brasil,
-porém, não se falava em cordel. Somente a partir dos anos 1960, com a
-persistência dos pesquisadores europeus pelo nome, os poetas passaram a
-ser chamados de cordelistas. Para o público mais popular, no entanto,
-ele continua sendo chamado de *romance* e *folheto*.
+Tem gente que fala que a palavra *cordel* veio de Portugal, onde
+os vendiam *folhetos* em feiras pendurados em barbantes, em
+cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
+chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
+ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+era mais conhecido como *romance* ou *folheto* mesmo.
 
-Chama-se cordel as histórias curtas em versos rimados de personagens
-lendárias impressas em cadernos, geralmente artesanais, com ilustrações
-feitas sob a técnica da
+Um cordel tem histórias curtas contadas em versos rimados por personagens
+lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
+feitas em xilogravura, uma técnica muito antiga que consiste em 
+desenhar numa maneira mais mole, depois passar tinta sobre ela 
+e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
 
-xilogravura, e comercializadas originalmente em feiras livres do
-Nordeste do Brasil. Sua origem remete às cantigas portuguesas medievais
-trazidas pelos colonos. O cordel não tem nem um limite nem uma receita
-pronta. É o verso da nossa tradição popular brasileira. Hoje, o gênero
-sente-se à vontade para falar de qualquer assunto, abordar qualquer
-temática e reflete sobre o mundo do nosso tempo. Como diz o próprio
-autor:
+O cordel não tem nem um limite nem uma receita
+pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
+sente-se à vontade para falar de qualquer assunto, e dar opinião 
+sobre o mundo do nosso tempo. Como diz Clévisson Viana:
 
 > "Não há um só grande acontecimento local, nacional, ou mesmo mundial
 > que não tenha sido tratado pela literatura de cordel. O folheto mostra
@@ -269,44 +290,7 @@ autor:
 > abordagens, é natural que o cordel se sinta ameaçado --- da mesma
 > forma que a televisão e o rádio ameaçaram o jornal impresso."[^3]
 
-O cordel aqui em questão carrega influências de outro gênero literário,
-também verbo-visual: a história em quadrinhos, ou [hq]{.smallcaps}. A
-[hq]{.smallcaps} é um gênero que trabalha ao mesmo tempo a linguagem
-verbal e a visual, portanto trata-se de uma **narrativa gráfica**. Não
-há uma hierarquia entre o texto e a ilustração: nem o texto é mera
-legenda da imagem, nem a imagem, mera ilustração do texto; são dois
-elementos de uma mesma obra, que deve ser lida como um todo.
 
-Ambas as formas literárias exercitam a imaginação e a criatividade das
-crianças e dos jovens quando bem utilizadas. Podem servir de reforço à
-leitura e constituem uma linguagem altamente dinâmica. São linguagens
-que, ainda que de uma origem longínqua, são adequadas à nossa era devido
-à fluidez, à intensidade e sobretudo à abertura à inovação que lhes
-constitui.
-
-#### A xilogravura
-
-Tanto o cordel quanto as histórias em quadrinhos têm algo em comum: a
-presença de imagens. Ao se pensar em cordel, logo se pensa em
-*xilogravura*,
-
-mas a xilogravura não surgiu com a literatura de cordel. Ela começou a
-fazer parte dos folhetos a partir da década de 1950. Tradicionalmente,
-trata-se de uma matriz de madeira que imita um clichê de chumbo. O
-clichê em si já é uma imitação da xilogravura, **uma técnica milenar dos
-egípcios e chineses**: recorta-se uma figura em relevo sobre uma
-madeira. A figura em relevo imprime, como um carimbo sobre um papel em
-branco, e as partes cortadas são os sulcos onde a tinta não aparece.
-
-A xilogravura entrou na vida da literatura de cordel como uma
-alternativa ao poeta sem recursos para ilustrar a capa de um folheto.
-Ela passou a compor a estrutura do folheto, embora o público não tenha
-se identificado de imediato. Hoje, se por um lado o público intelectual
-que gosta de folheto, o estudioso ou o turista que compra o folheto como
-uma curiosidade, prefere a capa com a xilogravura, o público mais
-tradicional prefere a capa com desenhos, fotografias. Os autores e
-editores tentam sempre agradar a todos, trabalhando tanto com a
-xilogravura como com desenhos, figuras, etc.
 
 004 
 ===
