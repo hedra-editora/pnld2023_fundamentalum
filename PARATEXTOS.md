@@ -16,6 +16,22 @@ Géneros
 
 Poesia
 ------
+Um poema é um texto que não ocupa a folha inteira. Cada uma das linhas do poema se
+chama verso, e um conjunto de versos se chama estrofe. Quando um autor escreve um
+poema, ele está interessado em fazer brincadeiras com as palavras. Uma dessas
+brincadeiras se chama rima, que é a repetição de sons parecidos em palavras
+diferentes. Também rima com alguém, história rima com glória, papel rima com
+chapéu, difícil rima com precipício. Mas nem sempre. Os poetas passam horas pensando nessas
+combinações e divertem os leitores com elas. Embora sejam textos escritos, poemas
+são feitos para ler em voz alta, para a gente perceber as rimas ali dentro. Como
+algumas brincadeiras dos poetas ficam escondidas nos versos, para descobrir cada
+uma delas a gente tem que ler o poema em voz alta mais de uma vez: primeiro a gente
+lê sozinho, depois com o professor, e então com os colegas. E aí tudo de novo, quantas
+vezes a gente quiser, porque é divertido. Outra coisa que os poetas sabem fazer muito
+bem é encontrar sentidos escondidos na mesma palavra. Poetas gostam de palavras
+como manga, que pode ser a manga da camiseta ou a fruta docinha que a gente come.
+Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
+jogos com ela...
 
 
 Prosa
