@@ -987,7 +987,7 @@ que te prende, porque tem uma história envolvente e um final surpreendente.
 
 
 
-017 
+017 ✅
 ===
 
 Sobre o livro
@@ -995,8 +995,22 @@ Sobre o livro
 
 *Os cantos do Homem-Sombra* é um mito indígena do povo Hupd'äh, que vive em aldeias espalhadas pela floresta amazônica, na região do Alto Rio Negro, fronteira entre Brasil e Colômbia. Nessa lenda, um homem Hup se encanta ao ouvir as canções de um homem-sombra, Way Naku. Para o povo Hupd'äh, homens-sombra podem ser perigosos, causar doenças, matar e comer a carne e o espírito dos humanos. Mas seu canto é belo e irresistível.
 
-Lenda, fábula
--------------
+Sobre os autores
+----------------
+
+Como a lenda de *Os cantos do Homem-Sombra* é contada e recontada há muitas gerações pelo povo Hupd'äh, podemos considerar que essas pessoas todas do passado e do presente são as autores deste livro. Os vivem na região do Alto Rio Negro, no Estado do Amazonas, na fronteira com a Colômbia. Trata-se de cerca de 1500 pessoas, que moram em 35 aldeias diferentes. Os Hupd'äh vivem da pesca e da caça até hoje. Quando viajam, costumam encontrar pelo caminho outros tipos de gente, como os homens-sombra. 
+
+Patience Epps é linguista e professora da Universidade do Texas. Em 2002, ela foi morar com os Hupd'äh da aldeia Barreira Alta para pesquisar a língua Hup. Nessa pesquisa, ela gravou a história dos cantos do homem-sombra, que lhe foi contada por um sábio ancião Hup, chamado Mário Andrade Pires. A tradução dessa história para o português se transformou neste livro. O antropólogo Danilo Paiva Ramos também morou com os Hupd'äh e ouviu a mesma narrativa de um outro ancião, chamado Ponciano Salustiano Ramos.   
+
+
+Sobre a ilustradora
+-------------------
+
+Anita Ekman é artista visual e pesquisadora de artes ameríndias e afro-brasileiras. É organizadora, ilustradora e editora de livros da coleção Mundo Indígena da Editora Hedra.  
+
+
+Sobre o gênero
+--------------
 
 A lenda e o mito são narrativas com elementos de fantasia transmitidas de 
 pai para filho através dos tempos. As lendas e os mitos combinam
@@ -1007,20 +1021,6 @@ entender quem são essas pessoas e no que acreditam, bem como suas
 tradições. Com exemplos bem definidos em todos os países do mundo, as lendas e os mitos
 de um povo geralmente fornecem explicações sobre muitos assuntos,
 como acontecimentos misteriosos ou sobrenaturais.  
-
-Sobre os autores
--------------
-
-Como a lenda de *Os cantos do Homem-Sombra* é contada e recontada há muitas gerações pelo povo Hupd'äh, podemos considerar que essas pessoas todas do passado e do presente são as autores deste livro. Os vivem na região do Alto Rio Negro, no Estado do Amazonas, na fronteira com a Colômbia. Trata-se de cerca de 1500 pessoas, que moram em 35 aldeias diferentes. Os Hupd'äh vivem da pesca e da caça até hoje. Quando viajam, costumam encontrar pelo caminho outros tipos de gente, como os homens-sombra. 
-
-Patience Epps é linguista e professora da Universidade do Texas. Em 2002, ela foi morar com os Hupd'äh da aldeia Barreira Alta para pesquisar a língua Hup. Nessa pesquisa, ela gravou a história dos cantos do homem-sombra, que lhe foi contada por um sábio ancião Hup, chamado Mário Andrade Pires. A tradução dessa história para o português se transformou neste livro. O antropólogo Danilo Paiva Ramos também morou com os Hupd'äh e ouviu a mesma narrativa de um outro ancião, chamado Ponciano Salustiano Ramos.   
-
-
-Sobre a ilustradora
--------------
-
-Anita Ekman é artista visual e pesquisadora de artes ameríndias e afro-brasileiras. É organizadora, ilustradora e editora de livros da coleção Mundo Indígena da Editora Hedra.  
-
 
 021 ✅
 ===
@@ -1200,148 +1200,109 @@ que a cada quadro fornece uma cena como no cinema. É uma linguagem bastante
 popular em diversas partes do mundo, que tem sua origem na pintura de ícones. 
 
 
-024
-===
-???
-
-025 
+024 ✅
 ===
 
 Sobre o livro
 -------------
 
-Ao longo de sua trajetória, a [FAU]{.smallcaps} (Faculdade de
-Arquitetura e Urbanismo da Universidade de São Paulo) assumiu uma
-posição de defesa de um ensino do que é chamado de arquitetura total,
-cujo resultado seria um profissional apto a responder por todos os
-campos da arte, construção, design, política e história. De acordo com
-seu mentor inicial, Vilanova Artigas, formado na Escola Politécnica da
-[USP]{.smallcaps}, a [fau]{.smallcaps} não visa formar somente
-arquitetos, mas sim dar ao discente uma noção aplicada de sociedade, em
-outras palavras, conhecer o funcionamento do mundo para que, não
-importando em qual entidade ou profissão o formado da
-[fauusp]{.smallcaps} estiver, possa influenciar positivamente em
-qualquer projeto, conhecendo a realidade e contribuindo para a melhoria
-da mesma. E foi através dessa faculdade, que traz a possibilidade de uma
-criação muito além da arquitetura e do urbanismo, que a autora da obra
-*Onde moram as coisas*, Bruna Martins, conseguiu editar seu livro. A
-obra, ilustrada pela própria Bruna, foi a conclusão de curso da sua
-formação na [fauusp]{.smallcaps}. *Onde moram as coisas*, antes de mais
-nada, é um passeio sentimental pelo apartamento de Dona Pedrina, a avó
-da autora. Muito mais que ilustrações, este livro traz desenhos
-minunciosamente escolhidos dentro da própria memória infantil e afetiva
-de Bruna. Com muitos detalhes e cuidado, tanto a escrita quanto as
-ilustrações têm um único objetivo, de nos transportar para aquela casa
-de avó que existe na nossa mais tenra memória.
+*O cavalo de ébano* é uma lenda que faz parte do conhecido ciclo de histórias das *Mil e uma
+noites*. O príncipe Kamar al-Akmar consegue chegar a qualquer lugar do mundo cavalgando o cavalo de ébano voador. Reis, princesas, sultões, magos, feiticeiros, objetos mágicos - todos esses objetos fazem parte dessa narrativa encantadora, cheia de voos rasantes pelos reinos encantados da Pérsia antiga, seus palácios, cidades maravilhosas e jardins suntuosos, repletos de tesouros e mistérios.   
 
-> Este é um livro sobre minha avó Pedrina e sua casa, que fica no
-> edifício Lucila, quarto andar, fim do corredor.
+Sobre o autor
+-------------
 
-É assim que a autora escolhe começar o seu livro. A partir daí,
-conhecemos, através dos desenhos cuidadosamente ilustrados, desde a
-recepção dada por Dona Pedrina na portaria do seu prédio, até a planta
-baixa completa do apartamento. A planta baixa de uma casa é a
-representação desse espaço em projeção horizontal. Ou seja, é como se
-nós víssemos os cômodos e pormenores do imóvel de cima, sem o teto. A
-partir daí, vamos cômodo a cômodo, sempre representado por um objeto
-inicial, percorrendo este apartamento com suas memórias e histórias que
-Dona Pedrina faz questão de compartilhar com sua neta e por conseguinte
-com os leitores. Cada cômodo tem uma lembrança, um cheiro, uma textura,
-sutilmente descritos pela autora nesse trajeto quase sensorial. "Um
-objeto nunca é só uma coisa" é a frase escolhida para adentrarmos na
-sala. E quando entramos, o olhar de Bruna vai nos conduzindo a conhecer
-muito além de uma definição concreta desses objetos. Por exemplo,
-sabemos que a irmã de Dona Pedrina, que sempre se sentava na cadeira de
-balanço da sala quando ia visitá-la, nunca se casou ou teve filhos.
-Assim também conhecemos a história do avô de Bruna, marido de Dona
-Pedrina, através da poltrona de couro. Também sabemos como foi feita a
-compra desse tão sonhado apartamento. Entre aberturas de gavetas,
-espiadas em álbuns antigos e banhos de banheira, vamos passeando e nos
-deleitando ao longo do desenho de um apartamento que se propõe a
-mergulhar nos detalhes das coisas que formam o mundo interno de cada um
-de nós. E por fim, Bruna se despede de nós leitores colocando a nossa
-protagonista para fechar as janelas, rezar, apagar as luzes e dormir em
-seu quarto cheio de ternura.
+Richard Francis Burton (1821-1890) foi um dos maiores exploradores do
+século XIX, além de profundo conhecedor das culturas
+orientais e africanas. Em 1842, ele partiu para a
+Índia e, em Bombaim, estudou hindustani e persa. Em 1853 foi para o
+Cairo e percorreu os lugares sagrados da religião islâmica, experiência
+que resultou no livro *Peregrinações a Medina e Meca* (1855).
 
-SOBRE O autor
--------
+Fez diversas expedições pela África sob o patrocínio da Real Sociedade
+Geográfica inglesa em busca das nascentes do rio Nilo. Descobriu o Lago
+Tanganica, entre as repúblicas da Tanzânia, Congo, Burundi e Zâmbia.
+Começou a publicar em 1855 sua tradução das *Mil e uma
+noites* em dezesseis volumes. Recebeu o título de Sir,
+outorgado pela Rainha Vitória, em 1866. Em 1881, publicou um comentário
+sobre *Os lusíadas*, de Luís de Camões. Conheceu o Brasil e
+morou em Santos, no litoral do estado de São Paulo. Também percorreu
+Minas Gerais, em viagem que registrou no livro *Explorações nos
+planaltos do Brasil* (1869).
+
+Sobre a tradutora
+-----------------
+
+Marta Chiarelli de Miranda nasceu no Rio de Janeiro, mas atualmente
+reside em Florianópolis. É graduada em Comunicação Visual pela
+PUC do Rio de Janeiro e antes de trabalhar como revisora e
+tradutora atuou como desenhista gráfica e arte-finalista na redação do
+*Jornal do Brasil*, no Rio de Janeiro, e na University Press da Carolina
+do Norte, nos Estados Unidos. Como revisora de tradução realizou
+diversos trabalhos junto a editoras de São Paulo e do Rio de Janeiro,
+nos mais diversos gêneros literários, desde o início dos anos 1990. No
+campo da tradução tem livros publicados tanto na área de história, como
+de ficção e literatura infantojuvenil.
+
+Sobre a ilustradora
+-------------------
+
+Andréa Corbani nasceu em São Paulo em 1970. Sempre quis ser desenhista.
+Na escola gostava de física e queria fazer astronomia. No vestibular
+escolheu física porque queria descobrir como o mundo funciona. Um dia,
+na biblioteca da faculdade, viu um anúncio: "Descubra com quantos traços
+se faz um artista!" Ali percebeu que era com o desenho que descobriria o
+mundo. Foi desenhar e aprender gravura. Ilustrou seu primeiro
+livro em 2001. Gostou tanto de brincar com as imagens e o texto que não
+parou mais de ilustrar livros.
+
+Sobre o gênero: lenda
+---------------------
+
+A lenda e o mito são narrativas com elementos de fantasia transmitidas de 
+pai para filho através dos tempos. As lendas e os mitos combinam
+fatos reais e históricos com fatos que não têm comprovação de
+acontecimento, a não ser pela palavra dos que sobraram para contar a
+história. As lendas e mitos de uma sociedade são fundamentais para 
+entender quem são essas pessoas e no que acreditam, bem como suas
+tradições. Com exemplos bem definidos em todos os países do mundo, as lendas e os mitos
+de um povo geralmente fornecem explicações sobre muitos assuntos,
+como acontecimentos misteriosos ou sobrenaturais.
+
+025 ✅
+
+Sobre o livro
+-------------
+
+*Onde moram as coisas* é um passeio sentimental pelo apartamento de Dona Pedrina, a avó
+de Bruna Martins, autora do livro. Muito mais que ilustrações, este livro traz desenhos
+minunciosamente construídos na própria memória infantil e afetiva
+de Bruna. Textos e imagens têm aqui um único objetivo: transportar o leitor para aquela aconchegante casa
+de avó. O livro convida o leitor a passear por cada um dos cômodos, sempre representados por um objeto
+inicial, e percorrer memórias e histórias do passado e do presente. Cada lugar guarda uma lembrança, um cheiro, uma textura,
+sutilmente descritos nesse trajeto sensorial. "Um
+objeto nunca é só uma coisa" é a frase-síntese, o ponto de partida para recuperação do pretérito familiar. Entre aberturas de gavetas,
+espiadas em álbuns antigos e banhos de banheira, vamos nos
+deleitando naquele apartamento e nas coisas que formam o mundo interno da autora e sua avó. 
+
+Sobre a autora e ilustradora
+----------------------------
 
 Bruna Martins é ilustradora e arquiteta. Participou de projetos como
 *Natal tropical*, *Dia das mães*, *Uma história de desigualdade*, entre
-outros. Formada pela [fauusp]{.smallcaps}, o livro em questão é
-resultado de eu trabalho de conclusão de curso.
+outros. Formada pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, o livro em questão é
+resultado de seu trabalho de conclusão de curso.
 
-SOBRE O GÊNERO
+Sobre o gênero
+--------------
 
-O gênero deste livro é **memória literária**. A memórias literárias
-podem ser definidas como textos produzidos por escritores que dominam o
-ato de escrever como arte e revivem uma época por meio de suas
-lembranças pessoais. A produção de um texto voltado para o gênero
-memória literária tem como finalidade uma lembrança do passado, a busca
-de recordações, procurando relembrar pessoas e acontecimentos que foram
-importantes na vida do narrador. Chama-se relato de memórias o gênero de
-literatura em que o autor conta fatos de sua vida. É tipicamente um
-gênero do modo narrativo, assim como a novela e o conto, porém essa
-classificação é predominantemente atribuída a histórias verídicas ou
-mesmo baseadas em fatos reais.
+O gênero deste livro é *memória literária*. Nas memórias literárias
+os autores pretendem reviver uma época por meio de 
+lembranças pessoais escritas. A produção de um texto voltado para o gênero
+memória literária tem como finalidade uma lembrança do passado, procurando recordar pessoas e acontecimentos que foram
+importantes na vida do narrador. 
 
-> Tudo o que não invento é falso.
-
-E assim se inicia o livro *Memórias Inventadas*, de Manoel de Barros, no
-qual são reunidos três livros de poesia em prosa do autor. A ideia
-inicial proposta a Manoel era a de escrever as várias fases de sua vida.
-Depois do primeiro livro da série projetada, o poeta percebeu, contudo,
-que a escrita da memória, a memória do poeta, teria que ser sempre a
-escrita de uma infância -- imaginária, sim, porém enraizada na
-experiência vivida. A infância é seu manancial permanente de inspiração
-e trabalho. A série 'Memórias Inventadas', resultou de um desafio
-proposto ao poeta: escrever sua autobiografia. Seus pequenos contos
-transportam o leitor para o tempo em que as crianças construíam seus
-próprios brinquedos. Texto e imagem se completam, compondo um cenário
-único. Na obra de Manoel de Barros, a dificuldade/ originalidade de
-elaboração da linguagem é, paradoxalmente, revestida de extrema
-simplicidade. Esse é o segredo de seu sucesso popular e do apreço que os
-especialistas têm por sua poesia.
-
-> OBRAR
->
-> Naquele outono, de tarde, ao pé da roseira de minha avó, eu obrei.
-> Minha avó não ralhou nem. Obrar não era construir casa ou fazer obra
-> de arte. Esse verbo tinha um dom diferente. Obrar seria o mesmo que
-> cacarar. Sei que o verbo cacarar se aplica mais a passarinhos Os
-> passarinhos cacaram nas folhas nos postes nas pedras do rio nas casas.
-> Eu só obrei no pé da roseira da minha avó. Mas ela não ralhou nem. Ela
-> disse que as roseiras estavam carecendo de esterco orgânico. E que as
-> obras trazem força e beleza às flores. Por isso, para ajudar, andei a
-> fazer obra nos canteiros da horta. Eu só queria dar força às
-> beterrabas e aos tomates. A vó então quis aproveitar o feito para
-> ensinar que o cago não é uma coisa desprezível. Eu tinha vontade de
-> rir porque a vó contrariava os ensinos do pai. Minha avó, ela era
-> transgressora. No propósito ela me disse que até as mariposas gostavam
-> de roçar nas obras verdes. Entendi que obras verdes seriam aquelas
-> feitas no dia. Daí que também a vó me ensinou a não desprezar as
-> coisas desprezíveis E nem os seres desprezados.
-
-Assim como Manoel de Barros busca, através de pequenas historietas,
-recuperar a poética e a ética de uma vida inteira, em *Onde moram as
-coisas*, Bruna Martins procura lidar com as suas próprias ferramentas de
-linguagem. Não só por fazer parte de um trabalho de conclusão de curso
-de uma faculdade de arquitetura, a obra carrega em si a pesquisa de uma
-poética singular trazendo o desenho como imagem que também carrega
-memórias e histórias e colabora para a construção deste gênero
-literário. Assim como na literatura, na arquitetura também existe um
-memorial descritivo. Esse memorial descritivo de uma obra é um documento
-que traz em detalhes tudo que será executado. Ele informa todas
-estruturas e materiais que estarão presentes na edificação, como
-instalações elétricas, louças, revestimentos, entre outras. No livro, a
-autora decidiu unir o gênero memórias literárias com um memorial
-descritivo de uma obra estrutural arquitetônica. Sem perder o enfoque da
-narrativa singela e repleta de ternura que passa por todo o seu livro. A
-autora também nos faz entrar em contato com desenhos bastante
-específicos de cada objeto escolhido para ajudar na apresentação de um
-mundo recheado de vivências passadas por ela e pela sua família.
-
-026 
+026 ✅  
 ===
 
 Sobre o livro
@@ -1350,24 +1311,23 @@ Sobre o livro
 *Caminhando, eu vou!* é uma narrativa curta que conta a
 história de duas personagens, Severino e Eusébio, seu cachorro
 companheiro, que caminham no meio da caatinga em direção ao litoral em
-busca de uma vida melhor, longe da seca. Constituem, assim, o retrato do
-retirante nordestino. No meio do caminho, encontram aquilo que parece
+busca de uma vida melhor, longe da seca. No meio do caminho, encontram aquilo que parece
 ser uma miragem: um extenso grupo de pessoas também em marcha, mas
 guiadas por um líder, Moisés. Trata-se dos hebreus, em fuga do Egito,
 onde eram escravizados pelo Faraó. O sertanejo e seu cão acompanham de
 perto e participam do episódio miraculoso, narrado na Bíblia, da
 abertura dos mares, que garante a salvação aos que escapavam e a derrota
-aos que os perseguiam.
-
-Antônio Conselheiro e Moisés, caatinga do Nordeste e deserto do Egito,
-Faraó e senhor de engenho. Unidos pelo contexto de fuga em direção a uma
+aos que os perseguiam. Unidos pelo contexto de fuga à procura de uma
 vida melhor, mais próspera e com mais liberdade, as histórias do
 retirante nordestino e a dos hebreus em fuga do Egito se encontram nessa
 pequena narrativa que conjuga um assunto tão caro à história da
 humanidade e cada vez mais à ordem do dia: o direito de ir e vir, de
 imigrar e recomeçar a própria história e a de um grupo.
 
-SOBRE O AUTOR Flávia Savary é escritora, ilustradora e dramaturga,
+Sobre a autora
+--------------
+
+Flávia Savary é escritora, ilustradora e dramaturga,
 nascida no Rio de Janeiro em setembro de 1956. Formada em Letras pela
 Universidade Federal do Rio de Janeiro, trabalha com literatura desde
 1979. Como ilustradora e artista plástica, participou de várias
@@ -1380,77 +1340,17 @@ trabalhos, podemos listar: *A roupa nova do arco-da-velha*, *O herói*,
 mundo muda se a gente ajuda*, *A rosa que gira a roda*, *Vinte cantos de
 sereia*.
 
-SOBRE O GÊNERO O que define um gênero narrativo é o fato de, não importa
-qual seja sua forma, eles *contarem uma história*. As especificidades do
-*como* esta história será contada é que qualificaram os tipos de gênero
-narrativo, que podem ser: conto, crônica, novela, epopeia, romance ou
-fábula.
+Sobre o gênero
+--------------
 
-Toda narrativa possui, necessariamente, um narrador, uma personagem, um
-enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
-onisciente, literalmente *que tudo sabe*, observador ou personagem ---
-categorias que não são excludentes. O discurso elaborado por este
-narrador ou narradora pode ser direto, indireto ou indireto livre --- ou
-seja, ele ou ela pode aparecer mais diretamente ou mais indiretamente;
-no último caso, sua voz se mistura à das personagens da história.
-
-O narrador **não é necessariamente** a voz do autor. É errada a
-afirmação de que o autor fala através do narrador de uma história. É
-bastante comum, há algum tempo na história literária, sobretudo desde os
-pré-modernistas, que o narrador represente justamente o contrário do que
-pensa o autor. Neste caso, utilizam-se elementos como a **ironia** para
-sugerir que o autor *não é confiável*.
-
-Já as personagens variam quanto a sua **profundidade**. Há personagens
-planas, ou personagens-tipo, e personagens redondas, ou complexas.
-Personagens planas são facilmente repetíveis pois se amparam em
-lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
-tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
-é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
-humanidade por alguma razão, às vezes sobrenatural. Personagens
-redondos, por outro lado, estão mais próximos das *pessoas reais*. Uma
-personagem complexa pode ser, em um dado momento da narrativa, vilã, e
-em outro, heroína. É importante notar como as visões de mundo, um traço
-cultural e portanto relativo, influenciam na caracterização das
-personagens, planas ou redondas, de uma história.
-
-O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
-cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
-marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
-outro, e se delimita muito bem *passado*, *presente* e *futuro*. Já no
-tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos, e
-portanto, *não linear*, já que a influência emocional e psíquica da
-subjetividade afeta a racionalidade do tempo cronológico.
-
-O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
-caso, ele pode funcionar mais como um pano de fundo, sem muita
-interferência no enredo, ou mais ativamente, aproximando-se das
-características das personagens e influenciando no desenrolar da trama.
-
-O último aspecto de um gênero narrativo que podemos abordar é sua
-*extensão*. Dentre os elementos que distinguem um subgênero de outro, é
-fundamental o tamanho da história: uma crônica e um conto são
-*necessariamente* curtos, ao passo que uma epopeia e um romance são
-longos. Uma novela está no ponto intermediário entre um romance e um
-conto. Ainda poderíamos falar dos registros de cada subgênero: a epopeia
-é originalmente um subgênero *oral*, versificado, e metrificado, já o
-romance é tradicionalmente *escrito* em prosa. Desde meados do século
-[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
-subgêneros narrativos torna-se cada vez menos rígido, com as
-características cada vez mais fluidas e intercomunicativas.
-
-Como o presente livro contém uma narrativa *curta*, finalizamos com as
-palavras de Luiza Vilma Pires a respeito do subgênero:
-
-> sob o nome de narrativa curta, estão situadas obras que apresentam uma
-> trama um pouco mais complexa, que ocorre em diversos espaços e em uma
-> temporalidade que pode ser de vários dias, semanas ou meses.
-> Entretanto a função das ilustrações continua as mesmas, são
-> complementares à história e contribuem para sua compreensão. Os temas
-> relacionam-se a vivência infantis (brincadeiras, passeios, pequenas
-> aventuras), a aspectos ligados à interioridade das personagens (busca
-> de identidade, insegurança, medos) ou a relações interpessoais
-> (desentendimentos familiares, entre amigos, solidariedade).[^21]
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a vida das personagens. Finalmente: o conto é um texto curto, muito bem amarrado, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
 027 ✅ 
 ===
@@ -1945,7 +1845,7 @@ jogos com ela...
 
 [^33]: Ibidem. p. 18.
 
-[^34]: *A book of *nonsense**, no original.
+[^34]: _A book of *nonsense*_, no original.
 
 [^35]: [ávila]{.smallcaps}, M. *Rimas e Solução.* p. 115--116.
 
