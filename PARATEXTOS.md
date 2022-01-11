@@ -1093,7 +1093,7 @@ pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores
 sente-se à vontade para falar de qualquer assunto, e dar opinião 
 sobre o mundo do nosso tempo. 
 
-017 
+017 ✅
 ===
 
 Sobre o livro
@@ -1101,8 +1101,22 @@ Sobre o livro
 
 *Os cantos do Homem-Sombra* é um mito indígena do povo Hupd'äh, que vive em aldeias espalhadas pela floresta amazônica, na região do Alto Rio Negro, fronteira entre Brasil e Colômbia. Nessa lenda, um homem Hup se encanta ao ouvir as canções de um homem-sombra, Way Naku. Para o povo Hupd'äh, homens-sombra podem ser perigosos, causar doenças, matar e comer a carne e o espírito dos humanos. Mas seu canto é belo e irresistível.
 
-Lenda, fábula
--------------
+Sobre os autores
+----------------
+
+Como a lenda de *Os cantos do Homem-Sombra* é contada e recontada há muitas gerações pelo povo Hupd'äh, podemos considerar que essas pessoas todas do passado e do presente são as autores deste livro. Os vivem na região do Alto Rio Negro, no Estado do Amazonas, na fronteira com a Colômbia. Trata-se de cerca de 1500 pessoas, que moram em 35 aldeias diferentes. Os Hupd'äh vivem da pesca e da caça até hoje. Quando viajam, costumam encontrar pelo caminho outros tipos de gente, como os homens-sombra. 
+
+Patience Epps é linguista e professora da Universidade do Texas. Em 2002, ela foi morar com os Hupd'äh da aldeia Barreira Alta para pesquisar a língua Hup. Nessa pesquisa, ela gravou a história dos cantos do homem-sombra, que lhe foi contada por um sábio ancião Hup, chamado Mário Andrade Pires. A tradução dessa história para o português se transformou neste livro. O antropólogo Danilo Paiva Ramos também morou com os Hupd'äh e ouviu a mesma narrativa de um outro ancião, chamado Ponciano Salustiano Ramos.   
+
+
+Sobre a ilustradora
+-------------------
+
+Anita Ekman é artista visual e pesquisadora de artes ameríndias e afro-brasileiras. É organizadora, ilustradora e editora de livros da coleção Mundo Indígena da Editora Hedra.  
+
+
+Sobre o gênero
+--------------
 
 A lenda e o mito são narrativas com elementos de fantasia transmitidas de 
 pai para filho através dos tempos. As lendas e os mitos combinam
@@ -1113,20 +1127,6 @@ entender quem são essas pessoas e no que acreditam, bem como suas
 tradições. Com exemplos bem definidos em todos os países do mundo, as lendas e os mitos
 de um povo geralmente fornecem explicações sobre muitos assuntos,
 como acontecimentos misteriosos ou sobrenaturais.  
-
-Sobre os autores
--------------
-
-Como a lenda de *Os cantos do Homem-Sombra* é contada e recontada há muitas gerações pelo povo Hupd'äh, podemos considerar que essas pessoas todas do passado e do presente são as autores deste livro. Os vivem na região do Alto Rio Negro, no Estado do Amazonas, na fronteira com a Colômbia. Trata-se de cerca de 1500 pessoas, que moram em 35 aldeias diferentes. Os Hupd'äh vivem da pesca e da caça até hoje. Quando viajam, costumam encontrar pelo caminho outros tipos de gente, como os homens-sombra. 
-
-Patience Epps é linguista e professora da Universidade do Texas. Em 2002, ela foi morar com os Hupd'äh da aldeia Barreira Alta para pesquisar a língua Hup. Nessa pesquisa, ela gravou a história dos cantos do homem-sombra, que lhe foi contada por um sábio ancião Hup, chamado Mário Andrade Pires. A tradução dessa história para o português se transformou neste livro. O antropólogo Danilo Paiva Ramos também morou com os Hupd'äh e ouviu a mesma narrativa de um outro ancião, chamado Ponciano Salustiano Ramos.   
-
-
-Sobre a ilustradora
--------------
-
-Anita Ekman é artista visual e pesquisadora de artes ameríndias e afro-brasileiras. É organizadora, ilustradora e editora de livros da coleção Mundo Indígena da Editora Hedra.  
-
 
 021 ✅
 ===
