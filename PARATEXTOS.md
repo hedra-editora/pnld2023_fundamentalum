@@ -1714,7 +1714,7 @@ palavras de Luiza Vilma Pires a respeito do subgênero:
 > de identidade, insegurança, medos) ou a relações interpessoais
 > (desentendimentos familiares, entre amigos, solidariedade).[^21]
 
-027 
+027 ✅ 
 ===
 
 Sobre o livro
@@ -1722,43 +1722,21 @@ Sobre o livro
 
 Os contos presentes em *Figurinha carimbada* mostram a vida de seis
 meninos que narram, em primeira pessoa, suas angústias, sonhos e
-emoções. De maneira aprofundada, a obra traz à tona as questões infantis
-que as crianças que não se enquadram nos padrões fixos da sociedade
-sofrem.
+emoções.
 
-O livro começa contando a história de Cauê, um garoto que não tem muitos
-amigos por ser tachado de pessoa esquisita, e mostra o início de uma
-amizade muito especial para ele. Seu grande amigo, Caio, acaba tendo que
-se mudar de cidade por questões familiares, e Cauê vive esse sofrimento,
-dialogando com o leitor sobre suas questões.
+Para contar as experiências de seis meninos na fase da pré-adolescência, o autor divide o livro em seis capítulos independentes narrados em primeira pessoa, que podem ser considerados contos e cujos títulos são os nomes dos protagonistas. As histórias de Cauê, Guilherme, Luiz Felipe, Marquinhos, João e Ícaro às vezes se cruzam, mas se assemelham sobretudo pelas angústias vividas pelos meninos. Cada uma delas carrega emoções muito profundas que certamente ajudarão em uma identificação com momentos em que as crianças estão passando ou mesmo já passaram. Um livro para ser lido e relido para não esquecermos nunca a criança que fomos e ainda somos.
 
-A segunda história é de GuilheRme, um garoto que vive no interior. A
-personagem nos conta o percurso até perder seu cachorro, Tór, e abre seu
-coração para o leitor, mostrando como lida com a frustração da perda. O
-interessante é que Caio, o amigo de Cauê, agora está morando na mesma
-cidade de GuilheRme, e aparece na narrativa.
+Sobre o autor
+-------------
 
-No terceiro conto, conhecemos Luiz Felipe, personagem que nos mostra,
-por meio da literatura, que a lógica da produtividade não promove a
-felicidade, ao contrário: promove ansiedade e pouca vivência com
-presença. Além disso, a história de Luiz Felipe é atravessada pelas
-questões do racismo e das diferenças de classe social, uma vez que Luiz
-perde uma competição para o filho de Rosa, a faxineira e cozinheira que
-trabalha em sua casa, um garoto negro. E a absorção desse acontecimento
-é difícil para ele, até que a situação é resolvida. Ao longo da obra nos
-deparamos com diversas figuras que trazem, aos poucos, reflexões muito
-ricas.
-
-SOBRE O autor
--------
-
-Márcio Araújo é um ator, autor, roteirista e diretor brasileiro. Entre
+Márcio Araújo é ator, autor, roteirista e diretor brasileiro. Entre
 seus trabalhos estão textos para mais de 500 episódios do *Cocoricó* da
 TV Cultura. Participa do grupo de teatro Pocilgas e Cia. Escreveu e
 dirigiu o Musical *Nara* sobre a vida da cantora Nara Leão, com Fernanda
 Couto. O musical ganhou o Prêmio Contigo!
 
-SOBRE O GÊNERO
+Sobre o gênero
+--------------
 
 Cada um dos capítulos de *Figurinha Carimbada* constitui um conto
 independente, a respeito das experiências de seus
@@ -1766,138 +1744,43 @@ narradores-protagonistas. Algumas personagens participam de mais de um
 conto. De maneira geral, todos os textos versam a respeito da mesma
 temática, que confere ao livro sua feição de conjunto.
 
-#### Descrição
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a vida das personagens. Finalmente: o conto é um texto curto, muito bem amarrado, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
-O que define um gênero narrativo é o fato de, não importa qual seja sua
-forma, *contar uma história*.
-
-As especificidades do *como* esta história será contada caracteriza os
-tipos de gênero narrativo, que podem ser: conto, crônica, novela,
-epopeia, romance ou fábula.
-
-Toda narrativa possui, necessariamente, um narrador, uma personagem, um
-enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
-onisciente, literalmente *que tudo sabe*, observador ou personagem ---
-categorias que não são exclusivas. O discurso elaborado por este
-narrador pode ser direto, indireto ou indireto livre --- ou seja, ele
-pode aparecer mais diretamente ou mais indiretamente; no último caso,
-sua voz se mistura à das personagens da história.
-
-Sobre o enredo das narrativas curtas sabemos se diz que:
-
-> comumente são simples, se passam em um espaço único, em um curto
-> período de tempo e apresentam poucas personagens. Os temas giram em
-> torno de episódios do mundo infantil ou de episódios envolvendo
-> animais. As ilustrações ocupam quase toda a página e auxiliam
->
-> a criança a identificar, ma narrativa, as características externas das
-> personagens, as ações vividas por elas e os espaços onde ocorrem as
-> cenas. A linguagem é simples, sem muitos elos frasais. A história se
-> constrói, quase sempre, por meio de diálogos. A presença do narrador é
-> bastante pequena.[^22]
-
-O narrador **não é necessariamente** a voz do autor. É errada a
-afirmação de que o autor fala através do narrador de uma história. É
-bastante comum, há algum tempo na história literária, sobretudo desde os
-pré-modernistas, que o narrador represente justamente o contrário do que
-pensa o autor. Neste caso, utiliza-se elementos como a **ironia** para
-sugerir que o autor *não é confiável*.
-
-Já as personagens variam quanto a sua **profundidade**. Há personagens
-planas, ou personagens-tipo, e personagens redondas, ou complexas.
-Personagens planas são facilmente repetíveis pois se amparam em
-lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
-tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
-é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
-humanidade por alguma razão, às vezes sobrenatural. Personagens
-redondos, por outro lado, estão mais próximos das *pessoas reais*. Uma
-personagem complexa pode ser, em um dado momento da narrativa, vilã, e
-em outro, heroína. É importante notar como as visões de mundo
-influenciam na caracterização das personagens de uma história.
-
-O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
-cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
-marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
-outro e se delimita muito bem *passado*, *presente* e *futuro*. Já no
-tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos, e
-portanto, *não linear*, já que a influência emocional e psíquica afeta a
-racionalidade do tempo cronológico.
-
-O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
-caso, ele pode funcionar mais como um plano de fundo, sem muita
-interferência no enredo, ou mais ativamente, aproximando-se das
-características das personagens e influenciando no desenrolar da trama.
-
-O último aspecto de um gênero narrativo que podemos abordar é sua
-*extensão*. Dentre os elementos que distinguem um subgênero de outro é o
-tamanho da história: uma crônica e um conto são *necessariamente*
-curtos, ao passo que uma epopeia e um romance, são longos. Uma novela
-está no ponto intermediário entre um romance e um conto. Ainda
-poderíamos falar dos registros de cada subgênero: a epopeia é
-originalmente um subgênero *oral*, versificado, e metrificado, já o
-romance é tradicionalmente *escrito* em prosa. Desde meados do século
-[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
-subgêneros narrativos tornam-se cada vez menos rígido, com as
-características cada vez mais fluidas e intercomunicativas.
-
-Como o presente livro se trata de uma narrativa *curta*, finalizamos com
-as palavras de Luiza Vilma Pires a respeito do subgênero:
-
-> sob o nome de narrativa curta, estão situadas obras que apresentam uma
-> trama um pouco mais complexa, que ocorre em diversos espaços e em uma
-> temporalidade que pode ser de vários dias, semanas ou meses.
-> Entretanto a função das ilustrações continua as mesmas, são
-> complementares à história e contribuem para sua compreensão. Os temas
-> relacionam-se a vivência infantis (brincadeiras, passeios, pequenas
-> aventuras), a aspectos ligados à interioridade das personagens (busca
-> de identidade, insegurança,
->
-> medos) ou a relações interpessoais (desentendimentos familiares, entre
-> amigos, solidariedade).[^23]
-
-028 
+028 ✅
 ===
 
 Sobre o livro
 -------------
 
-*Mr. Phillow é um fantasma!* apresenta a narrativa um fantasma
-tipicamente inglês que mora num castelo da Inglaterra. Devido a sua
-condição de fantasma, ele deve acompanhar os objetos que eram seus
-durante a vida. Por isso, quando decidem realocar as pedras do castelo
-para a Floresta Amazônica, ele vai junto. Esta mudança de territórios,
-tão distantes geograficamente e em costumes, se deve ao fato de que Mr.
-Pillow, em vida, juntou sua fortuna com a exploração de borracha nessa
-região.
+*Mr. Phillow é um fantasma!* conta a história de um fantasma
+que mora num castelo na Inglaterra. Um dia, o castelo começa a ser 
+transferido, pedra por pedra, para um lugar estranho e diferente: a Amazônia. 
+Como o castelo é sua casa, Mr. Phillow embarca junto com ele nessa
+aventura, em que ele vai conhecer outros fantasmas muito diferentes: 
+os seres fantásticos que habitam a região da Amazônia brasileira. 
+A linguagem de *Mr. Phillow é um fantasma!* é fácil de entender, 
+porque quem conta esta história é o próprio fantasma, sempre 
+bem-humorado e disposto a revelar aspectos da vida fantasmagórica
+que ninguém conhece.
 
-Ao chegar na nova paisagem, o fantasma de Mr. Pillow conhece os seres
-míticos que habitam a região da Amazônia brasileira. Ele não se adapta
-muito bem ao novo contexto, porém, e finda a narrativa de volta à sua
-terra natal, graças a um "serviço de transferências" do mundo dos
-fantasmas.
-
-Aspecto importante deste livro é que ele é escrito com ortografia,
-caligrafia e sintaxe particulares a uma criança ou pré-adolescente em
-estágio de desenvolvimento da
-
-escrita. À primeira leitura, inclusive, tal procedimento deverá causar
-estranhamento e dificuldade aos leitores acostumados com a escrita
-padrão. Por outro lado, para os alunos, pode funcionar como fator de
-identificação e tornar a leitura ainda mais prazerosa, e instrutiva,
-caso o professor ou professora aproveite o ensejo para comentar a
-padronização da linguagem escrita.
-
-SOBRE O autor
--------
+Sobre o autor
+-------------
 
 Eloar Guazzelli Filho, ou apenas **Guazzelli**, nasceu em Vacaria, Rio
-Grande do Sul, em 1962. Torce para o Internacional de Porto Alegre,
+Grande do Sul, em 1962. Torce para o Internacional de Porto Alegre e
 gosta de jogar futebol nas areias de Florianópolis, onde passa o verão,
 mas é ruim de bola. Artista plástico, quadrinista, roteirista e diretor
 de arte para animação, é formado pelo Instituto de Artes da Universidade
-Federal do Rio Grande do Sul ([ufrgs]{.smallcaps}) e mestre pela Escola
-de Comunicação e Artes da Universidade de São Paulo
-([eca--usp]{.smallcaps}). Recebeu inúmeras premiações em todo o Brasil e
+Federal do Rio Grande do Sul e mestre pela Escola
+de Comunicação e Artes da Universidade de São Paulo. 
+Recebeu diversas premiações em todo o Brasil e
 participou de exposições em mais de quinze países.
 
 Desenhista há 29 anos, consagrou-se no universo das histórias em
@@ -1914,89 +1797,74 @@ literatura mundial. Dentre as obras que escreveu, estão *A divina
 jogada* e *Apocalipse nau*, de 2015, e *Mr. Phillow é um fantasma!*,
 aqui presente.
 
-SOBRE O GÊNERO
+Sobre o gênero
+--------------
 
-O que define o gênero narrativo é o fato de, não importa qual seja sua
-forma, ele *contar uma história*. As especificidades do *como* esta
-história será contada é que qualificaram os tipos de gênero narrativo,
-que podem ser: conto, crônica, novela, epopeia, romance ou fábula.
+Como *contar uma história*? Um livro pode ser contato como um conto, uma crônica,
+uma novela, um romance romance ou uma fábula. Cada jeito de contar 
+uma história ganha um nome diferente. 
 
-Toda narrativa possui, necessariamente, um narrador, uma personagem, um
-enredo, um tempo e um espaço. O narrador, ou narradora, pode ser
-onisciente, literalmente *que tudo sabe*, observador ou personagem ---
-categorias que não são autoexclusivas. O discurso elaborado por este
-narrador ou narradora pode ser direto, indireto ou indireto livre --- ou
-seja, ele ou ela pode aparecer mais diretamente ou mais indiretamente;
-no último caso, sua voz se mistura à das personagens da história.
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a v
+ida das personagens. Finalmente: o conto é um texto curto, muito bem amarrado, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
-O narrador **não é necessariamente** a voz do autor. É errada a
-afirmação de que o autor fala através do narrador de uma história. É
-bastante comum, há algum tempo na história literária, sobretudo desde os
-pré-modernistas, que o narrador represente justamente o contrário do que
-pensa o autor. Neste caso, utilizam-se elementos como a **ironia** para
-sugerir que o autor *não é confiável*.
 
-Já as personagens variam quanto a sua **profundidade**. Há personagens
-planas, ou personagens-tipo, e personagens redondas, ou complexas.
-Personagens planas são facilmente repetíveis pois se amparam em
-lugares-comuns da cultura, como o vilão, o herói, a vítima, o palhaço,
-tudo isso com marcações de gênero e espécie --- o herói tradicionalmente
-é um homem, a vítima, uma mulher, e o vilão, uma figura que se afasta da
-humanidade por alguma razão, às vezes sobrenatural.
-
-Personagens redondos, por outro lado, estão mais próximos das *pessoas
-reais*. Uma personagem complexa pode ser, em um dado momento da
-narrativa, vilã, e em outro, heroína. É importante notar como as visões
-de mundo, um traço cultural e portanto relativo, influenciam na
-caracterização das personagens, planas ou redondas, de uma história.
-
-O tempo de uma narrativa pode ser cronológico ou psicológico. No tempo
-cronológico, o enredo segue a ordem "normal" dos acontecimentos, aquela
-marcada pelo relógio e pelo calendário. Os acontecimentos vêm um após o
-outro, e *passado*, *presente* e *futuro* são muito bem delimitados. Já
-no tempo psicológico, segue-se uma ordem *subjetiva* dos acontecimentos,
-e portanto, *não linear*, já que a influência emocional e psíquica da
-subjetividade afeta a racionalidade do tempo cronológico.
-
-O espaço, por fim, é o lugar onde se passa a narrativa. Dependendo do
-caso, ele pode funcionar mais como pano de fundo, sem muita
-interferência no enredo, ou mais ativamente, aproximando-se das
-características das personagens e influenciando no desenrolar da trama.
-
-O último aspecto de um gênero narrativo que podemos abordar é sua
-*extensão*. Dentre os elementos que distinguem um subgênero de outro é o
-tamanho da história: uma crônica e um conto são *necessariamente*
-curtos, ao passo que uma epopeia e um romance, são longos. Uma novela
-está no ponto intermediário entre um romance e um conto.
-
-Ainda poderíamos falar dos registros de cada subgênero: a epopeia é
-originalmente um subgênero *oral*, versificado, e metrificado, já o
-romance é tradicionalmente *escrito* em prosa. Desde meados do século
-[xviii]{.smallcaps}, no entanto, o estabelecimento dos gêneros e
-subgêneros narrativos torna-se cada vez menos rígido, com as
-características cada vez mais fluidas e intercomunicativas.
-
-Como o presente livro contém uma narrativa *curta*, finalizamos com as
-palavras de Luiza Vilma Pires a respeito do subgênero:
-
-> sob o nome de narrativa curta, estão situadas obras que apresentam uma
-> trama um pouco mais complexa, que ocorre em diversos espaços e em uma
-> temporalidade que pode ser de vários dias, semanas ou meses.
-> Entretanto a função das ilustrações continua a mesma, são
-> complementares à história e contribuem para sua compreensão.
->
-> Os temas relacionam-se a vivência infantis (brincadeiras, passeios,
-> pequenas aventuras), a aspectos ligados à interioridade das
-> personagens (busca de identidade, insegurança, medos) ou a relações
-> interpessoais (desentendimentos familiares, entre amigos,
-> solidariedade).[^24]
-
-029 
+029 ✅
 ===
 
-??? O plano da Emília e outros textos
+Sobre o livro
+-------------
+
+*O plano da Emília e outros textos* contém uma seleção de 24 contos e capítulos extraídos das principais obras de Monteiro Lobato. Esses textos funcionam como narrativas independentes, com enredos e estilo  envolventes e temas atuais, desde a figura do saci e outros animais típicos das fábulas, até as conhecidas personagens do *Sítio do Picapau Amarelo*, como Narizinho e Emília. Além dos temas brasileiros, o autor não deixou de investigar grandes mitos e narrativas da cultura ocidental, como é possível ler em *O Minotauro* e *Os doze trabalhos de Hércules*. Com esse panorama, o jovem leitor é introduzido no universo literário de Monteiro Lobato e tem a oportunidade de ler e fruir as principais narrativas desse escritor.
+
+Sobre o autor e a organizadora
+------------------------------
+
+Fazendeiro, escritor, editor, empresário,defensor do petróleo nacional: 
+a intensidade com que Monteiro Lobato experienciou as várias faces 
+de sua vida transparece na vitalidade de
+seus contos, frutos de sua sensibilidade, observação crítica,
+conhecimentos literários e trabalho intelectual e artístico.
+
+José Bento Renato Monteiro Lobato nasceu em Taubaté, São Paulo, a 18 de
+abril de 1882, que ficou consagrado como Dia Nacional do Livro Infantil,
+e faleceu em São Paulo, a 4 de julho de 1948.
+
+Foi escritor de literatura para crianças e adolescentes, contista, jornalista, editor,
+tradutor, pintor e fotógrafo. Cursou a Faculdade de Direito do Largo São Francisco, em São Paulo, por imposição
+do avô, o Visconde de Tremembé. Escreveu para diversos jornais, sempre envolvido em polêmicas.  
+Em 1918, estreou com o livro de contos *Urupês*, que esgotou 30 mil
+exemplares entre 1918 e 1925. Nesse mesmo ano, comprou a *Revista do Brasil*,
+lançando as bases da indústria editorial no país, que jamais seria a mesma depois de sua atuação. 
+Monteiro Lobato revolucionou o mercado livreiro, com diversas iniciativas. Em 1920, fundou a
+editora Monteiro Lobato \& Cia, que publicou obras de Lima Barreto e Oswald de Andrade, entre muitos outros autores. No mesmo ano, lançou *A menina do Narizinho Arrebitado*, primeira da série
+de histórias com que Lobato tem formado gerações de leitores até hoje. 
+
+A organizadora Ieda Lebensztayn é crítica literária, pesquisadora e ensaísta, preparadora e revisora de livros. Mestre em Teoria Literária e Literatura Comparada e doutora em Literatura Brasileira pela Universidade de São Paulo. Fez dois pós-doutorados: o primeiro no Instituto de Estudos Brasileiros, IEB-USP, e o segundo na Biblioteca Brasiliana Mindlin / Faculdade de Filosofia, Letras e Ciências Humanas, BBM/FFLCH-USP. 
 
 
+Sobre o gênero
+--------------
+
+Como *contar uma história*? Um livro pode ser contato como um conto, uma crônica,
+uma novela, um romance romance ou uma fábula. Cada jeito de contar 
+uma história ganha um nome diferente. 
+
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a v
+ida das personagens. Finalmente: o conto é um texto curto, muito bem amarrado, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
 034 ✅
 ===
