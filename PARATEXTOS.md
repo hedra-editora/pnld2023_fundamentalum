@@ -986,112 +986,6 @@ que te prende, porque tem uma história envolvente e um final surpreendente.
 
 
 
-016 ✅
-===
-
-Sobre o livro
--------------
-
-A narrativa se passa em Bagdá, na época de prosperidade e
-riqueza dessa cidade. Aladim, filho travesso e preguiçoso de uma viúva,
-decide trabalhar para ajudar a mãe. Enquanto busca por trabalho, chega à
-cidade o "Feiticeiro Africano", personagem misterioso que está à procura
-da lâmpada mágica escondida em uma gruta. No entanto, somente uma pessoa
-que não conhece a lâmpada pode pegá-la, e então o Feiticeiro convence
-Aladim a lhe ajudar, prometendo-lhe riquezas e felicidade.
-
-A gruta está localizada em um vale no deserto, entre dois morros, na
-qual o jovem Aladim deveria entrar para encontrar a lâmpada. Com medo da
-escuridão, o Feiticeiro empresta-lhe um anel mágico, que o iria proteger
-de qualquer perigo. O Feiticeiro, no entanto, é grosseiro e maltrata
-Aladim que, por isso, após encontrar a lâmpada, hesita em entregá-la ao
-Feiticeiro. Sentido-se traído, ele fecha a porta da gruta e mantém
-Aladim preso lá dentro, onde permanece por três dias. Desesperado, reza
-por salvação e, ao esfregar as mãos na prece, o anel mágico se mexe e
-invoca um gênio mágico.
-
-O primeiro pedido do garoto ao gênio é voltar para a casa da mãe, em
-Bagdá. O pedido é prontamente atendido. A mãe, desconfiada da história
-fantástica, esfrega a lâmpada que estava com Aladim e novamente aparece
-um gênio. Aladim pede-lhe sustento e recebe uma rica prataria e fartura
-de alimentos. Graças ao gênio, Aladim e sua mãe vivem de maneira folgada
-por alguns anos, até Aladim apaixonar-se pela princesa Clarice, filha do
-sultão de Bagdá. O jovem tem um plano para conquistar a mão da princesa:
-pede à sua mãe que se dirija ao palácio com as riquezas que trouxera da
-caverna, para propor ao sultão o casamento dos jovens. O sultão, no
-entanto, exige mais riquezas e quarenta escravos como dote para o
-casamento. Com a ajuda do gênio, consegue o dote tão desejado e casa-se,
-por fim, com Clarice.
-
-Enquanto isso, ao saber que Aladim o lograra e escapara da grupa, o
-Feiticeiro trama uma vingança contra o recém-casado. Disfarçado de um
-pobre vendedor de lâmpadas, engana Clarice e consegue
-roubar o item mágico. Usa, então, a lâmpada para transferir o palácio de
-Aladim e todos que nele estacam para seus domínios, exceto o sultão e
-Aladim, que tinham ido caçar. Condenado à morte pelo desaparecimento da
-princesa, Aladim consegue escapar graças ao anel encantado,
-transferindo-se ao palácio nas terras do Feiticeiro, que pretendia
-casar-se com Clarice. Com seu auxílio, Aladim envenena o raptor e
-transfere o palácio ao seu lugar original, onde vivem felizes para
-sempre. No final, a moral da história mostra como a ambição contamina o
-coração dos homens e os faz cometer maldades, que, no entanto, podem se
-voltar contra eles. Como nos versos finais, a ambição "traz consigo a
-maldição / amamentando a desgraça / tira o dinheiro do nobre / ilude a
-gana do pobre / vê do indigente o cobre / a ambição onde passa".
-
-Sobre os autores
-----------------
-
-Antonio Gonçalves da Silva, o Patativa do Assaré, foi um
-dos mais importantes poetas brasileiros. Nascido no Cariri, na Serra de
-Santana, próximo a Assaré, no Ceará, a 5 de março de 1909, desde menino
-fazia versos e os apresentava a quem quisesse ouvir. Só em 1956 seus
-poemas aparecereiam em livro, com a edição pela Borsoi, do Rio de
-Janeiro, do belo *Inspiração nordestina*. O sucesso de grande público,
-contudo, viria pouco depois, em 1964, com a gravação em disco de "A
-triste partida", poema musicado pelo Rei do Baião, Luiz Gonzaga. Poeta
-de genuína inspiração popular, Patativa do Assaré tornou"-se sinônimo
-de poesia popular no país, tendo lançado, em sua longa vida de quase um
-século, uma dezena de livros e discos com seus poemas, além de inúmeros
-folhetos avulsos de cordel. De sua obra, destacam"-se os livros
-*Inspiração nordestina* (1956), *Cante lá que eu canto cá* (1978),
-*Ispinho e fulô* (1988), *Balceiro* (1991), *Aqui tem coisa* (1994) e
-*Digo e não peço segredo* (2001); e os discos *Poemas e canções* (1979),
-*A terra é naturá* (1981) e *Canto nordestino* (1989). Doutor *honoris
-causa* em diversas universidades, objeto de teses, filmes e peças, a voz
-da ave canora que lhe deu nome, a patativa, ainda será ouvida por muitos
-e muitos anos em qualquer canto do Brasil. Patativa morreu aos 93 anos
-em sua casa em Assaré.
-
-
-Fernando de Almeida nasceu em Batatais, interior de São Paulo, em 1973.
-Formado em Arquitetura pela [fau-usp]{.smallcaps}, trabalha como
-ilustrador e designer gráfico. Já ilustrou páginas da *Folha de São
-Paulo*, *[tam]{.smallcaps} Magazine* e revista *Bravo!* entre outras.
-Faz, junto com outros amigos ilustradores, a revista coletiva
-*Charivari*. Gosta de aquários, fuscas antigos, de sua mulher Cristiana,
-do seu filho Martim e dos seus amigos.
-
-Cordel
-------
-
-Tem gente que fala que a palavra *cordel* veio de Portugal, onde
-os vendiam *folhetos* em feiras pendurados em barbantes, em
-cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
-chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
-ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
-era mais conhecido como *romance* ou *folheto* mesmo.
-
-Um cordel tem histórias curtas contadas em versos rimados por personagens
-lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
-feitas em xilogravura, uma técnica muito antiga que consiste em 
-desenhar numa maneira mais mole, depois passar tinta sobre ela 
-e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
-
-O cordel não tem nem um limite nem uma receita
-pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
-sente-se à vontade para falar de qualquer assunto, e dar opinião 
-sobre o mundo do nosso tempo. 
 
 017 
 ===
@@ -1306,165 +1200,9 @@ que a cada quadro fornece uma cena como no cinema. É uma linguagem bastante
 popular em diversas partes do mundo, que tem sua origem na pintura de ícones. 
 
 
-023 
+024
 ===
-
-Sobre o livro
--------------
-
-Certa noite, para celebrar o Ano Novo e o Equinócio de Outono, o maior
-rei persa da história, Sabur, recebe em seu palácio três magos que o
-presenteiam com objetos encantados: um homem de ouro com trompete que
-faz um inimigo ou invasor morrer diante de sua imagem; um relógio
-formato por uma bandeja de prata e 25 figuras de pavões de ouro; um
-cavalo de ébano que, através de um mecanismo de alavancas, consegue voar
-e levar seu cavaleiro a qualquer parte do mundo.
-
-Encantado sobretudo com o cavalo mágico, o rei promete a mão de sua
-filha ao mago. Este, no entanto, era um homem demasiado feio e velho, o
-que deixa a princesa muito triste e preocupada com seu futuro. Seu
-irmão, o príncipe Kamar al-Akmar, tenta convencer o pai a desfazer o
-casamento arranjado, mas é enganado pelo velho mago e lançado com o
-cavalo de ébano ao céu, quase chegando ao sol.
-
-Quando finalmente consegue entender o mecanismo do cavalo, volta para a
-terra e, na jornada de regresso ao seu reino, conhece a bela princesa de
-outro sultanato persa, por quem se apaixona. Perseguido pelo rei --- que
-pensava que, para subir ao quarto da princesa, Kamar deveria ser um
-demônio ---, o jovem volta às terras de seu pai Sabur, onde conta sua
-aventura e pede que libertem o mago em agradecimento. Retorna ao
-distante sultanado e foge com a princesa, com quem pretendia se casar.
-
-No palácio de seu pai, deixa a princesa e o cavalo de madeira em um
-jardim, para prepara uma suntuosa recepção, quando o feiticeiro percebe
-a princesa e foge com ela por meio do cavalo. Ambos são capturados por
-um rei distante, que prende o mago, recolhe o cavalo ao seus tesouros e
-planeja se casar com a jovem moça. Kamar al-Akmar, percebendo-se
-logrado, anda incessantemente por todas as terras na procura de sua
-amada. Perto da Grécia tem notícias da princesa e, infiltrando-se no
-castelo, consegue enganar o rei e fugir com a jovem amada de volta para
-as terras de Sabur.
-
-O rei fica muito feliz com a volta do filho, Kamar casa-se finalmente
-com a jovem princesa e ambos vivem muitos anos de paz e alegria.
-Prevenido, no entanto, Sabur destrói o cavalo de ébano, para que não
-volte a provocar novas desarmonias e confusões em sua família.
-
-SOBRE O autor
--------
-
-Richard Francis Burton (1821-1890) foi um dos maiores exploradores do
-século [xix]{.smallcaps}, além de profundo conhecedor das culturas
-orientais e africanas. Consta que Burton, que chegou a obter a patente
-de Capitão do Exército inglês, falava 29 idiomas. Em 1842 partiu para a
-Índia e, em Bombaim, estudou hindustani e persa. Em 1853 foi para o
-Cairo e percorreu os lugares sagrados da religião islâmica, experiência
-que resultou no livro *Peregrinações a Medina e Meca* (1855).
-
-Fez diversas expedições pela África sob o patrocínio da Real Sociedade
-Geográfica inglesa em busca das nascentes do rio Nilo. Descobriu o Lago
-Tanganica, entre as repúblicas da Tanzânia, Congo, Burundi e Zâmbia.
-Começou a publicar em 1855 sua tradução das [Mil e uma
-noites]{.smallcaps} em dezesseis volumes. Recebeu o título de Sir,
-outorgado pela Rainha Vitória, em 1866. Em 1881, publicou um comentário
-sobre [Os lusíadas]{.smallcaps}, de Luís de Camões. Conheceu o Brasil e
-morou em Santos, no litoral do estado de São Paulo. Também percorreu
-Minas Gerais, em viagem que registrou no livro [Explorações nos
-planaltos do Brasil]{.smallcaps} (1869).
-
-#### A tradutora
-
-Marta Chiarelli de Miranda nasceu no Rio de Janeiro mas atualmente
-reside em Florianópolis. É graduada em Comunicação Visual pela
-[PUC]{.smallcaps} do Rio de Janeiro e antes de trabalhar como revisora e
-tradutora atuou como desenhista gráfica e arte-finalista na redação do
-*Jornal do Brasil*, no Rio de Janeiro, e na University Press da Carolina
-do Norte ([eua]{.smallcaps}). Como revisora de tradução realizou
-diversos trabalhos junto a editoras de São Paulo e do Rio de Janeiro,
-nos mais diversos gêneros literários, desde o início dos anos 1990. No
-campo da tradução tem livros publicados tanto na área de história, como
-de ficção e literatura infantojuvenil.
-
-#### A ilustradora
-
-Andréa Corbani nasceu em São Paulo em 1970. Sempre quis ser desenhista.
-Na escola gostava de física e queria fazer astronomia. No vestibular
-escolheu física porque queria descobrir como o mundo funciona. Um dia,
-na biblioteca da faculdade, viu um anúncio: "Descubra com quantos traços
-se faz um artista!" Ali percebeu que era com o desenho que descobriria o
-mundo. Foi desenhar e aprender gravura -- uma técnica onde você grava na
-madeira ou no metal e reproduz a imagem no papel. Ilustrou seu primeiro
-livro em 2001. Gostou tanto de brincar com as imagens e o texto que não
-parou mais de ilustrar livros.
-
-SOBRE O GÊNERO
-
-A lenda e o mito são narrativas fantasiosas transmitidas pela tradição
-oral através dos tempos. De caráter fantástico, as lendas e os mitos
-combinam fatos reais e históricos com fatos que não têm comprovação de
-acontecimento, a não ser pela palavra dos que sobraram para contar a
-história. As lendas e mitos de uma sociedade são fundamentais para que
-entendamos quem são essas pessoas e no que acreditam, bem como suas
-tradições. Uma lenda é verdadeira até que se prove o contrário. Com
-exemplos bem definidos em todos os países do mundo, as lendas e os mitos
-de um povo geralmente fornecem explicações plausíveis, e até certo ponto
-aceitáveis, para coisas que não têm explicações científicas comprovadas,
-como acontecimentos misteriosos ou sobrenaturais.
-
-A fábula é uma narrativa curta em que os personagens principais
-geralmente são seres personificados. Esses seres apresentam
-características humanas, tais como a fala e traços de personalidade.
-Essas personagens podem ser também objetos animados ou deuses. Em cada
-história há uma lição de moral: uma mensagem de cunho educativo que
-busca conscientizar o leitor. A fábula tem estreita relação com o gênero
-conto, mas se diferencia pela centralidade dos personagens animais e
-pelo intuito de concluir a história com um ensinamento. É uma história
-que pode ser contada em prosa ou em versos.
-
-Sobre a origem da fábula, Douglas Tufano afirma que:
-
-> A fábula teria nascido provavelmente na Ásia Menor e daí teria passado
-> pelas ilhas gregas, chegando ao continente helênico. Há registros
-> sobre fábulas egípcias e hindus, mas sua criação é atribuída à Grécia,
-> pois é onde a fábula passa a ser considerada como um tipo específico
-> de criatividade dentro da teoria literária.
->
-> Na Grécia, os primeiros exemplos de fábula datam do século
-> [viii]{.smallcaps} a.C. Isso nos mostra, é claro, que Esopo não foi o
-> inventor do gênero, mas sim o mais conhecido fabulista na Antiguidade
-> como autor e narrador dessas pequenas histórias.[^20]
-
-Esopo foi um autor da Grécia Antiga a quem são atribuídas algumas das
-mais famosas fábulas, como *A raposa e o cacho de uvas* e *A galinha de
-ovos de ouro*. Diversas histórias suas foram recontadas por La Fontaine,
-que é também um dos mais clássicos fabulistas do Ocidente.
-
-No caso de *O cavalo de ébano*, tem-se o caso clássico de uma lenda. A
-narrativa faz parte do conhecido ciclo de histórias das *Mil e uma
-noites*. Segundo a tradição oriental, o rei Xariar, ao ser traído por
-uma de suas esposas, resolveu mandar matar as mulheres que desposava
-após a noite de núpcias.
-
-Para evitar o mesmo destino, a rainha Xerazade conta ao rei, noite após
-noite, histórias e mais histórias, sempre deixando o desfecho para a
-noite seguinte, de modo a garantir que Xariar poupe sua vida para saber
-o final.
-
-*As mil e noites*, livro que reúne as histórias contadas por Xerazade a
-seu rei, já eram conhecidas na cultura árabe no século [ix]{.smallcaps},
-formadas por narrativas de origem persa, sânscrita e grega. As histórias
-foram conservadas em manuscritos dos séculos [xiii]{.smallcaps} a
-[xv]{.smallcaps}. A primeira tradução para um idioma europeu foi feita
-por Antoine Galand para o francês e publicada entre os anos de 1704 e
-1717. O manuscrito utilizado por Galan continha 282 noites.
-
-O tradutor passou a incorporar histórias de outras fontes, como a de
-"Simbad, o Marujo", ausente de todas as tradições manuscritas, além de
-"Aladim e a lâmpada maravilhosa" e "Ali Babá e os quarenta ladrões", que
-teriam sido ouvidas de um contador de histórias sírio. A partir da
-tradução de Galan *As mil e uma noites* tornaram-se conhecidas em todo o
-mundo como um grande patrimônio de cultura, costumes e histórias
-tradicionais.
+???
 
 025 
 ===
@@ -1931,7 +1669,13 @@ que pode ser contada em prosa ou em versos.
 
 Sobre o livro
 -------------
-*Esconde-Esconde* é um livro para brincar com palavras que estão escondidas dentro de outras. A cada página, Antonio Prata vai ajudar os leitores a caçar palavras e sentidos ocultos. Eles também vão se divertir muito com as ilustrações criativas, curiosas e engraçadas de Talita Hoffman. *Esconde-Esconde* é isso: um jogo divertido de exploração de sons e os significados que o leitor nem imaginava que existiam.
+*Esconde-Esconde* é um livro para brincar com palavras que estão 
+escondidas dentro de outras. A cada página, Antonio Prata 
+vai ajudar os leitores a caçar palavras e sentidos ocultos. 
+Eles também vão se divertir muito com as ilustrações criativas, 
+curiosas e engraçadas de Talita Hoffman. *Esconde-Esconde* 
+é isso: um jogo divertido de exploração de 
+sons e os significados que o leitor nem imaginava que existiam.
 
 Sobre o autor e a ilustradora
 -----------------------------
@@ -2073,18 +1817,22 @@ jogos com ela...
 
 038 
 ===
-
-????
+???
 
 039 
 ===
-
 ???
 
 040 
 ===
-
 ???
+
+041
+===
+???
+
+
+-------------------------------
 
 [^1]: Página 6 de *Ninguém e eu*
 
