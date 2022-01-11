@@ -1306,8 +1306,6 @@ que a cada quadro fornece uma cena como no cinema. É uma linguagem bastante
 popular em diversas partes do mundo, que tem sua origem na pintura de ícones. 
 
 
-
-
 023 
 ===
 
