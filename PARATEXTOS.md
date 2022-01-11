@@ -2840,140 +2840,81 @@ mais famosas fábulas, como *A raposa e o cacho de uvas* e *A galinha de
 ovos de ouro*. Diversas histórias suas foram recontadas por La Fontaine,
 que é também um dos mais clássicos fabulistas do Ocidente.
 
-035 
+035 ✅
 ===
 
 Sobre o livro
 -------------
+*Esconde-Esconde* é um livro para brincar com palavras que estão escondidas dentro de outras. A cada página, Antonio Prata vai ajudar os leitores a caçar palavras e sentidos ocultos. Eles também vão se divertir muito com as ilustrações criativas, curiosas e engraçadas de Talita Hoffman. *Esconde-Esconde* é isso: um jogo divertido de exploração de sons e os significados que o leitor nem imaginava que existiam.
 
-Por enquanto ele tem só 1 página extra, mas acho que conseguimos jogar o
-"\...fim" para a 44 mesmo!
+Sobre o autor e a ilustradora
+-----------------------------
 
-Aí ficam 2 para a gente incluir os aparatos (sobre o autor/ sobre
-ilustrador / sobre a obra e gênero).
+Antonio Prata é filho de escritores, já publicou vários livros e é roteirista contratado pela Rede Globo. Em 2012, foi considerado pela revista *Granta* como um dos vinte melhores escritores do Brasil com menos de 40 anos. Desde 2010 escreve aos domingos na Folha de São Paulo. É autor de vários livros para crianças.
 
-Sobre o autor e sobre a ilustradora temos aqui isso aqui abaixo, mas não
-sei se precisa adaptar para livro infantil pra ficar mais simpático\...
-
-É escritor, cronista e roteirista. Colaborou com a revista Capricho e o
-jornal O Estado de S. Paulo, além de ter escrito séries para a Globo,
-HBO, MTV e Multishow. É conhecido sobretudo por suas crônicas que, ao
-descreverem com humor e sensibilidade situações cotidianas, constituem
-leituras originais do absurdo que permeia as situações mais banais de
-nossa rotina. Mesmo quando trata de assuntos mais sérios, Prata não
-abandona o tom leve, característico do gênero. Atualmente assina coluna
-semanal no caderno Cotidiano da Folha de S. Paulo e é reconhecido como
-uma das vozes de maior destaque da nova geração de escritores nacionais.
-
-Trabalha como artista plástica e ilustradora desde 2008. Formada em
-Design Gráfico, Talita Hoffmann já participou de diversas mostras
+Talita Hoffman é artista plástica e ilustradora desde 2008. Formada em
+Design Gráfico, já participou de diversas mostras
 coletivas e individuais no Brasil e em países como Estados Unidos,
 Austrália, Finlândia, Espanha e Inglaterra. Seus trabalhos passam por
 estéticas folk e naïf, que partem da observação do entorno cotidiano, de
 espaços urbanos e desenhos arquitetônicos.
 
-036 
+Sobre o gênero
+--------------
+
+Um poema é um texto que não ocupa a folha inteira. Cada uma das linhas do poema se
+chama verso, e um conjunto de versos se chama estrofe. Quando um autor escreve um
+poema, ele está interessado em fazer brincadeiras com as palavras. Uma dessas
+brincadeiras se chama rima, que é a repetição de sons parecidos em palavras
+diferentes. Também rima com alguém, história rima com glória, papel rima com
+chapéu, difícil rima com precipício. Mas nem sempre. Os poetas passam horas pensando nessas
+combinações e divertem os leitores com elas. Embora sejam textos escritos, poemas
+são feitos para ler em voz alta, para a gente perceber as rimas ali dentro. Como
+algumas brincadeiras dos poetas ficam escondidas nos versos, para descobrir cada
+uma delas a gente tem que ler o poema em voz alta mais de uma vez: primeiro a gente
+lê sozinho, depois com o professor, e então com os colegas. E aí tudo de novo, quantas
+vezes a gente quiser, porque é divertido. Outra coisa que os poetas sabem fazer muito
+bem é encontrar sentidos escondidos na mesma palavra. Poetas gostam de palavras
+como manga, que pode ser a manga da camiseta ou a fruta docinha que a gente come.
+Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
+jogos com ela... 
+
+036 ✅ 
 ===
 
 Sobre o livro
 -------------
 
-Na curta e bela história de *O reino do meio da tarde*, somos
-apresentados a uma fábula de intensa carga poética sobre um reino que
-vivia no meio da tarde, sem manhãs ou noites.
+*O reino do meio da tarde*, é a história de um reino que
+vivia no meio da tarde, sem manhãs ou noites. Sem noite, não era possível observar
+as estrelas ou ninar bebês; sem manhãs, naõ dava para ver o sol nascer nem
+tirar um cochilo depois do almoço. Para resolver esse problema, a Princesa Lua vai 
+batalhar para conquistar manhãs, tardes e noites e trazer a felicidade para o reino.  
 
-Sem noite, não era possível realizar atividades noturnas, como observar
-as estrelas ou ninar bebês; sem manhãs, os habitantes do reino não
-tinham vontade de dançar e não usufruíam o prazer de ver o sol nascer ou
-tirar um cochilo depois do almoço, quando o sol começa a se pôr e
-amainar.
-
-Todos os dias nesse reino aquelas pessoas observavam o mesmo céu
-amarelo. Muitas partiram em busca do sol, para ver o dia nascer e
-morrer, como ferros de passar com asas e funis triunfantes, mas ninguém
-obteve sucesso. Os planetas não ouviam as preces e desejos daquele lugar
-sem horário.
-
-Até que a Princesa Lua, desejosa de ver uma manhã e uma madrugada, saiu
-resoluta do seu reino. Iria pedir que sua terra tivesse manhã, tarde e
-noite, e tanto argumentou até que seu pedido foi atendido. Uma bela
-estrela do berçário das constelações foi colhida e levada para o Reino
-do meio da tarde.
-
-A noite então invadiu o reino, e todos festejaram e celebraram em um
-baile iluminado por vagalumes e ritmado pelo som dos sapos, dançando até
-o dia raiar. Finalmente, assim, o reino pôde ser feliz, pois tinham o
-tempo: agora lá havia manhã, tarde e noite.
-
-SOBRE O autor
--------
-
-#### A autora
+Sobre a autora e o ilustrador
+-----------------------------
 
 Luana Chnaiderman nasceu em São Paulo, onde se formou em Letras e também
-fez o mestrado na Universidade de São Paulo ([usp]{.smallcaps}). É
+fez o mestrado na Universidade de São Paulo. É
 professora de Português e dá cursos de escrita criativa. Publicou
 *Minhocas*, (Cosac&Naif, 2014) e *Fuga* ([ftd]{.smallcaps}, 2017). Em
 2019, seu livro *Os animais domésticos e outras receitas* (Perspectiva,
-2018), foi finalista do prêmio Jabuti em 2019.
-
-#### O ilustrador
+2018), foi finalista do prêmio Jabuti.
 
 Andrés Sandoval, nascido em 1973 em São Paulo, é artista e ilustrador,
-formado em arquitetura e urbanismo pela Universidade de São Paulo
-([usp]{.smallcaps}). A partir de 2003 começou a desenvolver projetos de
+formado em arquitetura e urbanismo pela Universidade de São Paulo (USP). 
+A partir de 2003 começou a desenvolver projetos de
 livros, estampas e murais. Ilustrou e publicou livros por grandes selos
 editoriais brasileiros, como Companhia das Letras, Todavia e Editora
-Ubu. Participou da [x]{.smallcaps} e [xii]{.smallcaps} Bienal de
-Arquitetura de São Paulo, da exposição Cidade Gráfica no Itaú Cultural e
-Linhas de Histórias no [sesc]{.smallcaps} Santo André, Campinas e
-Araraquara. Entre seus parceiros de arquitetura e design, trabalha com
-Marcelo Rosenbaum, Grupo [sp]{.smallcaps}, [ps2]{.smallcaps} Design e
-Bloco Gráfico. Desenha as ilustrações das esquinas da revista *Piauí*.
+Ubu. Participou da X e XII Bienal de
+Arquitetura de São Paulo, da exposição *Cidade Gráfica* no Itaú Cultural e
+*Linhas de Histórias* no SESC Santo André, Campinas e
+Araraquara. Desenha as ilustrações das esquinas da revista *Piauí*.
 
-SOBRE O GÊNERO
+Sobre o gênero
+--------------
 
-A lenda e o mito são narrativas fantasiosas transmitidas pela tradição
-oral através dos tempos. De caráter fantástico, as lendas e os mitos
-combinam fatos reais e históricos com eventos que não têm comprovação de
-acontecimento, a não ser pela palavra dos que sobraram para contar a
-história. As lendas e mitos de uma sociedade são fundamentais para que
-entendamos quem são essas pessoas e no que acreditam, bem como suas
-tradições. Uma lenda é verdadeira até que se prove o contrário. Com
-exemplos bem definidos em todos os países do mundo, as lendas e os mitos
-de um povo geralmente fornecem explicações plausíveis, e até certo ponto
-aceitáveis, para coisas que não têm explicações científicas comprovadas,
-como acontecimentos misteriosos ou sobrenaturais.
-
-A fábula é uma narrativa curta em que os personagens principais
-geralmente são seres personificados. Esses seres apresentam
-características humanas, tais como a fala e traços de personalidade.
-Essas personagens podem ser também objetos animados ou deuses. Em cada
-história há uma lição de moral: uma mensagem de cunho educativo que
-busca conscientizar o leitor. A fábula tem estreita relação com o gênero
-conto, mas se diferencia pela centralidade dos personagens animais e
-pelo intuito de concluir a história com um ensinamento. É uma história
-que pode ser contada em prosa ou em versos.
-
-Sobre a origem da fábula, Douglas Tufano afirma que:
-
-> A fábula teria nascido provavelmente na Ásia Menor e daí teria passado
-> pelas ilhas gregas, chegando ao continente helênico. Há registros
-> sobre fábulas egípcias e hindus, mas sua criação é atribuída à Grécia,
-> pois é onde a fábula passa a ser considerada como um tipo específico
-> de criatividade dentro da teoria literária.
->
-> Na Grécia, os primeiros exemplos de fábula datam do século
-> [viii]{.smallcaps} a.C. Isso nos mostra, é claro, que Esopo não foi o
-> inventor do gênero, mas sim o mais conhecido fabulista na Antiguidade
-> como autor e narrador dessas pequenas histórias.[^43]
-
-Esopo foi um autor da Grécia Antiga a quem são atribuídas algumas das
-mais famosas fábulas, como *A raposa e o cacho de uvas* e *A galinha de
-ovos de ouro*. Diversas histórias suas foram recontadas por La Fontaine,
-que é também um dos mais clássicos fabulistas do Ocidente.
-
-No caso de *O reino do meio da tarde*, há os elementos típicos das
+No caso de *O reino do meio da tarde*, encontramos elementos típicos das
 lendas e fábulas.
 
 A história se inicia com o clássico "era uma vez", que já situa a
@@ -2997,124 +2938,52 @@ reino e, assim, inaugurar a manhã e a noite); e o desfecho feliz, no
 qual o herói retorna a casa e o problema é solucionado (todos no reino
 ficam felizes, pois passaram a ter o tempo que tanto almejaram).
 
-037 
+037 ✅
 ===
 
 Sobre o livro
 -------------
 
-*O galo Gogó* é um livro de literatura infantil composto por textos
-verbais e não verbais. Nele os leitores acompanham a rotina de um galo
-chamado Gogó. Com muitas ilustrações e textos, a cada página é
-apresentado um momento do dia, desde o amanhecer, quando Gogó acorda e
-canta seu "Cocoricó!" até a hora de ir dormir e sonhar em ser cantor.
+*O galo Gogó* é um livro cheio de textos e imagens. 
+Nele você vai acompanhar a rotina de um galo
+chamado Gogó, desde o amanhecer, quando ele acorda e
+canta seu "Cocoricó!", até a hora de ir dormir e sonhar em ser cantor. 
+Conhecido por sua importância no galinheiro, nesta
+história o galo está associado ao sol e ao trabalho. 
 
-Com este livro, os estudantes podem trabalhar diversos temas, como o
-conhecimento dos animais da fauna local e o respeito à biodiversidade,
-as formas geométricas das ilustrações, as transformações da natureza
-(amanhecer e anoitecer) e, principalmente, a forma poética da parlenda,
-que aparece aqui em íntima relação com um animal emblemático da cultura
-brasileira.
+Sobre o autor
+-------------
 
-Conhecido por sua importância para a manutenção do galinheiro, nesta
-história o galo é apresentado em seu aspecto mais simbólico: aquele que
-canta logo que o sol nasce e acorda as pessoas para o dia. Ele está, por
-isso, associado ao sol e ao trabalho. Tal associação, mais comum
-sobretudo na área rural, onde estes bichos existem em maior quantidade,
-é feita na obra por meio das ilustrações e da parlenda, abordando não
-apenas a poesia da escrita, como aquela criada e transmitida pela
-imagem.
-
-SOBRE O autor
--------
-
-#### O autor
--------
-
-Lucas-K, nome artístico de Lucas de Mesquita Kröeff, é um artista visual
-brasileiro. Bacharel em Design pela Universidade Federal de Minas Gerais
-([ufmg]{.smallcaps}) e em Artes Visuais pela Cambridge School of Arts
-(Ruskin School), na Inglaterra, desenvolve seus trabalhos numa interface
-livre entre iniciativas independentes, instituições de arte e editoras
+Lucas-K é um artista visual
+brasileiro. Estudou Design pela Universidade Federal de Minas Gerais
+e Artes Visuais pela Cambridge School of Arts
+(Ruskin School), na Inglaterra. Trabalha com iniciativas independentes, instituições de arte e editoras
 de livros, produzindo instalações, livros, vídeos e experiências
-coletivas.
+coletivas. Em seus trabalhos, conhecidos no mundo inteiro, explora a relação entre processos coletivos e a construção da sua própria
+subjetividade.
+Como artista gráfico, desenvolve capas de livros e coleções
+de livros usando o alfabeto como ferramenta de desenho conceitual. 
 
-Lucas Kröeff explora, em seus trabalhos, a relação entre história,
-política, imaginação coletiva e a construção da sua própria
-subjetividade, num processo de construção de redes de intercâmbio, assim
-como de procedimentos sistemáticos de organização da vida quotidiana.
+Sobre o gênero
+--------------
 
-#### Publicações
+Um poema é um texto que não ocupa a folha inteira. Cada uma das linhas do poema se
+chama verso, e um conjunto de versos se chama estrofe. Quando um autor escreve um
+poema, ele está interessado em fazer brincadeiras com as palavras. Uma dessas
+brincadeiras se chama rima, que é a repetição de sons parecidos em palavras
+diferentes. Também rima com alguém, história rima com glória, papel rima com
+chapéu, difícil rima com precipício. Mas nem sempre. Os poetas passam horas pensando nessas
+combinações e divertem os leitores com elas. Embora sejam textos escritos, poemas
+são feitos para ler em voz alta, para a gente perceber as rimas ali dentro. Como
+algumas brincadeiras dos poetas ficam escondidas nos versos, para descobrir cada
+uma delas a gente tem que ler o poema em voz alta mais de uma vez: primeiro a gente
+lê sozinho, depois com o professor, e então com os colegas. E aí tudo de novo, quantas
+vezes a gente quiser, porque é divertido. Outra coisa que os poetas sabem fazer muito
+bem é encontrar sentidos escondidos na mesma palavra. Poetas gostam de palavras
+como manga, que pode ser a manga da camiseta ou a fruta docinha que a gente come.
+Quando um poeta encontra uma palavra como essa, ele se lambuza de tanto fazer
+jogos com ela... 
 
-Como artista gráfico, Lucas Kröeff desenvolve capas de livros e coleções
-de livros usando o alfabeto como ferramenta de desenho conceitual. Ele
-já fez capas de livros de autores como Masha Alyokhina, Félix Guattari,
-Harriet Jacobs, Walter Benjamim, Franz Kafka, Fernando Pessoa, Celso
-Favaretto, Paul D. Escott, Baudelaire, Maquiavel, H.P. Lovecraft,
-Fernand Deligny, Stéphane Mallarmé e outros.
-
-#### Currículo
-
-Lucas Kröeff já teve trabalhos apresentados na 11ª Bienal de Arquitetura
-de São Paulo, Museu de Tecnologia de Cambridge, Cinemateca de São Paulo,
-Museu de Minas e Metal, [iiix]{.smallcaps} Festival Internacional de
-Videoarte de Barcelona e ARCOMadrid, entre outras instituições e
-galerias de arte. Em 2015 recebeu o Prêmio de Arte da Sustentabilidade
-em Cambridge (Reino Unido). Publica livros há mais de 10 anos.
-
-Foi cofundador e participou de vários coletivos de arte, incluindo a
-Atpress em Londres, bem como nos grupos [mapa]{.smallcaps},
-[banca]{.smallcaps} e Quadradocirculo no Brasil.
-
-SOBRE O GÊNERO
-
-Para uma primeira definição de poesia enquanto gênero literário,
-poder"-se"-ia recorrer à definição do professor Domingos Paschoal
-Cegalla, para quem "poesia é a linguagem subjetiva, carregada de emoção
-e sentimento, com ritmo melódico constante, bela e indefinível como o
-mundo interior do poeta visa a um efeito estético".[^44]
-
-Aprofundando um pouco essa definição, o crítico Antonio Candido expande
-a definição de poesia ao diferenciá"-la do verso. Para o crítico, a
-poesia enquanto ato criador do artista independe da forma métrica do
-verso, que passa a ser apenas um dos registros possíveis do poético:
-
-> A poesia não se confunde necessariamente com o verso, muito menos com
-> o verso metrificado. Pode haver poesia em prosa e poesia em verso
-> livre. \[...\] Pode ser feita em verso muita coisa que não é
-> poesia.[^45]
-
-Delineada, de forma breve e geral, a forma poética, pode"-se pensar
-agora em seus três gêneros básicos: lírico, épico e dramático. Para o
-crítico Anatol Rosenfeld, a lírica é o gênero mais subjetivo, no qual
-uma voz central exprime um estado de alma traduzido em orações poéticas.
-
-Seria a expressão de emoções e experiências vividas, "a plasmação
-imediata das vivências intensas de um Eu no encontro com o mundo, sem
-que se interponham eventos distendidos no tempo (como na Épica e na
-Dramática)".[^46]
-
-Devido a essa característica central da lírica, a expressão de um estado
-emocional, Rosenfeld considera que o eu"-lírico, nesse gênero, não se
-delineia enquanto um personagem. Embora possa evocar personagens e
-narrar acontecimentos, a lírica entendida enquanto gênero puro
-afasta"-se sobremaneira da apreensão objetiva do mundo, que não existe
-independente da subjetividade intensa que o apreende e exprime. Assim,
-na lírica prevalece a fusão entre o sujeito e o objeto, que serve mais a
-realçar os estados profundos de alma do poeta.
-
-Sobre os aspectos formais do gênero, Rosenfeld nota:
-
-> À intensidade expressiva, à concentração e ao caráter "imediato" do
-> poema lírico, associa"-se, como traço estilístico importante, o uso
-> do ritmo e da musicalidade das palavras e dos versos. De tal modo se
-> realça o valor da aura conotativa do verbo que este muitas vezes chega
-> a ter uma função mais sonora que lógico"-denotativa. A isso se liga a
-> preponderância da voz do presente que indica a ausência de distância,
-> geralmente associada ao pretérito. Este caráter do imediato, que se
-> manifesta na voz do presente, não é, porém, o de uma atualidade que se
-> processa e distende através do tempo (como na Dramática) mas de um
-> momento "eterno".[^47]
 
 038 
 ===
