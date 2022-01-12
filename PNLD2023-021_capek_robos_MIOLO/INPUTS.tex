@@ -20,8 +20,9 @@
 
 {\begingroup\mbox{}\pagestyle{empty}
 \pagestyle{empty} 
+\pagebreak
 % \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
-\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
+%\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \addtocontents{toc}{\protect\thispagestyle{empty}}
 \tableofcontents*\clearpage\endgroup}
 
@@ -40,7 +41,6 @@
 \input{TEXTO}
 \part{\textsc{paratexto}}
 \input{PARATEXTO}
-
 %\backmatter
 
 %Cronologia

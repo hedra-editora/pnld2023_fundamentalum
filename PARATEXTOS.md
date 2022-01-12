@@ -1389,7 +1389,7 @@ Naify, 2002, vencedor do Prêmio Jabuti de "Livro do Ano") e *Pelo
 nariz* (Cosac Naify, 2013,"Melhor Livro Infantil" da Biblioteca
 Nacional).
 
-Zansky Nasceu em 1979 e é ilustrador desde 2008. É bacharel em Artes 
+Zansky nasceu em 1979 e é ilustrador desde 2008. É bacharel em Artes 
 Plásticas pela Unesp. Trabalha com livros, revistas, vídeos, 
 capas e encartes de álbuns e posters.  
 
