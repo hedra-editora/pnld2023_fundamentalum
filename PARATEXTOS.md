@@ -1717,15 +1717,149 @@ jogos com ela...
 
 038 
 ===
-???
+
+Sobre o livro
+-------------
+*O reizinho que só falava sim* é o primeiro livro feito inteiramente pelo autor, Fê. Foi criado num momento importante de sua vida marcado por perdas quando ele passou a questionar sua posição em relação ao mundo. O livro conta a história de uma criança chamada Guilherme que vive no reino de seu pai, o rei George. Um dia Gui ocupará o lugar de seu pai e, para isso, deve aprender como se portar como tal. 
+
+A principal dificuldade que o reizinho Guilherme encontra é que ele não sabe dizer *não*, nem *talvez*. Sua única resposta aos pedidos dos outros, sobretudo de seus colegas que vêm brincar com seus numerosos brinquedos, que só o filho de um rei poderia ter,  é *sim*. Isto lhe aborrece pois nem sempre ele está à vontade para dar o que é seu. 
+
+A história começa a mudar quando o corpo do reizinho sofre grandes mudanças: todos os *nãos* e *talvez* que ele não disse fazem-no inchar cada vez mais. Caso não ocorra nenhuma mudança em seu comportamento, ele vai inchar tanto a ponto de explodir, aí sim, jorrando essas palavras para todos os lados. 
+
+Com este perigo eminente e com a ajuda de um amigo, o pássaro azul,
+o reizinho Gui aprende a responder de outras formas aos pedidos
+do mundo e sua vida se torna bem mais interessante e mais leve.
+
+Sobre o autor
+-------------
+Nascido em Santos, no litoral de São Paulo, Fernando Luiz, ou Fê, seu nome artístico, é um escritor e ilustrador que há algumas décadas trabalha nesta área. Mora desde 2005 em Londres mas sempre vem ao Brasil para uma temporada de divulgação de seu trabalho. Para ele, a criatividade é maior expressão de comunicação com o mundo, e não
+há lugar mais favorável para ela do que a literatura infantojuvenil. 
+
+Seus materiais de trabalho mais básicos são um *tablet* e uma caneta digital. A partir de um software chamado *Painter*, ele simula digitalmente várias técnicas da pintura tradicional, como a aquarela, o pastel, o carvão, o óleo, o lápis de cera, dentre outras, que garantem um estilo único e versátiol às suas ilustrações, cada vez mais interessantes. 
+
+Fê formou-se em Arquitetura na Universidade de Arquitetura e Urbanismo e Santos,  depois, em Comunicação Visual, e fez pós graduação em tecnologia gráfica na Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU-USP). Antes disso, ainda garoto, por indicação da professora de artes de sua escola,  foi matriculado numa escola de desenho e pintura, a Società Italiana di Beneficenza, onde teve seu primeiro contato mais especializado com as artes. 
+
+Sobre o gênero
+--------------
+Como se *contar uma história*? Um livro pode ser contato como um conto, uma crônica crônica,
+uma novela, um romance romance ou uma fábula. Cada jeito de contar 
+uma história ganha um nome diferente. 
+
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a v
+ida das personagens. Finalmente: o conto é um texto curto, muito bem amarradinho, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
 039 
 ===
-???
+
+Sobre o livro
+-------------
+*O corpo é meu, ninguém põe a mão* é um livro composto por três pessoas,
+duas escritoras e uma ilustradora. Ele conta a história de Estrela, uma gatinha
+que gosta de praticar atividades físicas, principalmente o salto. Tudo corre bem
+em sua vida de criança, até que uma raposa adulta, Lupi Lantra, aparece em sua casa e começa a investir maliciosamente na gatinha.
+
+Lupi seduz Estrela com presentes e elogios e a convida para sua casa. Lá,
+propõe atividades incomuns como tirar a roupa e tirar fotos da gatinha.
+Ela logo percebe que há algo estranho, mas, sob ameaças da raposa,
+é forçada a guardar segredo.
+
+Esta situação afeta a saúde de Estrela, que passa a perder o apetite e não
+prestar mais atenção nas aulas. Estas alterações ficam evidentes nas ilustrações
+da história, com a presença dos fantasmas da raposa ao redor de sua cabeça e
+de seu corpo.
+
+Por fim, com a ajuda de sua professora e diretora da escola, a gatinha
+Estrela consegue colocar para fora as suas inquietações que estavam
+lhe consumindo por dentro. Os adultos tomam uma previdência junto à justiça,
+a raposa Lupi Lantra é presa, e Estrela finalmente segue sua vida,
+tornando-se uma grande e bem sucedida atleta, o que era seu sonho.
+
+Sobre o autor
+-------------
+Denise Natale é formada em Jornalismo pela Fundação Armando Álvares Penteado (FAAP), trabalha com edição de livros na Editora Papagaio, e faz reportagens que ajudam na luta dos direitos de crianças e mulheres.
+Como editora, trabalhou na publicação de livros como *Gatos*, de 2015, e
+*O reizinho que só falava sim*, de 2021.
+
+Tatiane Moreira Lima é formada em Direito pela Pontifícia Universidade Católica de Campinas
+(PUC-Campinas). Atualmente é titular da Vara de Violência Doméstica e Familiar contra a Mulher, em São Miguel Paulista, zona leste da cidade de São Paulo. Conhece, portanto, de perto inúmeros casos de abuso quotidianamente. Já publicou trabalhos como *Violência doméstica e familiar*, e *O Poder Judiciário e a rede de garantias para os direitos das mulheres*, ambos no ano de 2016.
+
+Sobre a ilustradora
+-------------
+
+Veridiana Scarpelli nasceu em 1978 em São Paulo, onde mora e trabalha.
+É formada em Arquitetura e Urbanismo pela Faculdade de Arquitetura e Urbanismo da Universidade de São
+Paulo (FAU-USP). Trabalhou com projetos de móveis e objetos e deu várias voltas até entender, em 2007, que na ilustração estava seu lugar. Desde então, vem trilhando um caminho que começou com a ilustração de revistas e jornais. Em 2012, lançou seu primeiro livro como autora, *O Sonho de Vitório*, pela Editora Cosac Naify,
+e começou a gradativamente se aproximar deste mundo que tanto lhe agrada: a ilustração de livros. Foi três vezes finalista do prêmio Jabuti, em 2014, 2017 e 2018.
+
+
+Sobre o gênero
+-------------
+Como se *contar uma história*? Um livro pode ser contato como um conto, uma crônica crônica,
+uma novela, um romance romance ou uma fábula. Cada jeito de contar 
+uma história ganha um nome diferente. 
+
+O conto é uma narrativa curta. Como todas as coisas que são rápidas, o conto causa 
+uma impressão muito forte na gente: as personagens principais se metem numa confusão 
+e tem que resolver esse problema. Na maioria das vezes elas são criativas e inteligentes, 
+às vezes não. Tem outra coisa: tudo depende também de quem está contando a história, 
+o narrador. Será que o leitor sempre pode confiar nele? Será que o narrador não esconde 
+alguns detalhes para deixar a história mais interessante? Além disso, o lugar e o 
+momento em que as aventuras acontecem também podem ajudar ou complicar a v
+ida das personagens. Finalmente: o conto é um texto curto, muito bem amarradinho, 
+que te prende, porque tem uma história envolvente e um final surpreendente.
 
 040 
 ===
-???
+
+Sobre o livro
+-------------
+Por meio da poesia de cordel, o livro narra o nascimento do menino Jesus, sua relação com a festança do reisado nascida no Egito e suas formas de realização no Brasil.
+
+A história pode ser dividida em duas partes: na primeira, ouvimos a história de Maria e José, que vão para Belém, na atual Palestina, para participar do censo populacional. Lá vem à luz Jesus de Nazaré e, por meio da poesia, ouvimos a história dos três reis magos que vão visitá-lo e presenteá-lo.
+
+Na segunda parte, a autora começa a falar dos reisados, que são festas para celebrar o nascimento de Jesus. Ela conta como foi uma celebração surgida no Egito que, com a colonização, chegou ao Brasil e adquiriu tons e características próprias da nossa nação.
+
+Ela descreve então os diversos aspectos que constituem essa celebração popular: suas três modalidades (reisado de congo, de baile e de couro), a constituição do ciclo de reis, a dinâmica das danças, sua realização tradicional no Ceará, as personagens, vestimentas, as narrativas, o jogo de espadas, sua relação com a peça do Divino Espírito Santo, os alimentos das festanças etc.
+
+Sobre a autora
+-------------
+A poeta e cordelista Maria do Rosário Lustosa da Cruz nasceu em Juazeiro do Norte, Ceará, em 2 de novembro de 1953. Desde pequena se envolveu com o meio artístico de sua região, participando de programas de rádio, cinema e peças de teatro. Cantava no programa de calouro da Rádio Iracema, participou do filme *Padre Cícero: os milagres de Juazeiro* (1976) e foi integrante do Grupo Teatral Willian Shakespeare, com o qual participou da 1ª Bienal de Artes de Juazeiro do Norte com a peça *Soraia, Posto 2*.
+
+Sua aventura na escrita de cordéis, no entanto, se deu um pouco mais tarde. Aos 39 anos começou a escrever poesia de cordel e, oito anos depois, em 2000, já se dedicava integralmente à arte popular. Dessa época data sua participação no Projeto Letras Vivas da Lira Nordestina (2005), que tinha como objetivo resgatar a memória e a produção da literatura de cordel.
+
+Em 2011, junto ao professor Renato Dantas, fez parte do projeto de publicar 100 cordéis para celebrar os 100 anos de Juazeiro do Norte, o que deu origem à obra *100 Anos de Juazeiro Registrados no Cordel*. Entre 2014 e 2015 publicou mais dois livros dedicados ao tema: *Tempo de Saudade no embalo do cordel* e *Crato na Literatura de Cordel*.
+
+Desde 2001 a autora é membro do Instituto Cultural do Vale Caririense (ICVC). Dois anos depois ingressou na Academia dos Cordelistas da Cidade do Crato (ACC) e, em 2014, no Instituto Cultural do Cariri (ICC) e na Academia de Xilógrafos e Cordelistas do Cariri. A partir de 2011, passou a ocupar também uma posição na Associação dos Poetas de Barbalha (APB).
+
+Rosário Lustosa formou-se em Pedagogia em 2003, no ano seguinte fez uma pós-graduação em Língua Portuguesa e Arte Educação, com pesquisa em Literatura de Cordel, e em 2014 cursou Assistência Social.
+
+Sobre o gênero
+-------------
+Tem gente que fala que a palavra *cordel* veio de Portugal, onde
+os vendiam *folhetos* em feiras pendurados em barbantes, em
+cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
+chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
+ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+era mais conhecido como *romance* ou *folheto* mesmo.
+
+Um cordel tem histórias curtas contadas em versos rimados por personagens
+lendárias e quase sempre são feitos um a um na tipografia. Ele também tem com ilustrações
+feitas em xilogravura, uma técnica muito antiga que consiste em 
+desenhar numa maneira mais mole, depois passar tinta sobre ela 
+e daí aplicá-la sobre o papel, como se fosse um grande carimbo. 
+
+O cordel não tem nem um limite nem uma receita
+pronta. É o verso da nossa tradição popular brasileira. Hoje, os escritores 
+sente-se à vontade para falar de qualquer assunto, e dar opinião 
+sobre o mundo do nosso tempo. 
+
 
 
 
