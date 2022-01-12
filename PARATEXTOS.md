@@ -1577,9 +1577,9 @@ Sobre o livro
 -------------
 *O reizinho que só falava sim* é o primeiro livro feito inteiramente pelo autor, Fê. Foi criado num momento importante de sua vida marcado por perdas quando ele passou a questionar sua posição em relação ao mundo. O livro conta a história de uma criança chamada Guilherme que vive no reino de seu pai, o rei George. Um dia Gui ocupará o lugar de seu pai e, para isso, deve aprender como se portar como tal. 
 
-A principal dificuldade que o reizinho Guilherme encontra é que ele não sabe dizer *não*, nem *talvez*. Sua única resposta aos pedidos dos outros, sobretudo de seus colegas que vêm brincar com seus numerosos brinquedos, que só o filho de um rei poderia ter,  é *sim*. Isto lhe aborrece pois nem sempre ele está à vontade para dar o que é seu. 
+A principal dificuldade que o reizinho Guilherme encontra é que ele não sabe dizer *não*, nem *talvez*. Sua única resposta aos pedidos dos outros -- sobretudo de seus colegas que vêm brincar com seus numerosos brinquedos, que só o filho de um rei poderia ter --  é *sim*. Isto lhe aborrece pois nem sempre ele está à vontade para dar o que é seu. 
 
-A história começa a mudar quando o corpo do reizinho sofre grandes mudanças: todos os *nãos* e *talvez* que ele não disse fazem-no inchar cada vez mais. Caso não ocorra nenhuma mudança em seu comportamento, ele vai inchar tanto a ponto de explodir, aí sim, jorrando essas palavras para todos os lados. 
+A história começa a mudar quando o corpo do reizinho sofre grandes mudanças: todos os *nãos* e *talvez* que ele não disse o fazem inchar cada vez mais. Caso não ocorra nenhuma mudança em seu comportamento, ele vai inchar tanto a ponto de explodir, aí sim, jorrando essas palavras para todos os lados. 
 
 Com este perigo eminente e com a ajuda de um amigo, o pássaro azul,
 o reizinho Gui aprende a responder de outras formas aos pedidos
@@ -1590,7 +1590,7 @@ Sobre o autor
 Nascido em Santos, no litoral de São Paulo, Fernando Luiz, ou Fê, seu nome artístico, é um escritor e ilustrador que há algumas décadas trabalha nesta área. Mora desde 2005 em Londres mas sempre vem ao Brasil para uma temporada de divulgação de seu trabalho. Para ele, a criatividade é maior expressão de comunicação com o mundo, e não
 há lugar mais favorável para ela do que a literatura infantojuvenil. 
 
-Seus materiais de trabalho mais básicos são um *tablet* e uma caneta digital. A partir de um software chamado *Painter*, ele simula digitalmente várias técnicas da pintura tradicional, como a aquarela, o pastel, o carvão, o óleo, o lápis de cera, dentre outras, que garantem um estilo único e versátiol às suas ilustrações, cada vez mais interessantes. 
+Seus materiais de trabalho mais básicos são um *tablet* e uma caneta digital. A partir de um software chamado *Painter*, ele simula digitalmente várias técnicas da pintura tradicional, como a aquarela, o pastel, o carvão, o óleo, o lápis de cera, dentre outras, que garantem um estilo único e versátil às suas ilustrações, cada vez mais interessantes. 
 
 Fê formou-se em Arquitetura na Universidade de Arquitetura e Urbanismo e Santos,  depois, em Comunicação Visual, e fez pós graduação em tecnologia gráfica na Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU-USP). Antes disso, ainda garoto, por indicação da professora de artes de sua escola,  foi matriculado numa escola de desenho e pintura, a Società Italiana di Beneficenza, onde teve seu primeiro contato mais especializado com as artes. 
 
@@ -1631,8 +1631,7 @@ da história, com a presença dos fantasmas da raposa ao redor de sua cabeça e
 de seu corpo.
 
 Por fim, com a ajuda de sua professora e diretora da escola, a gatinha
-Estrela consegue colocar para fora as suas inquietações que estavam
-lhe consumindo por dentro. Os adultos tomam uma previdência junto à justiça,
+Estrela consegue expor as inquietações que a consumiam por dentro. Os adultos tomam providências legais,
 a raposa Lupi Lantra é presa, e Estrela finalmente segue sua vida,
 tornando-se uma grande e bem sucedida atleta, o que era seu sonho.
 
@@ -1685,7 +1684,7 @@ Ela descreve então os diversos aspectos que constituem essa celebração popula
 
 Sobre a autora
 -------------
-A poeta e cordelista Maria do Rosário Lustosa da Cruz nasceu em Juazeiro do Norte, Ceará, em 2 de novembro de 1953. Desde pequena se envolveu com o meio artístico de sua região, participando de programas de rádio, cinema e peças de teatro. Cantava no programa de calouro da Rádio Iracema, participou do filme *Padre Cícero: os milagres de Juazeiro* (1976) e foi integrante do Grupo Teatral Willian Shakespeare, com o qual participou da 1ª Bienal de Artes de Juazeiro do Norte com a peça *Soraia, Posto 2*.
+A poeta e cordelista Maria do Rosário Lustosa da Cruz nasceu em Juazeiro do Norte, Ceará, em 2 de novembro de 1953. Desde pequena se envolveu com o meio artístico de sua região, participando de programas de rádio, cinema e peças de teatro. Cantava no programa de calouro da Rádio Iracema, participou do filme *Padre Cícero: os milagres de Juazeiro* (1976) e foi integrante do Grupo Teatral William Shakespeare, com o qual participou da 1ª Bienal de Artes de Juazeiro do Norte com a peça *Soraia, Posto 2*.
 
 Sua aventura na escrita de cordéis, no entanto, se deu um pouco mais tarde. Aos 39 anos começou a escrever poesia de cordel e, oito anos depois, em 2000, já se dedicava integralmente à arte popular. Dessa época data sua participação no Projeto Letras Vivas da Lira Nordestina (2005), que tinha como objetivo resgatar a memória e a produção da literatura de cordel.
 
@@ -1698,10 +1697,10 @@ Rosário Lustosa formou-se em Pedagogia em 2003, no ano seguinte fez uma pós-gr
 Sobre o gênero
 -------------
 Tem gente que fala que a palavra *cordel* veio de Portugal, onde
-os vendiam *folhetos* em feiras pendurados em barbantes, em
+os *folhetos* eram vendidos em feiras, pendurados em barbantes, em
 cordões que se chamavam cordéis. Tem outros que dizem que o cordel era assim
 chamado porque os próprio livrinhos eram costurados com barbantes. No Brasil,
-ninguém usava a palavra cordel até pouco tempo.  Por aqui ele 
+ninguém usava a palavra cordel até pouco tempo. Por aqui ele 
 era mais conhecido como *romance* ou *folheto* mesmo.
 
 Um cordel tem histórias curtas contadas em versos rimados por personagens
