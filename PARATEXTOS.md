@@ -40,6 +40,8 @@ alguns anos com desenho animado.
 Ele também adora o mundo das crianças.
 E já faz um tempão que ele trabalha desenhando para crianças como você.
 
+Quem traduziu esse livro foi Jorge Sallum, que nasceu em São Paulo e gosta de estudar literatura, história, filosofia e línguas estrangeiras.   
+
 Sobre o gênero
 --------------
 
@@ -97,6 +99,8 @@ No caso de *Pedrinho petrificado*, as ilustrações possuem
 cores vivas, texturas delicadas e detalhes que dão harmonia para as
 páginas. O trabalho de composição entre texto e imagem torna a narrativa
 mais especial e convidativa.
+
+O tradutor deste livro é Renato Rezende. Ele iniciou seus estudos acadêmicos no Instituto de Psicologia da Universidade de São Paulo – USP, e foi diplomado \textit{summa cum laude} como Bachelor of Arts pela University of Boston – Umass/Boston, em 1989. É mestre e doutor em Arte e Cultura Contemporânea no Instituto de Artes da UERJ e pesquisador visitante do Museo Reina Sofia, em Madrid. Também é tradutor, editor-chefe da editora Circuito e curador.
 
 Sobre o gênero
 --------------
@@ -1693,6 +1697,11 @@ Em 2011, junto ao professor Renato Dantas, fez parte do projeto de publicar 100 
 Desde 2001 a autora é membro do Instituto Cultural do Vale Caririense (ICVC). Dois anos depois ingressou na Academia dos Cordelistas da Cidade do Crato (ACC) e, em 2014, no Instituto Cultural do Cariri (ICC) e na Academia de Xilógrafos e Cordelistas do Cariri. A partir de 2011, passou a ocupar também uma posição na Associação dos Poetas de Barbalha (APB).
 
 Rosário Lustosa formou-se em Pedagogia em 2003, no ano seguinte fez uma pós-graduação em Língua Portuguesa e Arte Educação, com pesquisa em Literatura de Cordel, e em 2014 cursou Assistência Social.
+
+Sobre o ilustrador
+------------------
+
+Reginaldo Farias é ilustrador e designer. Mora na região do Cariri Cearense. Além de ilustrar, faz cinema com os amigos, exibindo, por meio de sons e imagens, um pouco da tradição e história da região. Tem cinco filhos -- e é com eles que aprende a ser sempre criança. 
 
 Sobre o gênero
 -------------
