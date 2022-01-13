@@ -1697,7 +1697,7 @@ Rosário Lustosa formou-se em Pedagogia em 2003, no ano seguinte fez uma pós-gr
 Sobre o ilustrador
 ------------------
 
-Reginaldo Farias é ilustrador e designer. Mora na região do Cariri Cearense. Além de ilustrar, faz cinema com os amigos, exibindo, por meio de sons e imagens, um pouco da tradição e história da região. Tem cinco filhos -- e é com eles que eu aprende a sempre ser criança. 
+Reginaldo Farias é ilustrador e designer. Mora na região do Cariri Cearense. Além de ilustrar, faz cinema com os amigos, exibindo, por meio de sons e imagens, um pouco da tradição e história da região. Tem cinco filhos -- e é com eles que aprende a ser sempre criança. 
 
 Sobre o gênero
 -------------
