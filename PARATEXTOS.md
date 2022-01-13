@@ -40,6 +40,8 @@ alguns anos com desenho animado.
 Ele também adora o mundo das crianças.
 E já faz um tempão que ele trabalha desenhando para crianças como você.
 
+Quem traduziu esse livro foi Jorge Sallum, que nasceu em São Paulo e gosta de estudar literatura, história, filosofia e línguas estrangeiras.   
+
 Sobre o gênero
 --------------
 
