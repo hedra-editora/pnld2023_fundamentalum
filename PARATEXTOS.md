@@ -100,6 +100,8 @@ cores vivas, texturas delicadas e detalhes que dão harmonia para as
 páginas. O trabalho de composição entre texto e imagem torna a narrativa
 mais especial e convidativa.
 
+O tradutor deste livro é Renato Rezende. Ele iniciou seus estudos acadêmicos no Instituto de Psicologia da Universidade de São Paulo – USP, e foi diplomado \textit{summa cum laude} como Bachelor of Arts pela University of Boston – Umass/Boston, em 1989. É mestre e doutor em Arte e Cultura Contemporânea no Instituto de Artes da UERJ e pesquisador visitante do Museo Reina Sofia, em Madrid. Também é tradutor, editor-chefe da editora Circuito e curador.
+
 Sobre o gênero
 --------------
 
